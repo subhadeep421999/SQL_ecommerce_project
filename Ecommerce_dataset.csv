@@ -1,0 +1,1001 @@
+customer_id,customer_first_name,customer_last_name,category_name,customer_segment,customer_city,customer_state,customer_country,customer_region,delivery_status,order_date,shipping_type,order_item_discount,order_quantity,product_name,order_id,days_for_shipment_scheduled,days_for_shipment_real,ship_date,sales_per_order,profit_per_order
+CUST1000,Liam,Smith,Clothing,Corporate,Kolkata,Telangana,India,South,Shipped,2024-08-12,Same Day,0.0,3,T-Shirt,ORD10000,2,0,2024-08-12,345.11,72.24
+CUST1001,Sophia,Davis,Books,Consumer,Chennai,Maharashtra,India,East,Returned,2023-03-16,Standard Class,0.02,1,Fiction Novel,ORD10001,6,8,2023-03-24,860.86,50.58
+CUST1002,Ava,Brown,Beauty,Consumer,Chennai,West Bengal,India,East,Delivered,2023-02-11,First Class,0.08,4,Shampoo,ORD10002,2,3,2023-02-14,3967.29,648.21
+CUST1003,David,Brown,Toys,Home Office,Delhi,West Bengal,India,East,Delivered,2024-02-26,Standard Class,0.2,4,Action Figure,ORD10003,3,2,2024-02-28,1856.69,240.7
+CUST1004,Liam,Jones,Electronics,Corporate,Kolkata,Telangana,India,West,Delivered,2023-06-30,Second Class,0.27,4,Laptop,ORD10004,8,10,2023-07-10,679.89,138.96
+CUST1005,Isabella,Davis,Electronics,Home Office,Mumbai,Telangana,India,East,Shipped,2024-06-28,Same Day,0.14,1,Headphones,ORD10005,5,4,2024-07-02,4982.61,287.42
+CUST1006,Michael,Jones,Home & Kitchen,Home Office,Hyderabad,Karnataka,India,West,Shipped,2023-03-12,Standard Class,0.18,3,Vacuum Cleaner,ORD10006,6,4,2023-03-16,3957.53,515.82
+CUST1007,Liam,Davis,Toys,Home Office,Bangalore,Tamil Nadu,India,South,Cancelled,2024-07-21,Second Class,0.06,4,Doll,ORD10007,7,9,2024-07-30,2102.83,441.2
+CUST1008,Ava,Martinez,Sports,Consumer,Delhi,Karnataka,India,East,Returned,2023-04-15,Same Day,0.24,4,Yoga Mat,ORD10008,5,6,2023-04-21,4134.4,638.93
+CUST1009,David,Smith,Books,Consumer,Bangalore,Karnataka,India,South,Shipped,2023-07-19,Second Class,0.29,4,Biography,ORD10009,6,5,2023-07-24,3434.96,549.62
+CUST1010,Sophia,Martinez,Home & Kitchen,Corporate,Mumbai,Tamil Nadu,India,North,Delivered,2023-04-11,Standard Class,0.08,2,Vacuum Cleaner,ORD10010,5,3,2023-04-14,3970.88,275.71
+CUST1011,Ava,Rodriguez,Sports,Corporate,Mumbai,Maharashtra,India,South,Delivered,2023-11-03,Second Class,0.15,1,Yoga Mat,ORD10011,3,5,2023-11-08,4094.51,313.09
+CUST1012,Ava,Garcia,Clothing,Home Office,Chennai,Karnataka,India,North,Shipped,2024-08-08,First Class,0.03,1,Dress,ORD10012,5,4,2024-08-12,515.17,95.51
+CUST1013,Michael,Williams,Books,Home Office,Mumbai,Karnataka,India,South,Shipped,2024-01-12,Same Day,0.17,1,Textbook,ORD10013,2,1,2024-01-13,3152.57,583.25
+CUST1014,Olivia,Davis,Clothing,Home Office,Bangalore,West Bengal,India,West,Shipped,2024-02-03,Second Class,0.15,1,T-Shirt,ORD10014,9,10,2024-02-13,133.25,32.76
+CUST1015,David,Rodriguez,Toys,Corporate,Kolkata,Tamil Nadu,India,South,Cancelled,2023-08-09,Standard Class,0.04,1,Action Figure,ORD10015,5,3,2023-08-12,312.94,60.21
+CUST1016,Emma,Garcia,Beauty,Consumer,Kolkata,Delhi,India,West,Delivered,2024-08-17,Same Day,0.13,2,Moisturizer,ORD10016,6,6,2024-08-23,4529.5,673.3
+CUST1017,Ava,Miller,Books,Consumer,Chennai,Maharashtra,India,West,Cancelled,2023-07-01,First Class,0.1,3,Biography,ORD10017,7,6,2023-07-07,2685.06,594.65
+CUST1018,Olivia,Smith,Sports,Home Office,Hyderabad,Maharashtra,India,East,Cancelled,2023-11-03,Same Day,0.16,2,Tennis Racket,ORD10018,7,9,2023-11-12,3705.92,262.73
+CUST1019,Emma,Jones,Beauty,Home Office,Bangalore,Tamil Nadu,India,West,Returned,2024-06-05,First Class,0.18,4,Perfume,ORD10019,9,10,2024-06-15,4208.65,588.62
+CUST1020,David,Jones,Electronics,Home Office,Bangalore,Telangana,India,North,Delivered,2024-01-31,Same Day,0.0,2,Headphones,ORD10020,4,5,2024-02-05,4752.98,510.57
+CUST1021,John,Martinez,Sports,Home Office,Mumbai,Telangana,India,East,Delivered,2023-01-04,Second Class,0.23,1,Yoga Mat,ORD10021,9,8,2023-01-12,4359.83,309.23
+CUST1022,Isabella,Brown,Home & Kitchen,Corporate,Bangalore,West Bengal,India,East,Shipped,2023-10-08,Second Class,0.21,2,Lamp,ORD10022,8,7,2023-10-15,2468.23,500.31
+CUST1023,Olivia,Garcia,Electronics,Consumer,Delhi,West Bengal,India,South,Shipped,2023-08-03,Standard Class,0.11,1,Smartphone,ORD10023,5,4,2023-08-07,1746.25,265.71
+CUST1024,Noah,Miller,Electronics,Home Office,Hyderabad,Tamil Nadu,India,West,Returned,2024-02-24,First Class,0.02,2,Laptop,ORD10024,7,7,2024-03-02,857.02,138.28
+CUST1025,John,Rodriguez,Home & Kitchen,Corporate,Mumbai,West Bengal,India,West,Cancelled,2023-04-11,Standard Class,0.23,1,Mixer,ORD10025,9,8,2023-04-19,2061.58,272.65
+CUST1026,Isabella,Smith,Books,Home Office,Delhi,Maharashtra,India,North,Shipped,2024-06-04,Second Class,0.29,4,Textbook,ORD10026,5,3,2024-06-07,1895.82,269.33
+CUST1027,Michael,Garcia,Electronics,Home Office,Chennai,Maharashtra,India,South,Shipped,2024-07-26,First Class,0.07,1,Headphones,ORD10027,8,10,2024-08-05,2841.92,208.04
+CUST1028,Liam,Miller,Toys,Consumer,Kolkata,Delhi,India,South,Delivered,2023-11-05,Standard Class,0.1,2,Board Game,ORD10028,7,6,2023-11-11,3361.0,620.39
+CUST1029,Sophia,Williams,Sports,Home Office,Chennai,Telangana,India,East,Delivered,2024-05-24,Standard Class,0.06,4,Football,ORD10029,8,8,2024-06-01,4893.79,667.95
+CUST1030,Noah,Davis,Beauty,Consumer,Kolkata,Tamil Nadu,India,East,Shipped,2023-03-04,Standard Class,0.17,2,Moisturizer,ORD10030,5,7,2023-03-11,3669.09,782.81
+CUST1031,Michael,Jones,Electronics,Consumer,Chennai,Karnataka,India,East,Delivered,2023-08-14,Standard Class,0.05,4,Smartwatch,ORD10031,6,7,2023-08-21,3254.37,290.48
+CUST1032,David,Rodriguez,Sports,Consumer,Bangalore,Telangana,India,North,Returned,2023-04-15,Standard Class,0.11,3,Yoga Mat,ORD10032,5,4,2023-04-19,1741.95,158.54
+CUST1033,Michael,Jones,Clothing,Corporate,Delhi,Karnataka,India,North,Shipped,2024-02-29,First Class,0.21,3,Jeans,ORD10033,9,11,2024-03-11,269.07,48.2
+CUST1034,Liam,Rodriguez,Sports,Corporate,Kolkata,Delhi,India,East,Delivered,2023-09-12,Standard Class,0.17,3,Football,ORD10034,8,9,2023-09-21,1511.81,331.39
+CUST1035,David,Martinez,Beauty,Consumer,Mumbai,Delhi,India,South,Returned,2024-03-04,First Class,0.12,2,Shampoo,ORD10035,6,6,2024-03-10,3865.39,558.32
+CUST1036,Noah,Brown,Sports,Home Office,Delhi,West Bengal,India,North,Delivered,2024-03-09,Standard Class,0.13,2,Football,ORD10036,6,4,2024-03-13,1105.83,216.07
+CUST1037,Liam,Rodriguez,Home & Kitchen,Consumer,Mumbai,Delhi,India,South,Delivered,2023-07-26,Second Class,0.17,4,Mixer,ORD10037,4,3,2023-07-29,3589.72,896.95
+CUST1038,Emma,Jones,Beauty,Home Office,Delhi,Delhi,India,South,Delivered,2023-01-28,Second Class,0.0,4,Moisturizer,ORD10038,7,5,2023-02-02,2940.92,729.5
+CUST1039,Sophia,Martinez,Books,Consumer,Delhi,Karnataka,India,West,Shipped,2023-12-02,Standard Class,0.02,4,Textbook,ORD10039,2,2,2023-12-04,942.1,187.35
+CUST1040,Noah,Rodriguez,Clothing,Home Office,Chennai,West Bengal,India,East,Cancelled,2024-08-10,Same Day,0.26,4,Dress,ORD10040,6,8,2024-08-18,1381.96,273.51
+CUST1041,Emma,Williams,Home & Kitchen,Corporate,Kolkata,Delhi,India,West,Delivered,2023-03-10,Second Class,0.02,1,Cookware Set,ORD10041,8,10,2023-03-20,2531.89,251.98
+CUST1042,Isabella,Brown,Books,Home Office,Kolkata,Telangana,India,East,Returned,2024-05-27,First Class,0.21,3,Fiction Novel,ORD10042,7,7,2024-06-03,2150.04,465.93
+CUST1043,Noah,Rodriguez,Sports,Consumer,Delhi,Delhi,India,East,Shipped,2023-06-16,Standard Class,0.28,1,Dumbbells,ORD10043,3,3,2023-06-19,3914.96,512.94
+CUST1044,Isabella,Martinez,Beauty,Corporate,Bangalore,West Bengal,India,South,Shipped,2024-01-03,First Class,0.08,1,Lipstick,ORD10044,5,4,2024-01-07,3698.58,896.53
+CUST1045,David,Garcia,Clothing,Home Office,Bangalore,Tamil Nadu,India,East,Returned,2023-09-08,Same Day,0.11,1,Jacket,ORD10045,9,10,2023-09-18,2915.42,193.25
+CUST1046,Emma,Johnson,Home & Kitchen,Home Office,Mumbai,West Bengal,India,South,Delivered,2023-06-19,Standard Class,0.17,1,Vacuum Cleaner,ORD10046,8,6,2023-06-25,4129.15,566.39
+CUST1047,Sophia,Miller,Books,Home Office,Mumbai,Karnataka,India,South,Cancelled,2023-03-31,Second Class,0.26,3,Comics,ORD10047,3,1,2023-04-01,2857.08,460.47
+CUST1048,Liam,Johnson,Books,Home Office,Chennai,Tamil Nadu,India,East,Delivered,2024-07-14,First Class,0.28,1,Comics,ORD10048,8,10,2024-07-24,4825.51,632.29
+CUST1049,Ava,Johnson,Clothing,Home Office,Delhi,Telangana,India,South,Returned,2024-03-21,Second Class,0.22,4,T-Shirt,ORD10049,5,7,2024-03-28,1164.4,107.26
+CUST1050,Michael,Smith,Toys,Corporate,Mumbai,Maharashtra,India,South,Shipped,2023-10-21,Second Class,0.03,2,Action Figure,ORD10050,4,3,2023-10-24,3599.25,606.83
+CUST1051,John,Williams,Sports,Corporate,Mumbai,West Bengal,India,South,Cancelled,2023-05-30,Standard Class,0.2,4,Tennis Racket,ORD10051,8,8,2023-06-07,1912.73,384.81
+CUST1052,Sophia,Garcia,Clothing,Corporate,Hyderabad,Karnataka,India,North,Shipped,2023-05-12,First Class,0.12,2,Dress,ORD10052,6,4,2023-05-16,1466.93,262.53
+CUST1053,Emma,Davis,Books,Corporate,Delhi,Telangana,India,South,Returned,2024-03-08,Same Day,0.14,4,Textbook,ORD10053,2,1,2024-03-09,983.9,95.33
+CUST1054,Ava,Rodriguez,Electronics,Consumer,Chennai,Tamil Nadu,India,North,Delivered,2023-02-28,Second Class,0.01,4,Headphones,ORD10054,6,8,2023-03-08,2807.27,551.13
+CUST1055,Sophia,Miller,Home & Kitchen,Corporate,Mumbai,Telangana,India,North,Cancelled,2023-07-18,Standard Class,0.06,2,Lamp,ORD10055,5,7,2023-07-25,1155.8,117.17
+CUST1056,Emma,Brown,Clothing,Home Office,Chennai,West Bengal,India,South,Shipped,2023-08-03,Standard Class,0.24,3,Dress,ORD10056,8,6,2023-08-09,1081.72,91.99
+CUST1057,Olivia,Garcia,Toys,Home Office,Kolkata,Delhi,India,South,Shipped,2024-07-14,Same Day,0.14,1,Doll,ORD10057,2,4,2024-07-18,4953.61,931.94
+CUST1058,Olivia,Jones,Books,Corporate,Chennai,West Bengal,India,North,Shipped,2024-04-16,Standard Class,0.09,4,Biography,ORD10058,6,8,2024-04-24,4028.56,880.47
+CUST1059,Isabella,Davis,Sports,Home Office,Bangalore,Maharashtra,India,North,Delivered,2023-09-04,Second Class,0.12,3,Yoga Mat,ORD10059,2,3,2023-09-07,3766.56,551.08
+CUST1060,Sophia,Smith,Books,Corporate,Bangalore,West Bengal,India,South,Cancelled,2024-01-17,Standard Class,0.26,1,Textbook,ORD10060,9,9,2024-01-26,3990.9,623.69
+CUST1061,Olivia,Smith,Sports,Home Office,Chennai,Tamil Nadu,India,South,Delivered,2023-08-27,First Class,0.22,3,Football,ORD10061,5,7,2023-09-03,4847.72,535.91
+CUST1062,Emma,Garcia,Clothing,Consumer,Bangalore,Tamil Nadu,India,East,Delivered,2024-01-02,First Class,0.08,3,T-Shirt,ORD10062,4,5,2024-01-07,2909.06,433.23
+CUST1063,Isabella,Martinez,Sports,Consumer,Kolkata,West Bengal,India,North,Delivered,2023-06-17,Second Class,0.04,1,Dumbbells,ORD10063,4,3,2023-06-20,1179.19,90.09
+CUST1064,Emma,Johnson,Beauty,Corporate,Delhi,Tamil Nadu,India,North,Returned,2024-07-13,First Class,0.08,4,Lipstick,ORD10064,8,10,2024-07-23,4324.83,1043.0
+CUST1065,Isabella,Jones,Beauty,Corporate,Bangalore,Delhi,India,East,Returned,2023-02-20,Same Day,0.28,3,Perfume,ORD10065,6,5,2023-02-25,3739.38,785.54
+CUST1066,Sophia,Smith,Beauty,Corporate,Bangalore,Telangana,India,North,Returned,2024-01-15,Standard Class,0.17,4,Shampoo,ORD10066,3,5,2024-01-20,2130.11,391.08
+CUST1067,Ava,Miller,Toys,Home Office,Chennai,West Bengal,India,West,Cancelled,2024-04-18,Second Class,0.16,4,Board Game,ORD10067,5,3,2024-04-21,2420.49,381.56
+CUST1068,Liam,Smith,Toys,Corporate,Kolkata,Delhi,India,North,Delivered,2023-03-21,Same Day,0.18,4,Action Figure,ORD10068,6,7,2023-03-28,2115.14,440.87
+CUST1069,Noah,Brown,Electronics,Consumer,Delhi,Telangana,India,East,Delivered,2024-01-02,Standard Class,0.11,1,Smartwatch,ORD10069,6,7,2024-01-09,4656.72,693.63
+CUST1070,Ava,Rodriguez,Toys,Home Office,Chennai,Telangana,India,West,Returned,2024-04-05,Same Day,0.24,2,Action Figure,ORD10070,4,2,2024-04-07,1783.3,196.15
+CUST1071,David,Smith,Clothing,Corporate,Chennai,Delhi,India,South,Delivered,2024-06-22,Second Class,0.16,4,Dress,ORD10071,8,8,2024-06-30,4821.07,395.69
+CUST1072,Emma,Brown,Books,Home Office,Hyderabad,Karnataka,India,East,Delivered,2024-03-27,Second Class,0.04,2,Biography,ORD10072,2,3,2024-03-30,4560.33,818.66
+CUST1073,David,Garcia,Books,Home Office,Kolkata,West Bengal,India,East,Shipped,2024-04-08,Same Day,0.04,2,Textbook,ORD10073,5,4,2024-04-12,3189.55,752.37
+CUST1074,Ava,Garcia,Electronics,Corporate,Delhi,Telangana,India,South,Delivered,2024-04-22,Standard Class,0.16,3,Laptop,ORD10074,9,10,2024-05-02,2941.13,237.42
+CUST1075,Isabella,Davis,Toys,Home Office,Kolkata,Telangana,India,East,Shipped,2024-02-24,First Class,0.28,4,Board Game,ORD10075,2,2,2024-02-26,1913.44,164.56
+CUST1076,Noah,Smith,Sports,Consumer,Delhi,Tamil Nadu,India,North,Delivered,2023-08-02,First Class,0.09,4,Tennis Racket,ORD10076,7,6,2023-08-08,189.86,25.96
+CUST1077,Noah,Miller,Electronics,Consumer,Kolkata,Telangana,India,South,Cancelled,2024-01-04,Same Day,0.26,4,Smartphone,ORD10077,7,6,2024-01-10,725.35,153.32
+CUST1078,John,Smith,Sports,Home Office,Chennai,Delhi,India,East,Returned,2023-04-24,Second Class,0.23,2,Tennis Racket,ORD10078,5,3,2023-04-27,3795.73,412.92
+CUST1079,Noah,Miller,Sports,Corporate,Chennai,Telangana,India,South,Shipped,2024-05-17,Standard Class,0.07,1,Tennis Racket,ORD10079,8,10,2024-05-27,2410.55,242.94
+CUST1080,Liam,Williams,Home & Kitchen,Home Office,Mumbai,Karnataka,India,South,Returned,2024-08-10,Standard Class,0.01,2,Mixer,ORD10080,3,1,2024-08-11,834.21,145.15
+CUST1081,Noah,Davis,Books,Consumer,Bangalore,West Bengal,India,South,Shipped,2023-11-07,Second Class,0.03,4,Textbook,ORD10081,7,9,2023-11-16,1393.41,218.94
+CUST1082,Ava,Williams,Beauty,Home Office,Hyderabad,West Bengal,India,West,Shipped,2024-04-13,First Class,0.22,4,Shampoo,ORD10082,4,2,2024-04-15,4744.4,294.36
+CUST1083,John,Smith,Toys,Home Office,Kolkata,Telangana,India,East,Shipped,2023-02-13,Standard Class,0.06,4,Action Figure,ORD10083,3,5,2023-02-18,1898.95,125.9
+CUST1084,Ava,Davis,Sports,Consumer,Hyderabad,Maharashtra,India,West,Cancelled,2024-02-19,Same Day,0.11,2,Tennis Racket,ORD10084,6,7,2024-02-26,4547.64,812.22
+CUST1085,Ava,Williams,Home & Kitchen,Home Office,Mumbai,Maharashtra,India,East,Delivered,2023-09-03,First Class,0.15,4,Vacuum Cleaner,ORD10085,7,6,2023-09-09,1592.72,227.8
+CUST1086,Michael,Johnson,Books,Home Office,Bangalore,Delhi,India,North,Shipped,2023-03-25,Same Day,0.22,3,Biography,ORD10086,4,6,2023-03-31,2761.78,674.41
+CUST1087,John,Smith,Beauty,Corporate,Kolkata,Maharashtra,India,North,Cancelled,2023-07-26,First Class,0.03,4,Moisturizer,ORD10087,6,7,2023-08-02,200.34,37.2
+CUST1088,Ava,Williams,Sports,Corporate,Delhi,Delhi,India,North,Shipped,2023-05-31,Second Class,0.12,1,Yoga Mat,ORD10088,3,3,2023-06-03,2657.19,138.21
+CUST1089,Michael,Johnson,Sports,Consumer,Bangalore,Tamil Nadu,India,East,Delivered,2024-06-11,Same Day,0.15,3,Tennis Racket,ORD10089,5,3,2024-06-14,3221.02,470.93
+CUST1090,Michael,Johnson,Electronics,Consumer,Chennai,Delhi,India,South,Shipped,2023-06-14,Same Day,0.16,4,Headphones,ORD10090,6,6,2023-06-20,1248.09,165.86
+CUST1091,John,Garcia,Electronics,Consumer,Mumbai,Maharashtra,India,South,Cancelled,2023-05-25,Second Class,0.25,3,Laptop,ORD10091,2,3,2023-05-28,2936.79,209.52
+CUST1092,David,Smith,Books,Corporate,Bangalore,Telangana,India,West,Delivered,2023-02-06,Same Day,0.05,4,Fiction Novel,ORD10092,5,5,2023-02-11,3271.12,767.54
+CUST1093,Isabella,Johnson,Beauty,Consumer,Bangalore,Tamil Nadu,India,West,Cancelled,2023-11-29,First Class,0.24,1,Lipstick,ORD10093,5,5,2023-12-04,3465.74,731.28
+CUST1094,Liam,Garcia,Sports,Consumer,Chennai,Maharashtra,India,North,Delivered,2024-02-07,Standard Class,0.21,4,Yoga Mat,ORD10094,3,4,2024-02-11,3904.38,374.89
+CUST1095,Isabella,Williams,Books,Consumer,Kolkata,Delhi,India,West,Delivered,2024-02-18,Standard Class,0.17,3,Textbook,ORD10095,3,2,2024-02-20,1625.56,164.5
+CUST1096,Noah,Brown,Books,Corporate,Delhi,Karnataka,India,East,Returned,2023-02-14,Second Class,0.21,1,Fiction Novel,ORD10096,4,6,2023-02-20,2882.11,162.56
+CUST1097,Liam,Smith,Clothing,Home Office,Chennai,West Bengal,India,East,Returned,2024-02-06,First Class,0.12,2,Dress,ORD10097,4,2,2024-02-08,4909.74,536.85
+CUST1098,Noah,Davis,Toys,Consumer,Delhi,Maharashtra,India,West,Returned,2023-07-25,Same Day,0.04,1,Action Figure,ORD10098,2,4,2023-07-29,4500.91,751.31
+CUST1099,Ava,Miller,Electronics,Home Office,Kolkata,Delhi,India,West,Delivered,2023-03-03,Same Day,0.2,1,Laptop,ORD10099,5,3,2023-03-06,4768.06,639.72
+CUST1100,Emma,Miller,Beauty,Consumer,Bangalore,Tamil Nadu,India,West,Shipped,2024-02-24,Standard Class,0.16,1,Moisturizer,ORD10100,9,11,2024-03-06,1992.07,485.77
+CUST1101,John,Williams,Sports,Home Office,Delhi,Maharashtra,India,West,Cancelled,2024-04-12,Same Day,0.19,3,Football,ORD10101,8,8,2024-04-20,3955.95,242.17
+CUST1102,Liam,Martinez,Books,Corporate,Mumbai,Maharashtra,India,North,Cancelled,2023-01-19,Standard Class,0.1,1,Comics,ORD10102,2,1,2023-01-20,3137.5,528.0
+CUST1103,Liam,Martinez,Sports,Corporate,Mumbai,West Bengal,India,North,Cancelled,2023-12-31,Second Class,0.27,4,Dumbbells,ORD10103,2,2,2024-01-02,505.4,112.03
+CUST1104,Ava,Williams,Clothing,Consumer,Chennai,Delhi,India,West,Returned,2023-10-27,Same Day,0.18,1,Dress,ORD10104,8,7,2023-11-03,4137.5,604.69
+CUST1105,David,Johnson,Beauty,Home Office,Kolkata,Karnataka,India,East,Delivered,2023-01-07,First Class,0.03,1,Shampoo,ORD10105,8,9,2023-01-16,3417.8,172.92
+CUST1106,Michael,Smith,Books,Corporate,Chennai,Tamil Nadu,India,North,Returned,2024-03-03,Same Day,0.13,4,Fiction Novel,ORD10106,8,6,2024-03-09,1074.7,105.92
+CUST1107,Ava,Miller,Sports,Consumer,Chennai,Delhi,India,East,Shipped,2023-04-27,Standard Class,0.23,4,Yoga Mat,ORD10107,3,1,2023-04-28,490.72,56.31
+CUST1108,Olivia,Miller,Electronics,Consumer,Hyderabad,Tamil Nadu,India,South,Delivered,2024-08-02,Second Class,0.24,2,Headphones,ORD10108,2,3,2024-08-05,4201.41,1021.78
+CUST1109,Michael,Johnson,Toys,Corporate,Chennai,Maharashtra,India,East,Cancelled,2024-05-21,Standard Class,0.15,1,Puzzle,ORD10109,2,4,2024-05-25,486.62,113.07
+CUST1110,John,Miller,Clothing,Corporate,Hyderabad,West Bengal,India,West,Returned,2024-06-29,Same Day,0.27,3,Jeans,ORD10110,6,7,2024-07-06,547.63,131.34
+CUST1111,Michael,Davis,Beauty,Consumer,Mumbai,West Bengal,India,South,Returned,2023-11-21,Standard Class,0.08,1,Moisturizer,ORD10111,8,9,2023-11-30,2194.3,472.11
+CUST1112,David,Smith,Clothing,Home Office,Mumbai,Telangana,India,North,Shipped,2023-02-24,Standard Class,0.12,1,Dress,ORD10112,8,7,2023-03-03,760.51,91.51
+CUST1113,Michael,Rodriguez,Electronics,Home Office,Chennai,Karnataka,India,North,Shipped,2023-02-11,Second Class,0.27,4,Laptop,ORD10113,4,5,2023-02-16,4576.98,1058.08
+CUST1114,John,Miller,Beauty,Home Office,Mumbai,West Bengal,India,South,Returned,2023-10-24,First Class,0.27,2,Perfume,ORD10114,4,2,2023-10-26,2404.39,592.29
+CUST1115,David,Williams,Clothing,Consumer,Kolkata,Maharashtra,India,East,Shipped,2023-08-19,Same Day,0.21,1,T-Shirt,ORD10115,5,5,2023-08-24,2888.84,346.7
+CUST1116,Isabella,Davis,Home & Kitchen,Corporate,Hyderabad,Karnataka,India,North,Cancelled,2024-03-28,Second Class,0.26,3,Lamp,ORD10116,4,3,2024-03-31,4647.72,474.58
+CUST1117,Liam,Miller,Electronics,Consumer,Hyderabad,Delhi,India,West,Shipped,2024-01-29,First Class,0.03,1,Smartwatch,ORD10117,7,6,2024-02-04,2698.29,430.06
+CUST1118,Liam,Davis,Electronics,Corporate,Chennai,West Bengal,India,South,Shipped,2024-06-05,Standard Class,0.26,3,Laptop,ORD10118,5,7,2024-06-12,1832.6,160.23
+CUST1119,Noah,Garcia,Electronics,Home Office,Mumbai,Karnataka,India,West,Returned,2023-12-24,First Class,0.1,4,Smartphone,ORD10119,9,9,2024-01-02,4006.06,226.44
+CUST1120,Isabella,Rodriguez,Home & Kitchen,Home Office,Delhi,Maharashtra,India,South,Returned,2024-03-19,Standard Class,0.05,2,Vacuum Cleaner,ORD10120,8,7,2024-03-26,2269.97,542.9
+CUST1121,Isabella,Jones,Home & Kitchen,Corporate,Hyderabad,Telangana,India,North,Delivered,2023-05-08,Standard Class,0.07,1,Vacuum Cleaner,ORD10121,6,7,2023-05-15,1660.5,390.46
+CUST1122,Michael,Williams,Sports,Corporate,Chennai,Tamil Nadu,India,East,Delivered,2024-02-09,Second Class,0.13,2,Yoga Mat,ORD10122,4,3,2024-02-12,3643.82,300.73
+CUST1123,Liam,Williams,Books,Consumer,Chennai,Tamil Nadu,India,South,Returned,2024-01-27,Standard Class,0.08,1,Comics,ORD10123,6,5,2024-02-01,4027.87,529.86
+CUST1124,John,Smith,Toys,Home Office,Kolkata,Maharashtra,India,South,Shipped,2023-07-12,Second Class,0.1,3,Action Figure,ORD10124,4,3,2023-07-15,3979.41,860.38
+CUST1125,Sophia,Davis,Clothing,Consumer,Bangalore,Maharashtra,India,West,Shipped,2023-03-19,First Class,0.04,2,Jacket,ORD10125,4,6,2023-03-25,4890.6,891.07
+CUST1126,Sophia,Johnson,Sports,Consumer,Bangalore,Tamil Nadu,India,North,Delivered,2023-03-26,First Class,0.09,1,Dumbbells,ORD10126,6,5,2023-03-31,3954.67,509.98
+CUST1127,David,Williams,Clothing,Consumer,Hyderabad,Telangana,India,West,Delivered,2023-01-30,Standard Class,0.17,4,Jeans,ORD10127,2,1,2023-01-31,3872.67,770.02
+CUST1128,Liam,Davis,Toys,Home Office,Kolkata,Karnataka,India,North,Delivered,2023-02-18,Second Class,0.13,3,Action Figure,ORD10128,2,4,2023-02-22,4301.68,986.85
+CUST1129,Liam,Davis,Books,Consumer,Kolkata,Tamil Nadu,India,West,Cancelled,2023-05-25,Standard Class,0.1,2,Comics,ORD10129,2,2,2023-05-27,100.91,23.74
+CUST1130,Sophia,Brown,Home & Kitchen,Consumer,Kolkata,Maharashtra,India,South,Cancelled,2023-03-10,Second Class,0.22,1,Vacuum Cleaner,ORD10130,7,5,2023-03-15,1875.91,235.93
+CUST1131,Liam,Brown,Books,Consumer,Hyderabad,West Bengal,India,West,Delivered,2023-02-27,Second Class,0.27,2,Textbook,ORD10131,2,4,2023-03-03,3714.26,314.64
+CUST1132,Michael,Jones,Home & Kitchen,Consumer,Bangalore,Delhi,India,East,Shipped,2024-07-27,Second Class,0.23,1,Mixer,ORD10132,4,6,2024-08-02,3038.62,706.69
+CUST1133,Olivia,Garcia,Toys,Consumer,Kolkata,Telangana,India,North,Delivered,2024-04-23,First Class,0.1,3,Doll,ORD10133,8,7,2024-04-30,970.1,66.46
+CUST1134,Emma,Jones,Books,Consumer,Mumbai,Telangana,India,North,Cancelled,2024-03-20,Second Class,0.22,4,Textbook,ORD10134,3,2,2024-03-22,1588.29,308.66
+CUST1135,Isabella,Miller,Sports,Home Office,Chennai,West Bengal,India,South,Shipped,2023-10-23,First Class,0.05,3,Tennis Racket,ORD10135,6,4,2023-10-27,1750.28,136.7
+CUST1136,Noah,Johnson,Beauty,Consumer,Chennai,West Bengal,India,North,Cancelled,2023-06-20,Second Class,0.04,2,Perfume,ORD10136,8,7,2023-06-27,2882.36,368.59
+CUST1137,David,Miller,Sports,Corporate,Delhi,Maharashtra,India,East,Shipped,2024-07-28,First Class,0.1,2,Dumbbells,ORD10137,3,4,2024-08-01,4174.83,552.38
+CUST1138,Olivia,Martinez,Clothing,Consumer,Delhi,Tamil Nadu,India,West,Cancelled,2023-05-27,Same Day,0.24,1,Jeans,ORD10138,8,7,2023-06-03,4669.21,381.72
+CUST1139,Sophia,Miller,Sports,Consumer,Hyderabad,Karnataka,India,South,Shipped,2024-04-28,First Class,0.07,3,Football,ORD10139,7,6,2024-05-04,3775.45,885.48
+CUST1140,Isabella,Smith,Toys,Home Office,Hyderabad,Telangana,India,East,Shipped,2023-11-02,First Class,0.02,1,Doll,ORD10140,3,4,2023-11-06,4230.46,213.78
+CUST1141,Liam,Miller,Electronics,Home Office,Chennai,Telangana,India,North,Shipped,2024-03-21,Standard Class,0.04,3,Headphones,ORD10141,9,7,2024-03-28,2403.47,549.82
+CUST1142,Noah,Jones,Clothing,Corporate,Mumbai,West Bengal,India,North,Shipped,2023-08-09,Second Class,0.26,2,Dress,ORD10142,5,6,2023-08-15,2009.9,455.78
+CUST1143,Liam,Williams,Books,Corporate,Bangalore,Tamil Nadu,India,East,Returned,2024-07-08,Same Day,0.19,1,Comics,ORD10143,2,4,2024-07-12,2024.27,229.54
+CUST1144,John,Williams,Clothing,Home Office,Bangalore,Telangana,India,West,Cancelled,2024-01-13,Standard Class,0.08,1,Jacket,ORD10144,9,10,2024-01-23,3118.59,595.2
+CUST1145,John,Brown,Beauty,Home Office,Hyderabad,Karnataka,India,West,Cancelled,2023-09-23,Second Class,0.17,3,Perfume,ORD10145,7,7,2023-09-30,708.76,71.27
+CUST1146,Noah,Johnson,Home & Kitchen,Consumer,Mumbai,West Bengal,India,South,Returned,2023-04-05,Same Day,0.16,4,Cookware Set,ORD10146,8,10,2023-04-15,2939.52,593.06
+CUST1147,Noah,Johnson,Books,Home Office,Hyderabad,Karnataka,India,North,Shipped,2023-09-19,Same Day,0.2,3,Fiction Novel,ORD10147,4,3,2023-09-22,3359.15,544.93
+CUST1148,Sophia,Smith,Clothing,Corporate,Bangalore,Tamil Nadu,India,East,Shipped,2023-03-12,Same Day,0.07,4,Jeans,ORD10148,2,4,2023-03-16,2250.65,247.67
+CUST1149,Noah,Jones,Books,Consumer,Hyderabad,Telangana,India,West,Cancelled,2023-08-07,Second Class,0.26,3,Comics,ORD10149,9,7,2023-08-14,4770.52,620.39
+CUST1150,Michael,Brown,Books,Corporate,Kolkata,Delhi,India,South,Returned,2024-06-16,Same Day,0.09,2,Biography,ORD10150,2,0,2024-06-16,3080.25,579.02
+CUST1151,Liam,Martinez,Books,Consumer,Hyderabad,Telangana,India,North,Shipped,2023-04-02,Same Day,0.21,1,Biography,ORD10151,3,4,2023-04-06,1178.0,272.38
+CUST1152,Olivia,Johnson,Home & Kitchen,Home Office,Chennai,Tamil Nadu,India,North,Shipped,2023-05-07,Standard Class,0.0,3,Mixer,ORD10152,5,7,2023-05-14,2448.16,186.42
+CUST1153,Ava,Williams,Toys,Corporate,Hyderabad,Telangana,India,South,Shipped,2023-03-21,First Class,0.11,2,Puzzle,ORD10153,2,1,2023-03-22,3409.48,560.08
+CUST1154,Noah,Miller,Sports,Consumer,Chennai,Telangana,India,South,Delivered,2023-08-26,Second Class,0.11,3,Tennis Racket,ORD10154,8,6,2023-09-01,1685.78,169.84
+CUST1155,David,Miller,Books,Consumer,Mumbai,Maharashtra,India,West,Returned,2024-01-07,First Class,0.16,1,Biography,ORD10155,8,7,2024-01-14,490.24,103.08
+CUST1156,John,Brown,Electronics,Home Office,Bangalore,Telangana,India,East,Shipped,2024-04-30,Standard Class,0.02,3,Smartwatch,ORD10156,6,6,2024-05-06,2958.83,189.51
+CUST1157,Michael,Jones,Toys,Home Office,Delhi,Telangana,India,North,Delivered,2023-01-25,First Class,0.24,4,Puzzle,ORD10157,6,4,2023-01-29,4744.56,890.99
+CUST1158,Isabella,Jones,Beauty,Home Office,Delhi,Karnataka,India,East,Returned,2023-06-05,Same Day,0.07,1,Shampoo,ORD10158,2,3,2023-06-08,2476.85,210.51
+CUST1159,Ava,Garcia,Home & Kitchen,Corporate,Bangalore,Delhi,India,North,Shipped,2024-05-31,Same Day,0.2,4,Vacuum Cleaner,ORD10159,3,3,2024-06-03,4539.93,768.51
+CUST1160,Olivia,Rodriguez,Clothing,Consumer,Delhi,Karnataka,India,North,Cancelled,2024-06-13,Second Class,0.24,2,T-Shirt,ORD10160,3,5,2024-06-18,4191.62,910.16
+CUST1161,Ava,Johnson,Home & Kitchen,Home Office,Hyderabad,Karnataka,India,East,Delivered,2023-02-26,Second Class,0.17,2,Vacuum Cleaner,ORD10161,4,3,2023-03-01,822.32,165.3
+CUST1162,Noah,Jones,Clothing,Corporate,Mumbai,West Bengal,India,South,Delivered,2023-01-19,Second Class,0.22,3,Jeans,ORD10162,7,5,2023-01-24,3570.03,716.11
+CUST1163,Sophia,Williams,Home & Kitchen,Corporate,Mumbai,Maharashtra,India,West,Shipped,2024-01-19,Standard Class,0.2,4,Lamp,ORD10163,7,7,2024-01-26,2233.78,343.04
+CUST1164,John,Brown,Clothing,Corporate,Bangalore,Karnataka,India,North,Shipped,2023-07-12,Second Class,0.11,4,Jacket,ORD10164,9,9,2023-07-21,1326.21,302.57
+CUST1165,John,Martinez,Books,Home Office,Delhi,Tamil Nadu,India,South,Delivered,2023-08-25,Standard Class,0.24,1,Biography,ORD10165,7,5,2023-08-30,3466.0,580.97
+CUST1166,Isabella,Garcia,Sports,Home Office,Hyderabad,Tamil Nadu,India,North,Cancelled,2024-01-22,Same Day,0.09,4,Yoga Mat,ORD10166,5,7,2024-01-29,3739.04,873.08
+CUST1167,Sophia,Davis,Clothing,Consumer,Mumbai,Telangana,India,West,Cancelled,2024-03-01,First Class,0.17,4,T-Shirt,ORD10167,3,5,2024-03-06,981.49,156.36
+CUST1168,Liam,Smith,Clothing,Consumer,Mumbai,West Bengal,India,North,Returned,2023-10-04,Same Day,0.22,1,Dress,ORD10168,4,5,2023-10-09,4580.78,692.58
+CUST1169,Emma,Martinez,Electronics,Home Office,Kolkata,Maharashtra,India,West,Shipped,2023-08-15,Same Day,0.11,1,Headphones,ORD10169,6,8,2023-08-23,3780.62,357.16
+CUST1170,Michael,Davis,Clothing,Corporate,Kolkata,Maharashtra,India,West,Cancelled,2024-07-05,Same Day,0.09,4,Dress,ORD10170,8,9,2024-07-14,4673.54,742.89
+CUST1171,John,Miller,Electronics,Corporate,Mumbai,Telangana,India,North,Returned,2023-11-19,Second Class,0.14,3,Laptop,ORD10171,7,7,2023-11-26,1653.66,129.18
+CUST1172,David,Smith,Beauty,Corporate,Bangalore,Tamil Nadu,India,North,Cancelled,2023-06-02,Second Class,0.25,1,Lipstick,ORD10172,6,4,2023-06-06,4702.74,1053.12
+CUST1173,John,Johnson,Books,Consumer,Chennai,Delhi,India,West,Shipped,2023-08-25,Second Class,0.28,1,Comics,ORD10173,6,8,2023-09-02,1905.74,352.9
+CUST1174,Ava,Williams,Electronics,Corporate,Chennai,West Bengal,India,South,Returned,2023-02-24,First Class,0.16,4,Laptop,ORD10174,2,3,2023-02-27,364.45,90.65
+CUST1175,John,Smith,Sports,Consumer,Hyderabad,Telangana,India,East,Returned,2024-03-11,Second Class,0.2,4,Yoga Mat,ORD10175,5,5,2024-03-16,3838.55,262.63
+CUST1176,John,Rodriguez,Toys,Consumer,Mumbai,West Bengal,India,West,Returned,2023-04-19,Standard Class,0.27,1,Action Figure,ORD10176,4,6,2023-04-25,3547.19,348.1
+CUST1177,Emma,Davis,Books,Corporate,Mumbai,Tamil Nadu,India,North,Cancelled,2023-07-03,Same Day,0.03,4,Fiction Novel,ORD10177,5,4,2023-07-07,3029.76,683.0
+CUST1178,Emma,Johnson,Electronics,Corporate,Mumbai,Tamil Nadu,India,North,Shipped,2024-01-03,First Class,0.07,1,Headphones,ORD10178,2,2,2024-01-05,2500.48,322.69
+CUST1179,Olivia,Rodriguez,Books,Home Office,Bangalore,Delhi,India,South,Returned,2023-07-17,First Class,0.21,3,Textbook,ORD10179,4,6,2023-07-23,257.61,36.91
+CUST1180,Liam,Miller,Books,Home Office,Kolkata,Delhi,India,East,Delivered,2024-01-06,First Class,0.25,3,Fiction Novel,ORD10180,4,4,2024-01-10,3160.53,702.05
+CUST1181,David,Rodriguez,Books,Corporate,Mumbai,Maharashtra,India,West,Shipped,2024-01-08,First Class,0.26,1,Comics,ORD10181,3,1,2024-01-09,2142.49,330.72
+CUST1182,John,Garcia,Beauty,Consumer,Mumbai,West Bengal,India,West,Delivered,2024-05-11,First Class,0.12,1,Lipstick,ORD10182,5,3,2024-05-14,2845.03,252.34
+CUST1183,John,Garcia,Sports,Consumer,Delhi,West Bengal,India,East,Delivered,2024-08-21,Standard Class,0.03,2,Yoga Mat,ORD10183,5,3,2024-08-24,2203.67,503.33
+CUST1184,Michael,Brown,Home & Kitchen,Consumer,Bangalore,Tamil Nadu,India,West,Returned,2023-07-20,Same Day,0.13,2,Lamp,ORD10184,3,2,2023-07-22,4833.68,271.71
+CUST1185,Emma,Martinez,Home & Kitchen,Consumer,Hyderabad,Maharashtra,India,East,Returned,2024-05-23,First Class,0.07,4,Vacuum Cleaner,ORD10185,9,7,2024-05-30,3060.13,701.01
+CUST1186,David,Martinez,Electronics,Consumer,Mumbai,Telangana,India,North,Cancelled,2023-11-18,Same Day,0.09,4,Smartphone,ORD10186,6,5,2023-11-23,3771.26,226.67
+CUST1187,Isabella,Johnson,Books,Home Office,Delhi,West Bengal,India,East,Cancelled,2023-10-02,Second Class,0.23,1,Textbook,ORD10187,2,0,2023-10-02,4688.1,858.72
+CUST1188,Olivia,Miller,Electronics,Corporate,Chennai,Maharashtra,India,West,Cancelled,2023-07-30,First Class,0.02,1,Laptop,ORD10188,5,5,2023-08-04,2998.84,192.93
+CUST1189,Liam,Jones,Beauty,Home Office,Hyderabad,Maharashtra,India,East,Shipped,2024-05-18,First Class,0.25,2,Lipstick,ORD10189,3,5,2024-05-23,159.11,30.43
+CUST1190,Sophia,Garcia,Beauty,Consumer,Mumbai,Tamil Nadu,India,South,Cancelled,2023-04-28,Same Day,0.13,2,Lipstick,ORD10190,8,10,2023-05-08,268.03,15.22
+CUST1191,Liam,Johnson,Clothing,Consumer,Mumbai,Maharashtra,India,North,Delivered,2024-07-07,First Class,0.18,1,Dress,ORD10191,9,7,2024-07-14,3541.46,773.78
+CUST1192,Ava,Jones,Beauty,Consumer,Delhi,Delhi,India,North,Cancelled,2023-02-11,First Class,0.03,3,Shampoo,ORD10192,4,6,2023-02-17,1467.52,210.13
+CUST1193,John,Martinez,Clothing,Consumer,Bangalore,Delhi,India,East,Returned,2023-11-11,First Class,0.1,3,Jeans,ORD10193,7,5,2023-11-16,2938.96,201.88
+CUST1194,Olivia,Brown,Sports,Corporate,Mumbai,Karnataka,India,West,Cancelled,2023-11-25,Standard Class,0.03,4,Football,ORD10194,8,6,2023-12-01,1091.16,208.81
+CUST1195,Ava,Rodriguez,Electronics,Consumer,Chennai,Tamil Nadu,India,South,Shipped,2023-01-17,Standard Class,0.29,1,Smartwatch,ORD10195,3,4,2023-01-21,1424.22,210.58
+CUST1196,David,Garcia,Toys,Corporate,Mumbai,Telangana,India,North,Shipped,2023-10-10,First Class,0.24,1,Puzzle,ORD10196,7,8,2023-10-18,2572.74,226.89
+CUST1197,Sophia,Johnson,Sports,Consumer,Chennai,Karnataka,India,North,Delivered,2023-09-15,Standard Class,0.14,4,Tennis Racket,ORD10197,6,7,2023-09-22,4880.29,259.31
+CUST1198,Emma,Smith,Beauty,Corporate,Hyderabad,Delhi,India,West,Shipped,2024-07-28,Second Class,0.07,2,Lipstick,ORD10198,2,1,2024-07-29,3119.73,416.79
+CUST1199,Olivia,Jones,Sports,Home Office,Hyderabad,Karnataka,India,West,Cancelled,2024-07-27,First Class,0.28,2,Tennis Racket,ORD10199,7,8,2024-08-04,4687.13,314.63
+CUST1200,Olivia,Rodriguez,Sports,Consumer,Kolkata,Tamil Nadu,India,South,Returned,2023-01-19,Second Class,0.1,3,Football,ORD10200,9,7,2023-01-26,4800.96,330.47
+CUST1201,John,Garcia,Sports,Corporate,Kolkata,Tamil Nadu,India,East,Shipped,2024-06-12,Same Day,0.05,1,Dumbbells,ORD10201,6,6,2024-06-18,1119.74,115.85
+CUST1202,Noah,Martinez,Beauty,Home Office,Chennai,Maharashtra,India,West,Delivered,2024-02-27,Second Class,0.17,2,Moisturizer,ORD10202,7,8,2024-03-06,1624.85,286.12
+CUST1203,Olivia,Miller,Toys,Consumer,Bangalore,West Bengal,India,East,Cancelled,2024-04-10,Same Day,0.28,3,Puzzle,ORD10203,4,5,2024-04-15,3872.96,604.11
+CUST1204,Michael,Jones,Books,Consumer,Mumbai,Maharashtra,India,South,Delivered,2024-01-08,First Class,0.0,3,Fiction Novel,ORD10204,4,4,2024-01-12,4347.14,277.34
+CUST1205,Sophia,Martinez,Sports,Consumer,Mumbai,Tamil Nadu,India,East,Shipped,2023-03-22,Same Day,0.07,3,Yoga Mat,ORD10205,9,7,2023-03-29,2644.21,644.36
+CUST1206,Sophia,Garcia,Clothing,Corporate,Kolkata,Delhi,India,North,Shipped,2024-07-04,Same Day,0.28,2,Dress,ORD10206,4,3,2024-07-07,4966.81,1129.62
+CUST1207,Michael,Jones,Beauty,Corporate,Chennai,Telangana,India,East,Delivered,2024-07-01,Second Class,0.05,2,Lipstick,ORD10207,4,5,2024-07-06,156.7,15.96
+CUST1208,Isabella,Rodriguez,Sports,Home Office,Mumbai,Delhi,India,South,Cancelled,2024-02-28,Second Class,0.03,1,Football,ORD10208,3,3,2024-03-02,1568.0,116.77
+CUST1209,Michael,Garcia,Toys,Corporate,Mumbai,Maharashtra,India,South,Shipped,2024-03-04,Second Class,0.17,1,Action Figure,ORD10209,4,2,2024-03-06,3153.49,752.05
+CUST1210,Michael,Davis,Books,Corporate,Bangalore,Telangana,India,South,Returned,2024-01-23,First Class,0.26,3,Biography,ORD10210,8,10,2024-02-02,2399.52,341.28
+CUST1211,Sophia,Johnson,Beauty,Consumer,Delhi,Tamil Nadu,India,East,Shipped,2023-07-23,First Class,0.14,3,Shampoo,ORD10211,4,3,2023-07-26,671.35,75.35
+CUST1212,Liam,Rodriguez,Home & Kitchen,Consumer,Kolkata,Delhi,India,North,Cancelled,2023-07-15,Second Class,0.3,2,Vacuum Cleaner,ORD10212,8,8,2023-07-23,1902.16,281.66
+CUST1213,Sophia,Jones,Books,Consumer,Kolkata,Tamil Nadu,India,West,Shipped,2023-10-12,First Class,0.2,2,Comics,ORD10213,3,3,2023-10-15,224.69,45.96
+CUST1214,Noah,Miller,Clothing,Consumer,Delhi,Telangana,India,North,Delivered,2023-07-15,First Class,0.02,1,Jeans,ORD10214,4,4,2023-07-19,3249.46,271.91
+CUST1215,John,Martinez,Sports,Consumer,Mumbai,Telangana,India,East,Shipped,2023-11-03,Same Day,0.3,1,Football,ORD10215,9,10,2023-11-13,4474.44,910.54
+CUST1216,Ava,Smith,Toys,Consumer,Bangalore,Delhi,India,East,Shipped,2023-01-14,Same Day,0.12,4,Puzzle,ORD10216,6,8,2023-01-22,4435.88,886.69
+CUST1217,Liam,Martinez,Home & Kitchen,Consumer,Bangalore,Tamil Nadu,India,West,Cancelled,2023-05-26,Second Class,0.09,1,Mixer,ORD10217,9,8,2023-06-03,3527.77,556.93
+CUST1218,Emma,Jones,Toys,Home Office,Kolkata,Karnataka,India,East,Delivered,2023-02-26,First Class,0.17,2,Board Game,ORD10218,6,4,2023-03-02,2382.27,531.65
+CUST1219,Ava,Martinez,Home & Kitchen,Home Office,Bangalore,Tamil Nadu,India,South,Cancelled,2023-07-29,Same Day,0.09,3,Vacuum Cleaner,ORD10219,5,3,2023-08-01,2608.95,199.4
+CUST1220,John,Johnson,Beauty,Home Office,Hyderabad,Telangana,India,South,Shipped,2024-06-12,Standard Class,0.03,4,Perfume,ORD10220,6,8,2024-06-20,770.9,130.36
+CUST1221,Noah,Garcia,Home & Kitchen,Home Office,Delhi,Tamil Nadu,India,South,Returned,2023-12-10,First Class,0.0,1,Vacuum Cleaner,ORD10221,2,2,2023-12-12,1770.98,247.7
+CUST1222,Noah,Smith,Clothing,Consumer,Mumbai,Maharashtra,India,South,Shipped,2023-10-06,Standard Class,0.13,1,T-Shirt,ORD10222,2,2,2023-10-08,1019.87,137.13
+CUST1223,Emma,Williams,Clothing,Home Office,Hyderabad,Karnataka,India,South,Cancelled,2023-07-28,Second Class,0.25,2,T-Shirt,ORD10223,2,2,2023-07-30,4123.88,414.5
+CUST1224,Liam,Jones,Electronics,Consumer,Delhi,West Bengal,India,East,Returned,2023-12-01,First Class,0.17,4,Laptop,ORD10224,3,3,2023-12-04,4582.29,570.29
+CUST1225,Isabella,Brown,Clothing,Home Office,Chennai,Maharashtra,India,West,Cancelled,2023-10-15,Second Class,0.3,1,Jeans,ORD10225,9,9,2023-10-24,2730.92,195.62
+CUST1226,Michael,Williams,Books,Corporate,Kolkata,West Bengal,India,West,Cancelled,2023-09-09,Second Class,0.09,3,Textbook,ORD10226,6,8,2023-09-17,3666.04,367.78
+CUST1227,Liam,Martinez,Home & Kitchen,Home Office,Bangalore,Delhi,India,South,Delivered,2023-09-22,Second Class,0.08,2,Cookware Set,ORD10227,9,10,2023-10-02,695.18,72.57
+CUST1228,Isabella,Jones,Clothing,Home Office,Chennai,West Bengal,India,East,Returned,2023-09-28,Second Class,0.05,4,Dress,ORD10228,8,7,2023-10-05,3081.82,598.28
+CUST1229,Noah,Davis,Beauty,Consumer,Bangalore,Tamil Nadu,India,North,Shipped,2024-02-23,Second Class,0.05,1,Shampoo,ORD10229,2,2,2024-02-25,3543.68,211.59
+CUST1230,Sophia,Brown,Toys,Home Office,Hyderabad,West Bengal,India,North,Cancelled,2023-07-30,First Class,0.09,1,Board Game,ORD10230,5,6,2023-08-05,2318.56,417.89
+CUST1231,John,Smith,Toys,Corporate,Mumbai,Telangana,India,East,Shipped,2023-12-31,Standard Class,0.24,4,Board Game,ORD10231,3,1,2024-01-01,1292.04,121.82
+CUST1232,Emma,Miller,Electronics,Consumer,Mumbai,Maharashtra,India,South,Delivered,2023-03-17,First Class,0.27,2,Smartphone,ORD10232,5,7,2023-03-24,4399.14,291.98
+CUST1233,John,Davis,Toys,Consumer,Mumbai,Maharashtra,India,West,Delivered,2023-11-17,First Class,0.29,4,Board Game,ORD10233,6,7,2023-11-24,3740.25,412.03
+CUST1234,David,Williams,Home & Kitchen,Home Office,Bangalore,West Bengal,India,East,Returned,2024-03-08,First Class,0.07,4,Cookware Set,ORD10234,4,4,2024-03-12,4509.3,427.91
+CUST1235,David,Garcia,Electronics,Consumer,Chennai,Maharashtra,India,North,Delivered,2023-04-19,Same Day,0.26,2,Laptop,ORD10235,5,5,2023-04-24,4110.17,659.3
+CUST1236,Liam,Johnson,Home & Kitchen,Consumer,Mumbai,Telangana,India,North,Delivered,2024-06-05,Same Day,0.1,1,Mixer,ORD10236,4,4,2024-06-09,4952.83,601.65
+CUST1237,Noah,Miller,Beauty,Consumer,Chennai,Maharashtra,India,North,Shipped,2023-02-16,First Class,0.03,3,Moisturizer,ORD10237,3,4,2023-02-20,1041.65,253.33
+CUST1238,Noah,Davis,Electronics,Consumer,Bangalore,West Bengal,India,South,Delivered,2024-01-14,Standard Class,0.26,2,Smartwatch,ORD10238,5,5,2024-01-19,525.06,127.44
+CUST1239,Michael,Garcia,Sports,Consumer,Hyderabad,Karnataka,India,North,Delivered,2023-04-06,First Class,0.19,3,Yoga Mat,ORD10239,5,6,2023-04-12,1751.31,242.98
+CUST1240,Michael,Garcia,Books,Consumer,Chennai,Karnataka,India,East,Cancelled,2023-04-13,Second Class,0.05,1,Comics,ORD10240,7,7,2023-04-20,732.12,153.03
+CUST1241,Michael,Jones,Books,Corporate,Hyderabad,Delhi,India,East,Delivered,2023-05-26,Same Day,0.13,4,Comics,ORD10241,3,1,2023-05-27,2663.34,140.23
+CUST1242,Sophia,Davis,Home & Kitchen,Home Office,Bangalore,Maharashtra,India,North,Cancelled,2023-01-27,Same Day,0.09,3,Lamp,ORD10242,3,1,2023-01-28,3201.84,510.89
+CUST1243,Ava,Smith,Toys,Corporate,Bangalore,West Bengal,India,East,Delivered,2024-06-13,First Class,0.22,1,Board Game,ORD10243,2,1,2024-06-14,2933.61,582.79
+CUST1244,Olivia,Martinez,Sports,Consumer,Kolkata,Maharashtra,India,North,Delivered,2023-03-23,First Class,0.14,1,Dumbbells,ORD10244,6,6,2023-03-29,1370.28,127.97
+CUST1245,Ava,Brown,Electronics,Consumer,Bangalore,Tamil Nadu,India,North,Returned,2024-03-03,Standard Class,0.3,4,Headphones,ORD10245,5,5,2024-03-08,4553.24,283.37
+CUST1246,John,Brown,Sports,Home Office,Bangalore,Telangana,India,West,Returned,2024-08-06,Standard Class,0.02,4,Tennis Racket,ORD10246,9,10,2024-08-16,203.74,16.54
+CUST1247,Ava,Williams,Sports,Corporate,Delhi,Maharashtra,India,South,Cancelled,2024-04-23,Second Class,0.11,1,Tennis Racket,ORD10247,5,6,2024-04-29,1805.27,249.79
+CUST1248,Sophia,Williams,Toys,Home Office,Mumbai,Maharashtra,India,South,Delivered,2023-06-11,First Class,0.14,1,Doll,ORD10248,8,8,2023-06-19,3623.06,548.08
+CUST1249,John,Brown,Electronics,Corporate,Kolkata,Karnataka,India,West,Shipped,2024-02-06,First Class,0.15,3,Laptop,ORD10249,3,2,2024-02-08,3857.95,486.78
+CUST1250,Ava,Smith,Beauty,Consumer,Kolkata,Telangana,India,West,Returned,2024-05-22,First Class,0.09,1,Shampoo,ORD10250,9,9,2024-05-31,2138.98,295.17
+CUST1251,Sophia,Johnson,Toys,Home Office,Kolkata,West Bengal,India,South,Shipped,2023-02-07,Same Day,0.22,1,Puzzle,ORD10251,3,4,2023-02-11,182.86,26.34
+CUST1252,Olivia,Rodriguez,Sports,Home Office,Delhi,Maharashtra,India,North,Returned,2024-05-25,Second Class,0.26,3,Dumbbells,ORD10252,6,6,2024-05-31,3128.41,637.84
+CUST1253,Ava,Martinez,Sports,Consumer,Hyderabad,Karnataka,India,North,Returned,2024-01-28,Standard Class,0.28,2,Yoga Mat,ORD10253,3,4,2024-02-01,409.16,29.07
+CUST1254,Sophia,Johnson,Beauty,Home Office,Bangalore,Delhi,India,South,Delivered,2024-05-08,Same Day,0.24,3,Lipstick,ORD10254,4,4,2024-05-12,628.49,128.08
+CUST1255,Michael,Jones,Sports,Corporate,Mumbai,Telangana,India,North,Returned,2023-07-19,Same Day,0.26,3,Yoga Mat,ORD10255,4,6,2023-07-25,3286.23,616.91
+CUST1256,Noah,Rodriguez,Sports,Corporate,Chennai,Karnataka,India,West,Shipped,2023-09-12,Same Day,0.17,4,Tennis Racket,ORD10256,7,8,2023-09-20,1631.19,323.52
+CUST1257,Michael,Rodriguez,Sports,Corporate,Hyderabad,Karnataka,India,North,Returned,2023-06-28,Same Day,0.25,3,Football,ORD10257,4,3,2023-07-01,1805.35,355.46
+CUST1258,Noah,Davis,Books,Corporate,Bangalore,Karnataka,India,North,Cancelled,2024-06-30,Second Class,0.09,1,Textbook,ORD10258,4,6,2024-07-06,2485.35,358.18
+CUST1259,Emma,Smith,Toys,Consumer,Delhi,Maharashtra,India,East,Delivered,2024-08-16,First Class,0.12,1,Action Figure,ORD10259,6,6,2024-08-22,4895.03,451.71
+CUST1260,Emma,Smith,Clothing,Home Office,Bangalore,Maharashtra,India,East,Delivered,2024-01-24,Standard Class,0.1,1,T-Shirt,ORD10260,5,6,2024-01-30,4830.67,759.99
+CUST1261,Emma,Rodriguez,Toys,Corporate,Bangalore,Delhi,India,East,Cancelled,2024-02-02,Standard Class,0.14,2,Action Figure,ORD10261,4,6,2024-02-08,2139.68,516.94
+CUST1262,Olivia,Davis,Beauty,Consumer,Delhi,Tamil Nadu,India,North,Cancelled,2023-06-07,Same Day,0.09,1,Shampoo,ORD10262,9,8,2023-06-15,1400.95,234.95
+CUST1263,Michael,Martinez,Sports,Home Office,Kolkata,Tamil Nadu,India,South,Cancelled,2023-01-04,Same Day,0.29,2,Tennis Racket,ORD10263,7,8,2023-01-12,1582.7,82.63
+CUST1264,Noah,Rodriguez,Toys,Home Office,Kolkata,Tamil Nadu,India,West,Returned,2023-06-16,Second Class,0.09,1,Board Game,ORD10264,3,5,2023-06-21,1417.03,87.77
+CUST1265,Sophia,Miller,Books,Consumer,Mumbai,Telangana,India,North,Delivered,2024-04-12,Same Day,0.03,3,Biography,ORD10265,4,6,2024-04-18,2708.0,673.13
+CUST1266,John,Williams,Beauty,Consumer,Mumbai,Telangana,India,South,Cancelled,2024-02-13,Standard Class,0.16,4,Shampoo,ORD10266,7,9,2024-02-22,3073.61,197.91
+CUST1267,Sophia,Williams,Home & Kitchen,Corporate,Kolkata,Delhi,India,North,Returned,2024-02-16,Standard Class,0.02,1,Cookware Set,ORD10267,6,4,2024-02-20,2495.02,147.73
+CUST1268,John,Johnson,Toys,Home Office,Hyderabad,Telangana,India,West,Cancelled,2023-07-23,First Class,0.03,2,Board Game,ORD10268,8,8,2023-07-31,2099.17,253.17
+CUST1269,David,Jones,Home & Kitchen,Home Office,Chennai,Tamil Nadu,India,North,Shipped,2023-07-13,First Class,0.07,2,Vacuum Cleaner,ORD10269,8,9,2023-07-22,1135.3,276.86
+CUST1270,Sophia,Williams,Sports,Consumer,Bangalore,Tamil Nadu,India,West,Shipped,2023-08-23,Standard Class,0.14,4,Yoga Mat,ORD10270,8,9,2023-09-01,2464.28,280.27
+CUST1271,Ava,Garcia,Books,Home Office,Chennai,Karnataka,India,North,Delivered,2023-05-30,Standard Class,0.13,1,Fiction Novel,ORD10271,3,4,2023-06-03,1771.4,233.78
+CUST1272,Ava,Johnson,Books,Corporate,Bangalore,Telangana,India,West,Returned,2023-06-08,Second Class,0.24,3,Textbook,ORD10272,7,9,2023-06-17,2753.82,486.92
+CUST1273,Liam,Williams,Toys,Home Office,Kolkata,Maharashtra,India,North,Shipped,2023-10-06,Second Class,0.22,1,Action Figure,ORD10273,4,4,2023-10-10,3408.43,186.86
+CUST1274,Michael,Jones,Beauty,Consumer,Mumbai,Maharashtra,India,West,Shipped,2024-02-08,Standard Class,0.13,1,Moisturizer,ORD10274,5,4,2024-02-12,3203.23,735.31
+CUST1275,John,Smith,Beauty,Consumer,Hyderabad,Karnataka,India,East,Returned,2023-11-07,Same Day,0.1,4,Moisturizer,ORD10275,3,4,2023-11-11,2366.2,364.13
+CUST1276,John,Smith,Books,Corporate,Mumbai,Karnataka,India,North,Cancelled,2023-03-09,First Class,0.09,1,Biography,ORD10276,3,3,2023-03-12,2824.66,404.95
+CUST1277,Michael,Martinez,Beauty,Corporate,Chennai,Karnataka,India,North,Returned,2024-04-07,Standard Class,0.23,3,Perfume,ORD10277,8,8,2024-04-15,1495.8,332.28
+CUST1278,Olivia,Rodriguez,Books,Home Office,Mumbai,Maharashtra,India,South,Cancelled,2023-03-29,Same Day,0.02,2,Comics,ORD10278,5,3,2023-04-01,218.78,52.64
+CUST1279,Liam,Miller,Toys,Home Office,Kolkata,Tamil Nadu,India,South,Shipped,2023-08-05,Standard Class,0.0,4,Board Game,ORD10279,8,9,2023-08-14,3162.6,425.95
+CUST1280,Olivia,Smith,Clothing,Consumer,Hyderabad,Karnataka,India,West,Shipped,2023-01-01,First Class,0.24,3,Jacket,ORD10280,3,5,2023-01-06,1337.59,113.01
+CUST1281,Olivia,Davis,Books,Corporate,Chennai,Delhi,India,North,Shipped,2023-05-15,First Class,0.14,2,Textbook,ORD10281,4,4,2023-05-19,3377.87,719.97
+CUST1282,Olivia,Williams,Home & Kitchen,Corporate,Hyderabad,Karnataka,India,West,Delivered,2023-12-17,Second Class,0.04,4,Lamp,ORD10282,8,8,2023-12-25,3760.34,491.3
+CUST1283,Michael,Davis,Beauty,Corporate,Bangalore,West Bengal,India,East,Delivered,2023-05-20,Second Class,0.07,4,Lipstick,ORD10283,8,7,2023-05-27,4588.05,1087.87
+CUST1284,Olivia,Jones,Books,Home Office,Mumbai,Karnataka,India,South,Delivered,2023-05-13,Second Class,0.28,2,Biography,ORD10284,9,7,2023-05-20,4794.8,1150.66
+CUST1285,Ava,Smith,Books,Corporate,Hyderabad,Maharashtra,India,West,Returned,2023-06-27,Second Class,0.26,2,Fiction Novel,ORD10285,8,8,2023-07-05,151.58,11.06
+CUST1286,Emma,Miller,Toys,Consumer,Delhi,Telangana,India,West,Shipped,2023-12-24,First Class,0.21,3,Doll,ORD10286,3,3,2023-12-27,4952.83,1195.17
+CUST1287,David,Jones,Beauty,Consumer,Mumbai,Karnataka,India,South,Shipped,2024-01-15,Same Day,0.14,1,Lipstick,ORD10287,4,6,2024-01-21,3446.79,426.21
+CUST1288,John,Garcia,Clothing,Home Office,Bangalore,Telangana,India,North,Returned,2024-03-25,Same Day,0.16,1,Jacket,ORD10288,5,7,2024-04-01,3253.27,583.15
+CUST1289,John,Garcia,Toys,Home Office,Hyderabad,West Bengal,India,West,Delivered,2024-08-08,Same Day,0.29,1,Board Game,ORD10289,2,1,2024-08-09,174.54,9.94
+CUST1290,David,Davis,Clothing,Corporate,Chennai,Delhi,India,South,Returned,2024-04-07,Standard Class,0.29,1,T-Shirt,ORD10290,5,4,2024-04-11,4320.04,984.01
+CUST1291,Michael,Rodriguez,Toys,Home Office,Bangalore,Telangana,India,North,Delivered,2023-04-18,Second Class,0.06,1,Doll,ORD10291,4,3,2023-04-21,812.91,144.96
+CUST1292,Sophia,Johnson,Beauty,Consumer,Delhi,Tamil Nadu,India,East,Shipped,2023-05-02,Second Class,0.24,3,Lipstick,ORD10292,6,8,2023-05-10,4202.92,751.11
+CUST1293,Michael,Rodriguez,Electronics,Corporate,Hyderabad,Karnataka,India,South,Cancelled,2023-01-17,First Class,0.06,4,Headphones,ORD10293,8,10,2023-01-27,176.26,40.62
+CUST1294,John,Martinez,Beauty,Consumer,Kolkata,West Bengal,India,West,Delivered,2023-07-15,First Class,0.06,3,Shampoo,ORD10294,5,3,2023-07-18,3265.22,495.23
+CUST1295,John,Rodriguez,Beauty,Corporate,Mumbai,West Bengal,India,East,Shipped,2023-11-23,Standard Class,0.2,3,Moisturizer,ORD10295,6,7,2023-11-30,2230.53,294.66
+CUST1296,David,Martinez,Clothing,Home Office,Chennai,Telangana,India,North,Shipped,2023-11-14,Standard Class,0.12,3,T-Shirt,ORD10296,6,7,2023-11-21,1083.76,241.92
+CUST1297,Olivia,Martinez,Clothing,Corporate,Kolkata,Delhi,India,North,Cancelled,2024-04-23,Same Day,0.28,4,Jacket,ORD10297,4,2,2024-04-25,627.05,124.46
+CUST1298,Michael,Miller,Beauty,Corporate,Hyderabad,Maharashtra,India,South,Shipped,2023-09-09,First Class,0.03,3,Shampoo,ORD10298,4,5,2023-09-14,2256.63,541.13
+CUST1299,Noah,Smith,Beauty,Consumer,Hyderabad,Karnataka,India,South,Shipped,2024-05-17,Second Class,0.15,3,Lipstick,ORD10299,9,11,2024-05-28,704.2,167.62
+CUST1300,David,Miller,Beauty,Consumer,Bangalore,West Bengal,India,South,Delivered,2023-04-29,Same Day,0.28,4,Lipstick,ORD10300,8,9,2023-05-08,2483.59,314.09
+CUST1301,Ava,Martinez,Clothing,Corporate,Hyderabad,Delhi,India,North,Delivered,2024-05-12,Second Class,0.27,3,Jeans,ORD10301,2,4,2024-05-16,3163.56,440.99
+CUST1302,John,Jones,Beauty,Home Office,Chennai,Tamil Nadu,India,East,Cancelled,2024-04-30,Same Day,0.05,1,Moisturizer,ORD10302,7,5,2024-05-05,4154.18,420.39
+CUST1303,David,Garcia,Beauty,Home Office,Kolkata,West Bengal,India,North,Cancelled,2023-02-14,Second Class,0.11,2,Moisturizer,ORD10303,3,2,2023-02-16,3425.38,623.86
+CUST1304,Michael,Martinez,Sports,Consumer,Chennai,Delhi,India,West,Shipped,2023-11-10,Standard Class,0.19,3,Football,ORD10304,5,3,2023-11-13,419.48,51.56
+CUST1305,John,Miller,Electronics,Home Office,Delhi,Maharashtra,India,North,Delivered,2023-06-28,Same Day,0.05,2,Smartwatch,ORD10305,4,5,2023-07-03,1606.42,332.88
+CUST1306,Sophia,Jones,Home & Kitchen,Consumer,Delhi,Maharashtra,India,West,Cancelled,2024-02-22,Second Class,0.29,3,Cookware Set,ORD10306,5,7,2024-02-29,1511.1,112.29
+CUST1307,David,Miller,Electronics,Home Office,Mumbai,West Bengal,India,East,Cancelled,2024-07-09,Second Class,0.27,3,Smartphone,ORD10307,7,8,2024-07-17,4583.66,335.89
+CUST1308,Liam,Rodriguez,Sports,Corporate,Mumbai,West Bengal,India,South,Returned,2023-03-19,First Class,0.05,1,Football,ORD10308,7,8,2023-03-27,4352.13,395.57
+CUST1309,John,Williams,Home & Kitchen,Consumer,Delhi,Telangana,India,South,Cancelled,2023-11-22,Same Day,0.04,4,Mixer,ORD10309,8,7,2023-11-29,1913.72,127.95
+CUST1310,Michael,Davis,Toys,Consumer,Hyderabad,Karnataka,India,North,Shipped,2023-12-23,Second Class,0.03,2,Puzzle,ORD10310,6,7,2023-12-30,448.66,78.07
+CUST1311,Emma,Johnson,Beauty,Corporate,Chennai,Delhi,India,South,Delivered,2024-02-20,First Class,0.27,4,Moisturizer,ORD10311,8,7,2024-02-27,4481.13,356.12
+CUST1312,Noah,Miller,Sports,Consumer,Delhi,West Bengal,India,East,Cancelled,2024-05-29,Second Class,0.06,1,Tennis Racket,ORD10312,3,5,2024-06-03,4452.13,365.04
+CUST1313,Isabella,Johnson,Toys,Home Office,Mumbai,Karnataka,India,South,Returned,2023-08-02,Same Day,0.12,1,Board Game,ORD10313,2,4,2023-08-06,4288.26,226.62
+CUST1314,Olivia,Brown,Beauty,Home Office,Delhi,Telangana,India,North,Delivered,2023-03-15,Standard Class,0.13,2,Moisturizer,ORD10314,5,4,2023-03-19,4240.9,875.4
+CUST1315,Isabella,Miller,Clothing,Consumer,Hyderabad,Karnataka,India,East,Cancelled,2024-07-16,Same Day,0.18,4,Jeans,ORD10315,3,1,2024-07-17,2453.24,521.21
+CUST1316,Michael,Williams,Books,Home Office,Delhi,West Bengal,India,West,Returned,2024-08-01,Same Day,0.02,1,Fiction Novel,ORD10316,9,11,2024-08-12,969.42,79.88
+CUST1317,Ava,Johnson,Sports,Consumer,Chennai,Maharashtra,India,North,Cancelled,2024-05-23,Second Class,0.07,3,Tennis Racket,ORD10317,2,0,2024-05-23,2439.69,482.83
+CUST1318,Ava,Martinez,Clothing,Corporate,Kolkata,Delhi,India,West,Delivered,2023-11-28,Second Class,0.28,3,T-Shirt,ORD10318,5,7,2023-12-05,2523.53,344.99
+CUST1319,Emma,Miller,Sports,Consumer,Hyderabad,Delhi,India,East,Delivered,2023-04-03,Same Day,0.27,3,Tennis Racket,ORD10319,3,5,2023-04-08,2500.67,244.86
+CUST1320,Olivia,Smith,Sports,Corporate,Mumbai,Maharashtra,India,North,Delivered,2024-06-02,First Class,0.23,4,Tennis Racket,ORD10320,4,4,2024-06-06,2739.99,477.52
+CUST1321,Liam,Davis,Clothing,Home Office,Chennai,West Bengal,India,North,Shipped,2023-09-26,First Class,0.01,3,Jeans,ORD10321,5,6,2023-10-02,1362.52,116.76
+CUST1322,Emma,Williams,Home & Kitchen,Corporate,Delhi,Delhi,India,East,Cancelled,2024-01-11,First Class,0.1,3,Mixer,ORD10322,3,4,2024-01-15,1894.58,381.52
+CUST1323,Isabella,Johnson,Electronics,Home Office,Delhi,West Bengal,India,South,Shipped,2023-01-04,Second Class,0.19,1,Laptop,ORD10323,7,5,2023-01-09,2227.51,132.59
+CUST1324,Emma,Williams,Beauty,Consumer,Kolkata,Telangana,India,North,Delivered,2023-05-18,Second Class,0.08,1,Moisturizer,ORD10324,2,3,2023-05-21,742.49,179.55
+CUST1325,Isabella,Jones,Sports,Home Office,Mumbai,West Bengal,India,North,Returned,2023-08-19,Same Day,0.27,3,Dumbbells,ORD10325,3,1,2023-08-20,2331.28,150.08
+CUST1326,John,Davis,Beauty,Consumer,Mumbai,Karnataka,India,West,Cancelled,2024-08-22,Standard Class,0.19,3,Moisturizer,ORD10326,4,6,2024-08-28,4071.3,675.39
+CUST1327,Ava,Martinez,Books,Consumer,Bangalore,Maharashtra,India,South,Shipped,2024-06-12,Second Class,0.02,1,Fiction Novel,ORD10327,8,8,2024-06-20,4157.49,958.05
+CUST1328,John,Miller,Clothing,Corporate,Mumbai,West Bengal,India,West,Cancelled,2023-02-21,Same Day,0.27,2,T-Shirt,ORD10328,5,5,2023-02-26,2116.66,110.87
+CUST1329,Noah,Miller,Beauty,Corporate,Kolkata,Telangana,India,West,Returned,2023-11-21,Same Day,0.29,4,Moisturizer,ORD10329,9,11,2023-12-02,2642.16,395.54
+CUST1330,Olivia,Miller,Clothing,Corporate,Bangalore,Tamil Nadu,India,South,Shipped,2023-10-04,Standard Class,0.02,4,Dress,ORD10330,5,4,2023-10-08,264.89,31.79
+CUST1331,Liam,Davis,Beauty,Corporate,Bangalore,Maharashtra,India,South,Delivered,2024-06-19,First Class,0.16,1,Moisturizer,ORD10331,5,4,2024-06-23,3404.72,565.41
+CUST1332,Isabella,Smith,Electronics,Home Office,Delhi,Delhi,India,East,Shipped,2024-04-30,Same Day,0.09,4,Headphones,ORD10332,4,5,2024-05-05,2082.57,198.03
+CUST1333,Liam,Brown,Electronics,Home Office,Delhi,Karnataka,India,South,Cancelled,2024-05-30,Same Day,0.12,1,Smartwatch,ORD10333,2,0,2024-05-30,2282.84,143.77
+CUST1334,Isabella,Garcia,Electronics,Home Office,Mumbai,Delhi,India,North,Cancelled,2023-06-01,Same Day,0.05,1,Laptop,ORD10334,5,5,2023-06-06,4381.0,767.49
+CUST1335,Michael,Rodriguez,Electronics,Consumer,Bangalore,Telangana,India,South,Cancelled,2024-04-27,First Class,0.17,1,Headphones,ORD10335,2,3,2024-04-30,2362.99,315.15
+CUST1336,Emma,Johnson,Electronics,Home Office,Delhi,Telangana,India,East,Cancelled,2023-09-16,First Class,0.29,1,Headphones,ORD10336,3,5,2023-09-21,203.84,35.57
+CUST1337,Noah,Smith,Electronics,Home Office,Kolkata,Delhi,India,East,Delivered,2023-11-20,Standard Class,0.15,2,Smartphone,ORD10337,7,7,2023-11-27,1214.71,111.88
+CUST1338,Ava,Martinez,Clothing,Home Office,Delhi,Maharashtra,India,East,Shipped,2023-06-17,Second Class,0.02,3,Jeans,ORD10338,9,7,2023-06-24,2430.54,286.19
+CUST1339,Isabella,Johnson,Sports,Corporate,Hyderabad,Delhi,India,South,Delivered,2023-11-06,First Class,0.19,3,Football,ORD10339,7,5,2023-11-11,2179.54,353.82
+CUST1340,Liam,Miller,Beauty,Home Office,Hyderabad,West Bengal,India,South,Delivered,2024-04-23,Second Class,0.1,2,Lipstick,ORD10340,2,1,2024-04-24,4315.81,727.74
+CUST1341,Noah,Williams,Electronics,Consumer,Delhi,Delhi,India,West,Delivered,2023-02-25,Second Class,0.26,4,Laptop,ORD10341,2,3,2023-02-28,2756.47,343.08
+CUST1342,Sophia,Martinez,Clothing,Corporate,Bangalore,Karnataka,India,West,Cancelled,2024-04-17,First Class,0.13,4,T-Shirt,ORD10342,7,9,2024-04-26,3479.22,368.83
+CUST1343,Sophia,Johnson,Clothing,Consumer,Bangalore,Karnataka,India,North,Cancelled,2023-10-23,Same Day,0.06,3,Jeans,ORD10343,5,5,2023-10-28,2399.68,251.34
+CUST1344,John,Miller,Clothing,Home Office,Chennai,Tamil Nadu,India,West,Cancelled,2024-04-05,Standard Class,0.06,4,Jeans,ORD10344,6,4,2024-04-09,2254.31,191.48
+CUST1345,Ava,Johnson,Sports,Corporate,Hyderabad,Karnataka,India,North,Shipped,2023-11-20,Second Class,0.23,3,Football,ORD10345,6,6,2023-11-26,2286.8,263.17
+CUST1346,Michael,Williams,Beauty,Consumer,Kolkata,Delhi,India,East,Returned,2023-05-21,Same Day,0.08,3,Moisturizer,ORD10346,4,6,2023-05-27,2113.52,189.98
+CUST1347,Liam,Miller,Sports,Home Office,Bangalore,Karnataka,India,West,Cancelled,2023-09-19,First Class,0.23,2,Football,ORD10347,9,9,2023-09-28,2739.06,484.16
+CUST1348,Emma,Brown,Home & Kitchen,Consumer,Mumbai,Maharashtra,India,South,Shipped,2024-02-24,Second Class,0.06,4,Cookware Set,ORD10348,8,9,2024-03-04,1327.17,217.41
+CUST1349,Emma,Smith,Toys,Consumer,Hyderabad,Karnataka,India,West,Cancelled,2023-08-29,Second Class,0.1,2,Action Figure,ORD10349,7,6,2023-09-04,4466.17,565.05
+CUST1350,Liam,Jones,Clothing,Consumer,Kolkata,West Bengal,India,North,Cancelled,2023-12-21,Second Class,0.14,3,Jeans,ORD10350,7,7,2023-12-28,1732.12,199.48
+CUST1351,Olivia,Rodriguez,Home & Kitchen,Home Office,Kolkata,Maharashtra,India,West,Delivered,2024-08-11,Same Day,0.28,3,Cookware Set,ORD10351,4,3,2024-08-14,822.87,80.25
+CUST1352,Michael,Davis,Books,Home Office,Bangalore,Tamil Nadu,India,East,Delivered,2023-06-29,Same Day,0.28,3,Biography,ORD10352,9,11,2023-07-10,573.1,90.03
+CUST1353,Noah,Rodriguez,Electronics,Consumer,Kolkata,West Bengal,India,South,Delivered,2023-03-07,Same Day,0.06,1,Smartwatch,ORD10353,6,5,2023-03-12,165.77,38.75
+CUST1354,Isabella,Martinez,Toys,Corporate,Bangalore,Delhi,India,North,Shipped,2023-12-14,Second Class,0.11,1,Doll,ORD10354,3,3,2023-12-17,2171.99,406.47
+CUST1355,Olivia,Rodriguez,Electronics,Corporate,Delhi,Delhi,India,South,Returned,2023-06-20,Second Class,0.04,1,Headphones,ORD10355,5,5,2023-06-25,1019.29,202.72
+CUST1356,Isabella,Miller,Sports,Home Office,Hyderabad,Delhi,India,South,Returned,2024-04-18,Standard Class,0.15,2,Dumbbells,ORD10356,5,3,2024-04-21,206.07,44.69
+CUST1357,Isabella,Brown,Toys,Home Office,Chennai,West Bengal,India,North,Shipped,2024-06-17,Standard Class,0.14,3,Doll,ORD10357,3,3,2024-06-20,2648.1,318.64
+CUST1358,Olivia,Jones,Beauty,Home Office,Delhi,West Bengal,India,South,Cancelled,2024-01-02,Same Day,0.27,4,Lipstick,ORD10358,3,2,2024-01-04,3431.89,214.75
+CUST1359,John,Smith,Home & Kitchen,Home Office,Hyderabad,West Bengal,India,South,Shipped,2023-04-17,Same Day,0.28,2,Mixer,ORD10359,9,7,2023-04-24,520.18,90.78
+CUST1360,Sophia,Smith,Beauty,Home Office,Bangalore,Maharashtra,India,West,Cancelled,2024-03-14,First Class,0.12,2,Moisturizer,ORD10360,6,6,2024-03-20,2358.51,206.92
+CUST1361,Isabella,Williams,Sports,Corporate,Hyderabad,Telangana,India,South,Shipped,2023-08-15,Same Day,0.15,2,Dumbbells,ORD10361,4,4,2023-08-19,3743.78,613.26
+CUST1362,Olivia,Davis,Electronics,Home Office,Bangalore,Maharashtra,India,South,Shipped,2024-03-19,Standard Class,0.27,4,Smartphone,ORD10362,3,5,2024-03-24,4930.45,975.75
+CUST1363,Olivia,Johnson,Toys,Consumer,Delhi,Delhi,India,South,Shipped,2024-03-17,Standard Class,0.24,3,Doll,ORD10363,4,2,2024-03-19,3369.23,696.51
+CUST1364,David,Brown,Beauty,Consumer,Mumbai,Telangana,India,South,Returned,2024-01-31,Standard Class,0.0,1,Moisturizer,ORD10364,9,11,2024-02-11,1299.71,143.45
+CUST1365,John,Johnson,Beauty,Corporate,Mumbai,Karnataka,India,North,Delivered,2024-08-03,Second Class,0.1,3,Perfume,ORD10365,8,10,2024-08-13,3611.11,550.65
+CUST1366,Ava,Jones,Electronics,Consumer,Hyderabad,Delhi,India,East,Shipped,2023-03-25,Second Class,0.13,3,Smartwatch,ORD10366,2,4,2023-03-29,3029.85,527.78
+CUST1367,David,Rodriguez,Toys,Corporate,Mumbai,Tamil Nadu,India,West,Returned,2024-07-04,Same Day,0.07,2,Board Game,ORD10367,5,6,2024-07-10,1137.82,243.38
+CUST1368,David,Smith,Home & Kitchen,Corporate,Bangalore,Maharashtra,India,South,Delivered,2023-01-13,First Class,0.06,2,Vacuum Cleaner,ORD10368,6,8,2023-01-21,4270.44,863.81
+CUST1369,Liam,Jones,Electronics,Consumer,Kolkata,West Bengal,India,South,Delivered,2024-05-07,First Class,0.01,2,Headphones,ORD10369,5,4,2024-05-11,2194.28,543.29
+CUST1370,Sophia,Rodriguez,Beauty,Home Office,Bangalore,Maharashtra,India,North,Shipped,2023-09-25,First Class,0.19,1,Moisturizer,ORD10370,6,6,2023-10-01,4813.69,248.47
+CUST1371,Olivia,Smith,Home & Kitchen,Consumer,Kolkata,West Bengal,India,East,Cancelled,2024-06-08,Second Class,0.08,1,Mixer,ORD10371,9,10,2024-06-18,3642.21,500.8
+CUST1372,Sophia,Rodriguez,Home & Kitchen,Consumer,Delhi,Telangana,India,South,Cancelled,2023-04-30,Standard Class,0.02,1,Vacuum Cleaner,ORD10372,2,4,2023-05-04,3258.36,329.78
+CUST1373,Michael,Davis,Electronics,Corporate,Chennai,Tamil Nadu,India,North,Cancelled,2023-12-19,Standard Class,0.07,3,Smartphone,ORD10373,5,5,2023-12-24,3668.93,271.42
+CUST1374,Liam,Brown,Beauty,Consumer,Kolkata,Telangana,India,West,Shipped,2023-02-26,Second Class,0.24,2,Perfume,ORD10374,2,0,2023-02-26,2442.68,567.44
+CUST1375,Ava,Martinez,Sports,Corporate,Mumbai,Tamil Nadu,India,West,Cancelled,2023-02-09,First Class,0.26,4,Football,ORD10375,9,7,2023-02-16,2575.61,642.85
+CUST1376,Sophia,Jones,Beauty,Home Office,Bangalore,Maharashtra,India,South,Returned,2023-12-02,First Class,0.14,3,Perfume,ORD10376,6,6,2023-12-08,4270.92,367.81
+CUST1377,Emma,Jones,Clothing,Home Office,Delhi,West Bengal,India,South,Returned,2023-06-22,Same Day,0.12,1,Jeans,ORD10377,3,2,2023-06-24,3436.55,198.24
+CUST1378,Isabella,Garcia,Toys,Home Office,Mumbai,Telangana,India,East,Returned,2024-06-30,Same Day,0.29,4,Board Game,ORD10378,8,8,2024-07-08,4496.49,472.18
+CUST1379,Michael,Miller,Books,Consumer,Delhi,Tamil Nadu,India,East,Returned,2023-09-16,First Class,0.06,4,Fiction Novel,ORD10379,5,5,2023-09-21,4465.05,968.79
+CUST1380,John,Davis,Sports,Corporate,Chennai,Delhi,India,South,Delivered,2024-05-31,Second Class,0.06,2,Yoga Mat,ORD10380,2,3,2024-06-03,4884.8,531.36
+CUST1381,Ava,Davis,Home & Kitchen,Home Office,Bangalore,Delhi,India,North,Returned,2024-06-06,First Class,0.09,4,Cookware Set,ORD10381,7,5,2024-06-11,3531.05,216.74
+CUST1382,Michael,Johnson,Sports,Corporate,Hyderabad,Telangana,India,East,Cancelled,2023-04-27,Same Day,0.05,1,Football,ORD10382,5,3,2023-04-30,2561.28,154.95
+CUST1383,Isabella,Rodriguez,Toys,Corporate,Bangalore,West Bengal,India,South,Shipped,2023-07-03,First Class,0.11,2,Puzzle,ORD10383,5,7,2023-07-10,914.93,123.96
+CUST1384,Liam,Miller,Home & Kitchen,Home Office,Chennai,Telangana,India,East,Cancelled,2023-04-26,Second Class,0.27,4,Cookware Set,ORD10384,5,5,2023-05-01,3556.36,840.6
+CUST1385,Isabella,Brown,Toys,Home Office,Bangalore,Maharashtra,India,South,Returned,2023-06-11,Standard Class,0.18,2,Action Figure,ORD10385,4,4,2023-06-15,1528.73,163.86
+CUST1386,David,Brown,Home & Kitchen,Corporate,Hyderabad,Tamil Nadu,India,West,Delivered,2024-08-01,Second Class,0.12,4,Vacuum Cleaner,ORD10386,2,1,2024-08-02,1486.44,201.31
+CUST1387,Isabella,Davis,Sports,Home Office,Kolkata,Maharashtra,India,South,Returned,2024-06-26,Second Class,0.28,3,Yoga Mat,ORD10387,2,0,2024-06-26,1267.61,89.22
+CUST1388,David,Brown,Home & Kitchen,Corporate,Delhi,Delhi,India,West,Shipped,2024-08-09,Same Day,0.01,3,Cookware Set,ORD10388,5,4,2024-08-13,4388.1,652.57
+CUST1389,Liam,Garcia,Home & Kitchen,Corporate,Hyderabad,Tamil Nadu,India,East,Cancelled,2023-08-25,Second Class,0.06,1,Cookware Set,ORD10389,9,10,2023-09-04,4353.03,824.07
+CUST1390,Noah,Jones,Clothing,Home Office,Mumbai,Telangana,India,South,Shipped,2023-03-07,Second Class,0.17,3,Jeans,ORD10390,9,11,2023-03-18,3191.76,332.68
+CUST1391,David,Williams,Beauty,Consumer,Chennai,Maharashtra,India,East,Shipped,2023-03-11,Same Day,0.18,3,Shampoo,ORD10391,3,2,2023-03-13,2417.61,264.35
+CUST1392,John,Martinez,Beauty,Home Office,Kolkata,Karnataka,India,West,Shipped,2024-03-22,Same Day,0.01,3,Perfume,ORD10392,5,3,2024-03-25,3393.36,741.09
+CUST1393,Isabella,Johnson,Books,Consumer,Mumbai,West Bengal,India,South,Cancelled,2024-02-20,Standard Class,0.12,4,Comics,ORD10393,4,5,2024-02-25,3075.42,160.15
+CUST1394,Isabella,Rodriguez,Books,Corporate,Mumbai,West Bengal,India,East,Returned,2024-06-15,First Class,0.19,4,Textbook,ORD10394,6,6,2024-06-21,2137.1,378.9
+CUST1395,John,Martinez,Clothing,Corporate,Chennai,Karnataka,India,West,Shipped,2024-03-16,Second Class,0.21,2,Dress,ORD10395,4,5,2024-03-21,1960.19,252.43
+CUST1396,Emma,Rodriguez,Books,Consumer,Kolkata,Delhi,India,East,Cancelled,2024-04-08,Same Day,0.19,4,Fiction Novel,ORD10396,9,8,2024-04-16,1975.69,216.69
+CUST1397,Olivia,Smith,Toys,Corporate,Mumbai,Tamil Nadu,India,North,Delivered,2024-01-31,Standard Class,0.1,3,Board Game,ORD10397,3,1,2024-02-01,2986.75,542.15
+CUST1398,Noah,Martinez,Sports,Consumer,Mumbai,West Bengal,India,West,Cancelled,2024-07-04,First Class,0.03,4,Football,ORD10398,9,8,2024-07-12,3273.58,710.15
+CUST1399,Ava,Williams,Electronics,Consumer,Kolkata,Karnataka,India,West,Delivered,2024-07-10,Same Day,0.13,1,Smartphone,ORD10399,9,9,2024-07-19,2313.53,374.05
+CUST1400,David,Davis,Toys,Corporate,Bangalore,Telangana,India,West,Cancelled,2024-01-30,First Class,0.04,2,Action Figure,ORD10400,9,9,2024-02-08,4846.59,272.47
+CUST1401,John,Garcia,Electronics,Consumer,Mumbai,Karnataka,India,South,Returned,2023-11-22,First Class,0.28,2,Smartwatch,ORD10401,5,3,2023-11-25,510.84,72.68
+CUST1402,Liam,Jones,Electronics,Home Office,Delhi,Delhi,India,South,Shipped,2023-04-01,Second Class,0.14,4,Laptop,ORD10402,9,11,2023-04-12,1800.53,256.67
+CUST1403,David,Jones,Clothing,Home Office,Kolkata,Delhi,India,South,Returned,2023-03-11,Second Class,0.1,3,Dress,ORD10403,2,3,2023-03-14,2153.47,341.88
+CUST1404,Olivia,Garcia,Toys,Corporate,Mumbai,Maharashtra,India,North,Cancelled,2023-06-15,Same Day,0.23,2,Doll,ORD10404,8,9,2023-06-24,182.91,33.69
+CUST1405,Liam,Miller,Clothing,Corporate,Chennai,West Bengal,India,North,Shipped,2023-08-02,First Class,0.15,1,T-Shirt,ORD10405,7,7,2023-08-09,1888.29,101.71
+CUST1406,Michael,Smith,Home & Kitchen,Consumer,Hyderabad,Maharashtra,India,West,Delivered,2023-12-01,Same Day,0.09,1,Cookware Set,ORD10406,5,4,2023-12-05,1441.18,216.76
+CUST1407,Isabella,Rodriguez,Electronics,Consumer,Delhi,Karnataka,India,North,Cancelled,2024-01-04,Same Day,0.24,2,Laptop,ORD10407,3,2,2024-01-06,2579.58,432.5
+CUST1408,Michael,Williams,Sports,Consumer,Hyderabad,Tamil Nadu,India,East,Shipped,2024-08-06,First Class,0.26,3,Football,ORD10408,2,4,2024-08-10,1748.41,207.48
+CUST1409,David,Brown,Books,Consumer,Hyderabad,Tamil Nadu,India,West,Delivered,2023-02-18,Same Day,0.2,3,Biography,ORD10409,4,3,2023-02-21,3658.29,671.93
+CUST1410,Olivia,Martinez,Sports,Home Office,Mumbai,Delhi,India,West,Delivered,2023-02-21,First Class,0.01,4,Dumbbells,ORD10410,9,10,2023-03-03,2598.67,248.53
+CUST1411,Noah,Smith,Books,Home Office,Delhi,Tamil Nadu,India,East,Returned,2023-10-16,First Class,0.17,4,Biography,ORD10411,6,5,2023-10-21,735.83,83.5
+CUST1412,David,Martinez,Electronics,Corporate,Delhi,Tamil Nadu,India,West,Cancelled,2023-08-27,First Class,0.23,2,Laptop,ORD10412,6,8,2023-09-04,3775.3,915.7
+CUST1413,John,Williams,Electronics,Consumer,Bangalore,Tamil Nadu,India,North,Delivered,2023-05-13,First Class,0.04,4,Headphones,ORD10413,8,9,2023-05-22,586.22,70.12
+CUST1414,Sophia,Johnson,Electronics,Consumer,Hyderabad,Karnataka,India,South,Shipped,2023-06-15,Standard Class,0.07,4,Smartphone,ORD10414,5,4,2023-06-19,4211.34,502.41
+CUST1415,David,Johnson,Clothing,Corporate,Delhi,Tamil Nadu,India,East,Delivered,2024-01-09,First Class,0.26,4,Jeans,ORD10415,4,5,2024-01-14,4663.97,788.85
+CUST1416,Isabella,Smith,Toys,Consumer,Bangalore,Telangana,India,North,Delivered,2024-01-08,Second Class,0.01,1,Puzzle,ORD10416,8,8,2024-01-16,1679.98,410.24
+CUST1417,Isabella,Davis,Books,Consumer,Kolkata,Tamil Nadu,India,East,Returned,2024-04-22,Second Class,0.23,4,Comics,ORD10417,7,7,2024-04-29,4638.1,1143.83
+CUST1418,David,Williams,Toys,Consumer,Bangalore,Tamil Nadu,India,East,Returned,2024-04-23,Second Class,0.14,2,Doll,ORD10418,7,7,2024-04-30,3985.74,661.36
+CUST1419,Liam,Williams,Clothing,Consumer,Chennai,Maharashtra,India,West,Shipped,2024-08-13,First Class,0.13,3,Jeans,ORD10419,8,7,2024-08-20,4619.93,232.0
+CUST1420,Sophia,Garcia,Clothing,Consumer,Mumbai,Karnataka,India,West,Returned,2023-10-27,Second Class,0.0,4,T-Shirt,ORD10420,3,5,2023-11-01,3364.72,774.33
+CUST1421,John,Davis,Beauty,Corporate,Kolkata,Delhi,India,North,Delivered,2023-03-23,Standard Class,0.25,3,Perfume,ORD10421,6,7,2023-03-30,1254.66,205.82
+CUST1422,David,Rodriguez,Sports,Consumer,Kolkata,Maharashtra,India,East,Delivered,2023-03-28,Same Day,0.11,4,Tennis Racket,ORD10422,4,2,2023-03-30,4483.16,552.32
+CUST1423,Liam,Rodriguez,Sports,Corporate,Chennai,West Bengal,India,West,Returned,2023-08-13,First Class,0.16,2,Yoga Mat,ORD10423,5,5,2023-08-18,1002.9,216.46
+CUST1424,Isabella,Brown,Home & Kitchen,Consumer,Bangalore,Karnataka,India,West,Delivered,2023-01-16,Second Class,0.2,1,Mixer,ORD10424,9,9,2023-01-25,1144.0,148.68
+CUST1425,Isabella,Jones,Clothing,Home Office,Mumbai,Telangana,India,East,Delivered,2023-12-24,Standard Class,0.21,2,Jacket,ORD10425,2,0,2023-12-24,1428.21,81.14
+CUST1426,Olivia,Johnson,Books,Home Office,Bangalore,Karnataka,India,North,Shipped,2023-06-12,Same Day,0.29,1,Fiction Novel,ORD10426,5,3,2023-06-15,1590.81,340.77
+CUST1427,David,Rodriguez,Beauty,Home Office,Delhi,West Bengal,India,North,Returned,2024-05-28,Standard Class,0.16,4,Lipstick,ORD10427,5,4,2024-06-01,2620.95,417.18
+CUST1428,Sophia,Davis,Beauty,Home Office,Bangalore,West Bengal,India,East,Delivered,2023-12-16,Second Class,0.12,4,Lipstick,ORD10428,4,5,2023-12-21,3595.94,422.99
+CUST1429,Emma,Williams,Toys,Corporate,Kolkata,West Bengal,India,North,Returned,2024-04-08,Standard Class,0.29,1,Board Game,ORD10429,6,6,2024-04-14,4638.42,464.67
+CUST1430,Sophia,Rodriguez,Sports,Corporate,Mumbai,Delhi,India,West,Shipped,2024-01-10,Same Day,0.19,2,Yoga Mat,ORD10430,4,6,2024-01-16,533.34,90.01
+CUST1431,Isabella,Williams,Clothing,Consumer,Bangalore,Tamil Nadu,India,East,Returned,2023-04-02,Second Class,0.09,2,Jacket,ORD10431,2,1,2023-04-03,4776.41,437.57
+CUST1432,Isabella,Rodriguez,Home & Kitchen,Home Office,Mumbai,Karnataka,India,West,Delivered,2023-06-30,Same Day,0.04,1,Lamp,ORD10432,8,7,2023-07-07,4614.48,529.6
+CUST1433,Michael,Johnson,Clothing,Corporate,Mumbai,Tamil Nadu,India,South,Returned,2023-10-28,Standard Class,0.25,4,Jacket,ORD10433,4,6,2023-11-03,364.6,64.65
+CUST1434,Isabella,Martinez,Toys,Consumer,Delhi,Tamil Nadu,India,South,Delivered,2023-07-08,First Class,0.11,1,Doll,ORD10434,3,5,2023-07-13,1865.57,422.2
+CUST1435,John,Rodriguez,Electronics,Consumer,Delhi,Telangana,India,North,Delivered,2023-11-10,First Class,0.2,4,Smartwatch,ORD10435,5,7,2023-11-17,4084.4,639.53
+CUST1436,Ava,Davis,Clothing,Corporate,Kolkata,West Bengal,India,South,Delivered,2024-05-07,First Class,0.14,1,Dress,ORD10436,6,4,2024-05-11,3096.73,624.99
+CUST1437,David,Rodriguez,Toys,Home Office,Chennai,Delhi,India,West,Shipped,2023-05-08,First Class,0.06,4,Puzzle,ORD10437,9,9,2023-05-17,3917.56,793.75
+CUST1438,Sophia,Jones,Electronics,Consumer,Mumbai,Telangana,India,South,Returned,2024-06-02,Same Day,0.18,1,Laptop,ORD10438,7,5,2024-06-07,3623.26,662.59
+CUST1439,Ava,Johnson,Electronics,Home Office,Chennai,Maharashtra,India,West,Shipped,2024-03-01,First Class,0.02,3,Laptop,ORD10439,2,2,2024-03-03,2534.17,251.31
+CUST1440,Liam,Davis,Home & Kitchen,Home Office,Kolkata,Delhi,India,North,Returned,2024-07-12,Same Day,0.12,4,Lamp,ORD10440,7,5,2024-07-17,301.97,67.45
+CUST1441,Emma,Garcia,Books,Home Office,Mumbai,Tamil Nadu,India,North,Shipped,2024-07-18,Second Class,0.16,2,Comics,ORD10441,5,6,2024-07-24,2962.91,406.67
+CUST1442,John,Davis,Sports,Consumer,Mumbai,Delhi,India,West,Cancelled,2023-07-06,First Class,0.13,1,Football,ORD10442,4,4,2023-07-10,337.98,19.89
+CUST1443,Sophia,Jones,Clothing,Home Office,Hyderabad,West Bengal,India,South,Delivered,2024-07-03,Same Day,0.22,2,Dress,ORD10443,7,6,2024-07-09,3058.26,302.53
+CUST1444,Ava,Martinez,Electronics,Consumer,Chennai,Maharashtra,India,North,Delivered,2024-03-28,First Class,0.25,1,Laptop,ORD10444,3,3,2024-03-31,4022.01,816.91
+CUST1445,Emma,Johnson,Clothing,Home Office,Bangalore,West Bengal,India,East,Shipped,2024-04-15,First Class,0.23,2,Dress,ORD10445,4,4,2024-04-19,2966.46,189.34
+CUST1446,Michael,Garcia,Books,Consumer,Delhi,Maharashtra,India,North,Cancelled,2024-07-18,First Class,0.01,2,Comics,ORD10446,5,5,2024-07-23,4985.41,396.2
+CUST1447,John,Jones,Sports,Home Office,Bangalore,Telangana,India,South,Delivered,2023-08-12,Same Day,0.06,1,Football,ORD10447,7,8,2023-08-20,2333.75,440.72
+CUST1448,John,Jones,Books,Corporate,Chennai,Tamil Nadu,India,East,Returned,2023-06-03,Standard Class,0.16,1,Comics,ORD10448,9,7,2023-06-10,3769.25,861.35
+CUST1449,Michael,Smith,Sports,Home Office,Delhi,Maharashtra,India,South,Shipped,2024-07-13,First Class,0.28,2,Yoga Mat,ORD10449,8,7,2024-07-20,3369.35,595.52
+CUST1450,David,Johnson,Beauty,Home Office,Bangalore,Maharashtra,India,West,Delivered,2023-12-17,First Class,0.25,2,Lipstick,ORD10450,2,0,2023-12-17,4958.02,468.33
+CUST1451,Michael,Davis,Sports,Consumer,Hyderabad,Maharashtra,India,East,Delivered,2023-05-27,Second Class,0.25,2,Dumbbells,ORD10451,7,5,2023-06-01,3594.77,218.14
+CUST1452,John,Williams,Home & Kitchen,Consumer,Delhi,Delhi,India,South,Shipped,2024-07-29,Standard Class,0.09,4,Lamp,ORD10452,9,11,2024-08-09,903.75,156.37
+CUST1453,John,Martinez,Books,Home Office,Mumbai,Telangana,India,East,Shipped,2023-12-15,Same Day,0.13,4,Fiction Novel,ORD10453,8,9,2023-12-24,4782.04,284.43
+CUST1454,Ava,Williams,Electronics,Corporate,Bangalore,Delhi,India,South,Returned,2023-07-01,Second Class,0.14,3,Smartwatch,ORD10454,8,10,2023-07-11,3372.11,581.84
+CUST1455,Isabella,Davis,Beauty,Corporate,Delhi,Tamil Nadu,India,East,Returned,2023-06-28,First Class,0.05,4,Perfume,ORD10455,7,8,2023-07-06,390.76,37.17
+CUST1456,Emma,Davis,Home & Kitchen,Consumer,Hyderabad,Maharashtra,India,South,Delivered,2023-02-08,Second Class,0.01,4,Cookware Set,ORD10456,6,4,2023-02-12,3322.08,767.17
+CUST1457,Michael,Johnson,Clothing,Corporate,Delhi,Telangana,India,West,Delivered,2023-01-03,Second Class,0.28,1,Jacket,ORD10457,7,5,2023-01-08,4427.29,642.04
+CUST1458,Emma,Davis,Books,Home Office,Delhi,Telangana,India,East,Shipped,2023-03-05,First Class,0.07,3,Biography,ORD10458,5,6,2023-03-11,2927.51,277.49
+CUST1459,Michael,Smith,Toys,Consumer,Hyderabad,Karnataka,India,East,Delivered,2023-01-29,Standard Class,0.07,3,Doll,ORD10459,8,6,2023-02-04,1834.7,404.79
+CUST1460,Liam,Garcia,Toys,Home Office,Bangalore,Tamil Nadu,India,East,Delivered,2024-01-07,Standard Class,0.03,4,Doll,ORD10460,2,0,2024-01-07,4122.46,415.57
+CUST1461,John,Davis,Electronics,Consumer,Kolkata,Telangana,India,East,Shipped,2024-06-06,Second Class,0.28,1,Headphones,ORD10461,5,4,2024-06-10,3934.31,437.97
+CUST1462,Isabella,Williams,Sports,Consumer,Bangalore,Maharashtra,India,West,Delivered,2023-04-07,First Class,0.17,1,Dumbbells,ORD10462,3,5,2023-04-12,2766.49,599.93
+CUST1463,Ava,Davis,Electronics,Consumer,Chennai,Maharashtra,India,East,Delivered,2024-03-17,Same Day,0.2,3,Headphones,ORD10463,4,6,2024-03-23,856.37,95.71
+CUST1464,Isabella,Smith,Toys,Consumer,Hyderabad,Telangana,India,North,Cancelled,2023-07-22,Second Class,0.27,1,Board Game,ORD10464,7,9,2023-07-31,1329.83,175.58
+CUST1465,Isabella,Rodriguez,Clothing,Corporate,Bangalore,Delhi,India,West,Returned,2024-02-15,Same Day,0.1,2,Jeans,ORD10465,6,6,2024-02-21,3718.57,444.49
+CUST1466,Isabella,Rodriguez,Beauty,Home Office,Delhi,Tamil Nadu,India,North,Shipped,2023-01-21,Second Class,0.19,4,Shampoo,ORD10466,2,1,2023-01-22,4049.8,296.77
+CUST1467,Emma,Jones,Beauty,Home Office,Hyderabad,Maharashtra,India,East,Cancelled,2024-07-04,Second Class,0.01,2,Moisturizer,ORD10467,6,8,2024-07-12,1468.4,84.84
+CUST1468,Michael,Martinez,Books,Home Office,Mumbai,Telangana,India,South,Returned,2023-04-12,First Class,0.06,3,Comics,ORD10468,6,8,2023-04-20,1903.13,370.94
+CUST1469,Noah,Brown,Beauty,Consumer,Bangalore,Maharashtra,India,North,Returned,2023-02-15,First Class,0.25,3,Lipstick,ORD10469,6,5,2023-02-20,480.4,86.0
+CUST1470,Liam,Garcia,Books,Corporate,Hyderabad,Telangana,India,East,Returned,2023-03-07,Same Day,0.23,1,Comics,ORD10470,7,5,2023-03-12,3595.96,382.87
+CUST1471,Sophia,Miller,Books,Home Office,Bangalore,Tamil Nadu,India,North,Cancelled,2023-06-13,Same Day,0.11,1,Fiction Novel,ORD10471,2,4,2023-06-17,117.53,12.82
+CUST1472,Isabella,Jones,Books,Corporate,Hyderabad,Telangana,India,East,Cancelled,2023-04-21,Standard Class,0.11,3,Textbook,ORD10472,2,0,2023-04-21,328.05,78.4
+CUST1473,David,Martinez,Toys,Consumer,Delhi,Karnataka,India,East,Returned,2023-12-04,First Class,0.16,3,Doll,ORD10473,8,10,2023-12-14,121.29,30.02
+CUST1474,Emma,Rodriguez,Toys,Home Office,Mumbai,Telangana,India,East,Delivered,2023-05-03,Second Class,0.0,2,Puzzle,ORD10474,6,7,2023-05-10,3262.07,471.98
+CUST1475,Ava,Williams,Sports,Corporate,Mumbai,Telangana,India,South,Delivered,2024-03-22,Second Class,0.07,2,Tennis Racket,ORD10475,8,8,2024-03-30,2145.2,451.54
+CUST1476,Sophia,Miller,Home & Kitchen,Consumer,Chennai,Tamil Nadu,India,North,Cancelled,2023-10-18,Standard Class,0.06,1,Vacuum Cleaner,ORD10476,8,10,2023-10-28,1557.98,307.45
+CUST1477,Noah,Martinez,Books,Corporate,Hyderabad,Telangana,India,West,Cancelled,2024-02-16,First Class,0.08,2,Textbook,ORD10477,4,5,2024-02-21,4572.23,500.49
+CUST1478,David,Martinez,Books,Home Office,Bangalore,Tamil Nadu,India,West,Cancelled,2023-10-08,Second Class,0.24,1,Textbook,ORD10478,7,6,2023-10-14,1044.73,64.47
+CUST1479,Noah,Jones,Home & Kitchen,Home Office,Mumbai,Karnataka,India,West,Returned,2023-02-12,Standard Class,0.08,1,Mixer,ORD10479,7,8,2023-02-20,2007.9,157.64
+CUST1480,Sophia,Miller,Electronics,Consumer,Mumbai,Tamil Nadu,India,West,Delivered,2024-04-30,Standard Class,0.06,4,Laptop,ORD10480,5,4,2024-05-04,4707.53,1024.64
+CUST1481,Isabella,Johnson,Books,Consumer,Kolkata,Maharashtra,India,East,Cancelled,2024-08-18,Second Class,0.15,1,Fiction Novel,ORD10481,9,11,2024-08-29,2192.82,430.33
+CUST1482,David,Brown,Sports,Consumer,Kolkata,Tamil Nadu,India,North,Cancelled,2023-02-20,Second Class,0.26,2,Football,ORD10482,8,7,2023-02-27,2818.0,515.32
+CUST1483,Noah,Johnson,Beauty,Corporate,Mumbai,Karnataka,India,North,Shipped,2023-07-29,Same Day,0.07,3,Moisturizer,ORD10483,7,8,2023-08-06,493.65,37.58
+CUST1484,Ava,Miller,Beauty,Corporate,Hyderabad,West Bengal,India,South,Returned,2023-05-06,First Class,0.02,3,Moisturizer,ORD10484,6,6,2023-05-12,3971.82,706.93
+CUST1485,Michael,Johnson,Clothing,Corporate,Chennai,Telangana,India,North,Shipped,2024-05-06,Same Day,0.11,2,Jeans,ORD10485,9,7,2024-05-13,2171.52,443.92
+CUST1486,John,Smith,Clothing,Consumer,Mumbai,Tamil Nadu,India,North,Delivered,2024-05-23,Standard Class,0.22,3,Jacket,ORD10486,3,1,2024-05-24,4022.52,893.48
+CUST1487,Michael,Rodriguez,Beauty,Home Office,Delhi,Telangana,India,North,Shipped,2024-08-03,Second Class,0.17,1,Moisturizer,ORD10487,6,6,2024-08-09,1343.61,70.74
+CUST1488,Sophia,Smith,Beauty,Home Office,Bangalore,Delhi,India,South,Shipped,2023-09-15,Same Day,0.25,3,Shampoo,ORD10488,2,0,2023-09-15,2170.15,405.59
+CUST1489,Emma,Davis,Toys,Corporate,Chennai,Maharashtra,India,West,Shipped,2023-07-07,Standard Class,0.29,2,Action Figure,ORD10489,7,9,2023-07-16,3954.09,212.81
+CUST1490,John,Johnson,Sports,Corporate,Delhi,Maharashtra,India,North,Returned,2023-08-18,First Class,0.24,3,Football,ORD10490,9,11,2023-08-29,4872.0,932.38
+CUST1491,Liam,Davis,Home & Kitchen,Home Office,Chennai,Delhi,India,South,Delivered,2023-07-08,Second Class,0.18,1,Mixer,ORD10491,7,8,2023-07-16,392.17,69.46
+CUST1492,Ava,Williams,Clothing,Home Office,Delhi,Delhi,India,South,Shipped,2024-02-19,Same Day,0.15,1,T-Shirt,ORD10492,5,6,2024-02-25,4081.04,325.13
+CUST1493,Liam,Garcia,Toys,Corporate,Bangalore,Tamil Nadu,India,East,Returned,2023-01-10,First Class,0.01,2,Puzzle,ORD10493,8,7,2023-01-17,1573.38,319.75
+CUST1494,David,Williams,Toys,Corporate,Bangalore,Delhi,India,South,Delivered,2023-04-24,Same Day,0.3,2,Action Figure,ORD10494,3,4,2023-04-28,2798.64,178.19
+CUST1495,John,Miller,Home & Kitchen,Home Office,Kolkata,West Bengal,India,West,Cancelled,2023-03-17,Standard Class,0.12,2,Lamp,ORD10495,7,9,2023-03-26,1521.45,327.54
+CUST1496,Liam,Martinez,Toys,Consumer,Hyderabad,Telangana,India,North,Shipped,2024-05-16,First Class,0.05,4,Action Figure,ORD10496,5,6,2024-05-22,3105.88,318.0
+CUST1497,Liam,Rodriguez,Sports,Corporate,Delhi,Telangana,India,South,Delivered,2023-03-26,Same Day,0.2,4,Yoga Mat,ORD10497,5,3,2023-03-29,1833.63,344.3
+CUST1498,Noah,Johnson,Beauty,Home Office,Kolkata,Karnataka,India,West,Shipped,2023-02-18,First Class,0.09,1,Moisturizer,ORD10498,3,2,2023-02-20,1734.71,407.2
+CUST1499,Michael,Jones,Books,Home Office,Delhi,Delhi,India,South,Cancelled,2024-05-09,Standard Class,0.18,4,Textbook,ORD10499,6,5,2024-05-14,285.9,33.73
+CUST1500,Noah,Garcia,Home & Kitchen,Home Office,Kolkata,Delhi,India,South,Delivered,2024-01-22,First Class,0.18,4,Cookware Set,ORD10500,6,8,2024-01-30,820.11,123.49
+CUST1501,John,Brown,Beauty,Home Office,Bangalore,West Bengal,India,South,Returned,2024-01-24,Same Day,0.13,3,Perfume,ORD10501,6,7,2024-01-31,4593.68,655.17
+CUST1502,John,Brown,Beauty,Consumer,Chennai,Maharashtra,India,South,Delivered,2023-08-06,Standard Class,0.25,4,Perfume,ORD10502,4,2,2023-08-08,4991.56,406.92
+CUST1503,Sophia,Brown,Electronics,Home Office,Kolkata,Maharashtra,India,South,Returned,2023-12-12,Second Class,0.08,3,Headphones,ORD10503,8,9,2023-12-21,3924.55,659.57
+CUST1504,Noah,Johnson,Home & Kitchen,Corporate,Delhi,Telangana,India,West,Delivered,2023-08-18,Same Day,0.13,2,Cookware Set,ORD10504,9,9,2023-08-27,1505.38,298.97
+CUST1505,Olivia,Brown,Toys,Consumer,Delhi,Telangana,India,North,Returned,2023-09-12,Same Day,0.16,3,Action Figure,ORD10505,8,9,2023-09-21,2071.98,483.55
+CUST1506,Michael,Smith,Books,Home Office,Hyderabad,Tamil Nadu,India,North,Cancelled,2023-08-24,Standard Class,0.2,3,Comics,ORD10506,6,8,2023-09-01,3723.57,819.78
+CUST1507,John,Garcia,Home & Kitchen,Consumer,Bangalore,West Bengal,India,North,Cancelled,2023-01-26,Standard Class,0.24,2,Mixer,ORD10507,3,4,2023-01-30,4845.72,736.57
+CUST1508,Sophia,Smith,Toys,Corporate,Delhi,Karnataka,India,North,Cancelled,2024-08-06,Second Class,0.12,2,Puzzle,ORD10508,4,3,2024-08-09,2331.81,451.91
+CUST1509,Noah,Martinez,Beauty,Home Office,Mumbai,Karnataka,India,West,Delivered,2023-09-18,Same Day,0.19,1,Perfume,ORD10509,8,6,2023-09-24,4164.66,875.23
+CUST1510,Michael,Garcia,Books,Corporate,Chennai,West Bengal,India,East,Cancelled,2023-09-28,Standard Class,0.05,1,Fiction Novel,ORD10510,6,8,2023-10-06,4877.84,725.32
+CUST1511,Noah,Smith,Toys,Home Office,Kolkata,Karnataka,India,East,Shipped,2023-05-03,Second Class,0.28,1,Doll,ORD10511,4,4,2023-05-07,4380.02,320.12
+CUST1512,Liam,Garcia,Sports,Home Office,Hyderabad,Maharashtra,India,West,Cancelled,2023-09-14,Second Class,0.11,1,Yoga Mat,ORD10512,9,7,2023-09-21,1213.03,166.9
+CUST1513,Sophia,Martinez,Toys,Home Office,Chennai,Karnataka,India,West,Returned,2024-02-25,Standard Class,0.22,3,Action Figure,ORD10513,3,1,2024-02-26,139.36,30.45
+CUST1514,Michael,Davis,Electronics,Home Office,Bangalore,Karnataka,India,South,Returned,2023-09-16,Same Day,0.01,3,Laptop,ORD10514,6,5,2023-09-21,2511.2,425.22
+CUST1515,Isabella,Johnson,Beauty,Home Office,Hyderabad,West Bengal,India,South,Returned,2023-02-16,First Class,0.06,1,Moisturizer,ORD10515,9,8,2023-02-24,2703.67,526.92
+CUST1516,David,Johnson,Toys,Consumer,Kolkata,West Bengal,India,South,Delivered,2024-06-08,First Class,0.15,4,Puzzle,ORD10516,2,1,2024-06-09,1086.13,94.55
+CUST1517,David,Brown,Clothing,Home Office,Kolkata,Karnataka,India,North,Shipped,2023-07-27,Second Class,0.26,1,Dress,ORD10517,9,11,2023-08-07,1494.9,363.06
+CUST1518,Michael,Williams,Clothing,Home Office,Mumbai,Delhi,India,South,Cancelled,2023-11-07,First Class,0.16,4,Dress,ORD10518,7,8,2023-11-15,3849.25,503.54
+CUST1519,Noah,Brown,Electronics,Consumer,Bangalore,West Bengal,India,East,Shipped,2023-05-29,First Class,0.28,2,Smartwatch,ORD10519,3,1,2023-05-30,2404.7,434.59
+CUST1520,Sophia,Miller,Sports,Consumer,Hyderabad,Tamil Nadu,India,North,Shipped,2024-03-13,Standard Class,0.15,3,Football,ORD10520,9,10,2024-03-23,1655.04,89.0
+CUST1521,David,Smith,Beauty,Consumer,Hyderabad,Tamil Nadu,India,South,Returned,2023-06-04,Second Class,0.15,3,Lipstick,ORD10521,9,10,2023-06-14,3150.87,237.78
+CUST1522,Sophia,Garcia,Home & Kitchen,Consumer,Delhi,Maharashtra,India,North,Returned,2023-03-31,Same Day,0.04,4,Mixer,ORD10522,5,4,2023-04-04,3298.52,680.84
+CUST1523,David,Williams,Electronics,Consumer,Mumbai,Karnataka,India,East,Returned,2023-12-24,Second Class,0.24,1,Smartwatch,ORD10523,5,6,2023-12-30,3870.04,942.72
+CUST1524,Liam,Martinez,Sports,Consumer,Mumbai,Delhi,India,South,Delivered,2023-06-23,Standard Class,0.07,3,Dumbbells,ORD10524,9,7,2023-06-30,867.88,98.95
+CUST1525,Noah,Miller,Home & Kitchen,Home Office,Hyderabad,Maharashtra,India,East,Shipped,2023-08-05,First Class,0.27,4,Vacuum Cleaner,ORD10525,9,7,2023-08-12,3733.43,214.43
+CUST1526,Liam,Martinez,Clothing,Home Office,Hyderabad,Karnataka,India,East,Shipped,2024-03-31,Same Day,0.27,2,Jacket,ORD10526,3,3,2024-04-03,3037.2,371.06
+CUST1527,David,Johnson,Clothing,Corporate,Chennai,West Bengal,India,East,Delivered,2023-07-18,Second Class,0.28,2,T-Shirt,ORD10527,5,7,2023-07-25,382.1,20.44
+CUST1528,Isabella,Johnson,Home & Kitchen,Home Office,Chennai,Tamil Nadu,India,South,Delivered,2024-04-30,First Class,0.16,3,Lamp,ORD10528,8,9,2024-05-09,3909.48,345.89
+CUST1529,Isabella,Brown,Electronics,Home Office,Chennai,Telangana,India,West,Delivered,2024-06-16,Second Class,0.2,1,Laptop,ORD10529,3,5,2024-06-21,1977.09,396.4
+CUST1530,Liam,Smith,Clothing,Consumer,Mumbai,Delhi,India,South,Shipped,2023-07-19,Same Day,0.23,4,Jeans,ORD10530,2,4,2023-07-23,1718.87,408.09
+CUST1531,Isabella,Williams,Beauty,Consumer,Delhi,Telangana,India,East,Shipped,2024-01-06,Second Class,0.04,3,Perfume,ORD10531,3,5,2024-01-11,2295.57,154.93
+CUST1532,David,Rodriguez,Books,Home Office,Kolkata,Tamil Nadu,India,South,Returned,2024-03-23,Second Class,0.18,2,Fiction Novel,ORD10532,6,8,2024-03-31,1796.26,290.24
+CUST1533,Michael,Miller,Toys,Corporate,Chennai,Telangana,India,East,Returned,2023-09-05,Second Class,0.01,1,Action Figure,ORD10533,6,4,2023-09-09,1757.6,177.12
+CUST1534,Liam,Miller,Home & Kitchen,Consumer,Delhi,West Bengal,India,West,Shipped,2023-09-21,First Class,0.15,4,Cookware Set,ORD10534,4,5,2023-09-26,4059.58,315.88
+CUST1535,Emma,Brown,Home & Kitchen,Home Office,Bangalore,Karnataka,India,North,Returned,2023-02-27,Same Day,0.05,3,Vacuum Cleaner,ORD10535,5,5,2023-03-04,710.08,66.6
+CUST1536,Noah,Johnson,Clothing,Home Office,Chennai,West Bengal,India,West,Delivered,2023-10-29,Same Day,0.05,4,T-Shirt,ORD10536,9,11,2023-11-09,4855.94,803.91
+CUST1537,Isabella,Brown,Electronics,Corporate,Kolkata,Telangana,India,West,Cancelled,2023-01-31,First Class,0.11,1,Laptop,ORD10537,7,7,2023-02-07,2819.17,177.68
+CUST1538,Isabella,Garcia,Beauty,Corporate,Bangalore,West Bengal,India,North,Returned,2024-05-12,First Class,0.13,1,Moisturizer,ORD10538,5,3,2024-05-15,996.33,136.34
+CUST1539,John,Williams,Electronics,Consumer,Bangalore,Tamil Nadu,India,South,Shipped,2023-09-06,First Class,0.19,2,Laptop,ORD10539,8,6,2023-09-12,742.96,57.24
+CUST1540,Olivia,Smith,Sports,Corporate,Kolkata,Delhi,India,North,Returned,2023-09-28,Standard Class,0.02,1,Yoga Mat,ORD10540,3,2,2023-09-30,2998.4,313.44
+CUST1541,Liam,Davis,Sports,Home Office,Chennai,West Bengal,India,South,Returned,2024-01-29,Second Class,0.15,3,Football,ORD10541,7,9,2024-02-07,3201.7,282.23
+CUST1542,Ava,Jones,Books,Home Office,Mumbai,Tamil Nadu,India,South,Returned,2024-05-16,Second Class,0.05,4,Comics,ORD10542,7,6,2024-05-22,359.83,81.54
+CUST1543,Isabella,Jones,Clothing,Corporate,Kolkata,Delhi,India,East,Cancelled,2024-08-14,Same Day,0.17,1,T-Shirt,ORD10543,9,9,2024-08-23,1290.71,247.3
+CUST1544,Noah,Brown,Clothing,Corporate,Kolkata,Karnataka,India,East,Delivered,2023-03-25,Second Class,0.19,1,Dress,ORD10544,9,10,2023-04-04,3997.76,894.27
+CUST1545,Emma,Garcia,Clothing,Corporate,Kolkata,Telangana,India,North,Shipped,2023-12-31,Standard Class,0.17,3,Jeans,ORD10545,5,4,2024-01-04,343.16,43.48
+CUST1546,Isabella,Williams,Books,Corporate,Bangalore,Karnataka,India,West,Cancelled,2024-07-02,First Class,0.22,4,Biography,ORD10546,7,5,2024-07-07,4289.93,483.4
+CUST1547,Emma,Rodriguez,Sports,Consumer,Delhi,Maharashtra,India,North,Shipped,2023-12-08,Same Day,0.1,4,Yoga Mat,ORD10547,7,9,2023-12-17,3325.0,419.34
+CUST1548,David,Jones,Electronics,Corporate,Mumbai,Tamil Nadu,India,South,Shipped,2024-02-11,Same Day,0.23,2,Headphones,ORD10548,6,6,2024-02-17,2228.67,119.7
+CUST1549,David,Williams,Books,Consumer,Chennai,Delhi,India,East,Shipped,2024-02-29,Second Class,0.13,2,Comics,ORD10549,2,0,2024-02-29,1797.52,350.41
+CUST1550,Olivia,Smith,Books,Home Office,Chennai,West Bengal,India,North,Cancelled,2023-04-03,Same Day,0.15,4,Textbook,ORD10550,9,10,2023-04-13,194.32,23.31
+CUST1551,Michael,Martinez,Electronics,Corporate,Delhi,Karnataka,India,North,Delivered,2024-02-16,First Class,0.19,3,Headphones,ORD10551,3,5,2024-02-21,4143.55,466.83
+CUST1552,Ava,Garcia,Clothing,Consumer,Kolkata,Delhi,India,East,Shipped,2024-03-07,Same Day,0.01,3,Jacket,ORD10552,5,6,2024-03-13,799.34,135.59
+CUST1553,John,Johnson,Beauty,Corporate,Mumbai,Tamil Nadu,India,East,Delivered,2023-06-08,First Class,0.2,2,Shampoo,ORD10553,9,10,2023-06-18,1616.76,221.9
+CUST1554,Olivia,Williams,Electronics,Home Office,Chennai,Maharashtra,India,East,Delivered,2023-01-14,Standard Class,0.19,1,Laptop,ORD10554,6,8,2023-01-22,2888.62,711.09
+CUST1555,Sophia,Smith,Sports,Home Office,Hyderabad,Karnataka,India,South,Returned,2024-01-08,Standard Class,0.09,3,Yoga Mat,ORD10555,8,10,2024-01-18,1305.36,158.28
+CUST1556,John,Rodriguez,Home & Kitchen,Home Office,Chennai,Telangana,India,East,Cancelled,2023-08-13,First Class,0.03,1,Vacuum Cleaner,ORD10556,9,10,2023-08-23,2535.99,438.17
+CUST1557,Liam,Davis,Home & Kitchen,Corporate,Kolkata,Delhi,India,West,Cancelled,2024-05-19,Second Class,0.03,3,Vacuum Cleaner,ORD10557,8,8,2024-05-27,4065.78,456.71
+CUST1558,Noah,Johnson,Toys,Corporate,Hyderabad,Telangana,India,North,Returned,2023-03-14,Same Day,0.28,4,Action Figure,ORD10558,4,6,2023-03-20,2405.64,596.88
+CUST1559,Sophia,Davis,Toys,Consumer,Delhi,Delhi,India,East,Returned,2023-09-06,Second Class,0.21,2,Puzzle,ORD10559,7,5,2023-09-11,4749.99,660.35
+CUST1560,Sophia,Rodriguez,Books,Home Office,Mumbai,Delhi,India,East,Delivered,2024-05-25,Same Day,0.04,1,Biography,ORD10560,7,6,2024-05-31,4252.75,752.0
+CUST1561,Olivia,Smith,Home & Kitchen,Corporate,Delhi,Tamil Nadu,India,South,Shipped,2023-08-04,Standard Class,0.11,1,Cookware Set,ORD10561,5,5,2023-08-09,1731.89,130.49
+CUST1562,Michael,Jones,Beauty,Home Office,Delhi,Tamil Nadu,India,South,Cancelled,2024-06-24,Standard Class,0.18,4,Perfume,ORD10562,2,4,2024-06-28,2059.81,404.97
+CUST1563,Olivia,Davis,Clothing,Home Office,Mumbai,Tamil Nadu,India,North,Shipped,2023-08-08,Standard Class,0.25,3,Dress,ORD10563,2,4,2023-08-12,2174.3,225.78
+CUST1564,Liam,Johnson,Sports,Consumer,Mumbai,West Bengal,India,West,Shipped,2023-08-09,Same Day,0.01,1,Yoga Mat,ORD10564,5,5,2023-08-14,3168.28,442.68
+CUST1565,Isabella,Brown,Toys,Consumer,Chennai,Delhi,India,North,Returned,2024-01-24,Standard Class,0.07,3,Board Game,ORD10565,5,4,2024-01-28,1505.3,341.14
+CUST1566,Isabella,Miller,Beauty,Consumer,Chennai,Karnataka,India,East,Shipped,2024-07-07,Standard Class,0.27,4,Shampoo,ORD10566,6,7,2024-07-14,4849.32,1183.77
+CUST1567,Michael,Williams,Sports,Consumer,Mumbai,Telangana,India,West,Delivered,2023-02-11,Standard Class,0.0,2,Football,ORD10567,8,6,2023-02-17,3082.55,415.88
+CUST1568,Liam,Jones,Sports,Home Office,Hyderabad,Tamil Nadu,India,West,Returned,2023-10-10,Standard Class,0.06,1,Yoga Mat,ORD10568,5,7,2023-10-17,2057.07,446.3
+CUST1569,Michael,Davis,Clothing,Consumer,Bangalore,Tamil Nadu,India,West,Shipped,2023-02-27,Second Class,0.29,3,Jeans,ORD10569,8,7,2023-03-06,3260.55,197.82
+CUST1570,Emma,Martinez,Books,Consumer,Chennai,Telangana,India,West,Returned,2024-06-20,Standard Class,0.18,1,Comics,ORD10570,9,7,2024-06-27,2037.48,447.26
+CUST1571,Isabella,Williams,Home & Kitchen,Consumer,Bangalore,Telangana,India,North,Delivered,2023-03-14,Standard Class,0.08,3,Cookware Set,ORD10571,9,9,2023-03-23,4107.2,722.46
+CUST1572,Sophia,Brown,Clothing,Consumer,Hyderabad,Delhi,India,South,Delivered,2023-05-09,Second Class,0.02,3,Jacket,ORD10572,4,6,2023-05-15,2882.42,425.85
+CUST1573,Ava,Rodriguez,Beauty,Home Office,Mumbai,Tamil Nadu,India,South,Shipped,2024-08-21,Second Class,0.01,3,Moisturizer,ORD10573,8,9,2024-08-30,305.66,69.69
+CUST1574,Noah,Miller,Books,Consumer,Hyderabad,Telangana,India,East,Returned,2024-03-01,Same Day,0.07,4,Textbook,ORD10574,6,6,2024-03-07,966.11,211.64
+CUST1575,Liam,Smith,Beauty,Home Office,Chennai,West Bengal,India,South,Shipped,2023-05-05,First Class,0.26,2,Lipstick,ORD10575,9,11,2023-05-16,4338.47,474.58
+CUST1576,John,Brown,Books,Corporate,Delhi,West Bengal,India,South,Shipped,2023-03-08,Standard Class,0.12,1,Biography,ORD10576,7,6,2023-03-14,2858.21,595.36
+CUST1577,Michael,Brown,Toys,Home Office,Mumbai,Tamil Nadu,India,South,Returned,2023-01-06,Standard Class,0.22,2,Doll,ORD10577,7,5,2023-01-11,4756.68,332.48
+CUST1578,Noah,Rodriguez,Beauty,Home Office,Kolkata,Telangana,India,South,Shipped,2023-11-10,Standard Class,0.28,3,Moisturizer,ORD10578,9,7,2023-11-17,454.87,97.59
+CUST1579,John,Garcia,Clothing,Consumer,Bangalore,Delhi,India,East,Delivered,2023-11-22,Same Day,0.12,3,T-Shirt,ORD10579,9,11,2023-12-03,1546.78,286.3
+CUST1580,Noah,Rodriguez,Books,Corporate,Hyderabad,Delhi,India,North,Returned,2024-07-18,Standard Class,0.06,2,Biography,ORD10580,9,9,2024-07-27,1048.36,70.84
+CUST1581,Ava,Garcia,Books,Corporate,Mumbai,Delhi,India,West,Returned,2024-07-31,First Class,0.16,2,Fiction Novel,ORD10581,8,9,2024-08-09,2813.82,525.1
+CUST1582,John,Garcia,Sports,Corporate,Hyderabad,Maharashtra,India,South,Returned,2024-05-20,Second Class,0.27,1,Tennis Racket,ORD10582,7,6,2024-05-26,1975.68,328.17
+CUST1583,Olivia,Jones,Sports,Corporate,Mumbai,Tamil Nadu,India,North,Returned,2023-03-23,Same Day,0.24,3,Football,ORD10583,7,9,2023-04-01,870.64,147.06
+CUST1584,David,Jones,Electronics,Home Office,Chennai,Delhi,India,South,Shipped,2024-08-21,Second Class,0.02,2,Headphones,ORD10584,3,2,2024-08-23,3249.48,351.51
+CUST1585,Olivia,Johnson,Beauty,Corporate,Chennai,West Bengal,India,South,Shipped,2023-01-02,Standard Class,0.21,4,Lipstick,ORD10585,9,7,2023-01-09,2727.86,281.79
+CUST1586,Isabella,Davis,Sports,Home Office,Chennai,Telangana,India,West,Delivered,2023-07-23,Standard Class,0.17,3,Dumbbells,ORD10586,4,5,2023-07-28,1446.21,292.87
+CUST1587,David,Davis,Electronics,Home Office,Hyderabad,Karnataka,India,West,Cancelled,2024-02-08,Standard Class,0.27,3,Smartwatch,ORD10587,9,8,2024-02-16,2450.88,248.43
+CUST1588,Olivia,Smith,Toys,Home Office,Kolkata,Karnataka,India,West,Cancelled,2023-04-13,First Class,0.04,1,Doll,ORD10588,6,8,2023-04-21,3754.12,522.77
+CUST1589,David,Davis,Toys,Corporate,Chennai,Delhi,India,South,Delivered,2024-06-19,First Class,0.16,4,Action Figure,ORD10589,6,7,2024-06-26,1105.83,208.96
+CUST1590,David,Jones,Sports,Consumer,Mumbai,Karnataka,India,South,Cancelled,2024-01-03,Same Day,0.26,1,Dumbbells,ORD10590,7,7,2024-01-10,1535.24,101.21
+CUST1591,Sophia,Johnson,Beauty,Consumer,Chennai,Karnataka,India,South,Delivered,2023-07-31,Second Class,0.12,4,Moisturizer,ORD10591,9,11,2023-08-11,1795.94,303.35
+CUST1592,Michael,Johnson,Books,Corporate,Delhi,Maharashtra,India,West,Shipped,2024-07-30,Standard Class,0.14,1,Textbook,ORD10592,2,1,2024-07-31,3758.96,631.04
+CUST1593,Michael,Garcia,Home & Kitchen,Consumer,Chennai,West Bengal,India,East,Returned,2023-07-28,Standard Class,0.02,4,Cookware Set,ORD10593,6,7,2023-08-04,4249.92,794.08
+CUST1594,Sophia,Rodriguez,Beauty,Consumer,Hyderabad,West Bengal,India,North,Returned,2023-04-27,Standard Class,0.08,4,Perfume,ORD10594,9,11,2023-05-08,1944.3,241.07
+CUST1595,Noah,Smith,Clothing,Home Office,Kolkata,Maharashtra,India,East,Shipped,2024-04-22,Standard Class,0.1,4,Jeans,ORD10595,4,5,2024-04-27,1553.44,217.16
+CUST1596,Emma,Garcia,Toys,Home Office,Delhi,Maharashtra,India,South,Returned,2023-04-15,First Class,0.28,2,Puzzle,ORD10596,5,6,2023-04-21,4458.29,517.13
+CUST1597,Noah,Rodriguez,Sports,Corporate,Hyderabad,Karnataka,India,South,Returned,2024-05-09,Second Class,0.08,3,Football,ORD10597,9,10,2024-05-19,4996.89,1057.51
+CUST1598,John,Davis,Sports,Corporate,Hyderabad,Tamil Nadu,India,East,Cancelled,2023-02-15,Second Class,0.14,4,Tennis Racket,ORD10598,4,3,2023-02-18,3384.73,257.65
+CUST1599,John,Garcia,Books,Consumer,Hyderabad,Telangana,India,South,Shipped,2023-11-27,Same Day,0.2,2,Fiction Novel,ORD10599,7,9,2023-12-06,4950.91,1201.05
+CUST1600,David,Williams,Clothing,Home Office,Mumbai,Telangana,India,North,Cancelled,2023-08-04,First Class,0.05,2,T-Shirt,ORD10600,7,5,2023-08-09,3333.83,589.98
+CUST1601,Olivia,Davis,Books,Corporate,Hyderabad,Karnataka,India,South,Cancelled,2024-05-06,Standard Class,0.15,1,Biography,ORD10601,3,1,2024-05-07,3693.96,839.94
+CUST1602,Olivia,Rodriguez,Clothing,Corporate,Mumbai,Telangana,India,North,Returned,2024-03-24,Second Class,0.22,3,Jeans,ORD10602,8,7,2024-03-31,2004.41,271.09
+CUST1603,Michael,Smith,Home & Kitchen,Corporate,Hyderabad,Maharashtra,India,East,Returned,2024-06-19,Second Class,0.26,3,Mixer,ORD10603,6,5,2024-06-24,2221.54,258.71
+CUST1604,Liam,Rodriguez,Toys,Corporate,Bangalore,West Bengal,India,East,Shipped,2024-05-25,First Class,0.19,1,Board Game,ORD10604,8,9,2024-06-03,806.26,185.56
+CUST1605,Noah,Garcia,Sports,Corporate,Delhi,Telangana,India,South,Returned,2024-04-02,Same Day,0.2,3,Dumbbells,ORD10605,9,11,2024-04-13,4131.48,288.27
+CUST1606,Isabella,Garcia,Sports,Corporate,Bangalore,Karnataka,India,North,Returned,2024-06-30,Same Day,0.04,1,Dumbbells,ORD10606,8,10,2024-07-10,4662.19,342.3
+CUST1607,Ava,Brown,Home & Kitchen,Consumer,Hyderabad,Tamil Nadu,India,South,Shipped,2024-06-19,Standard Class,0.28,2,Lamp,ORD10607,6,6,2024-06-25,3154.85,346.62
+CUST1608,Olivia,Smith,Electronics,Home Office,Delhi,Karnataka,India,West,Returned,2024-06-23,Same Day,0.04,2,Headphones,ORD10608,6,6,2024-06-29,1783.87,431.62
+CUST1609,Ava,Martinez,Toys,Home Office,Delhi,Delhi,India,West,Cancelled,2024-04-28,Second Class,0.23,4,Action Figure,ORD10609,9,7,2024-05-05,854.68,150.95
+CUST1610,David,Davis,Books,Corporate,Kolkata,Karnataka,India,West,Shipped,2023-01-16,Same Day,0.08,1,Biography,ORD10610,7,7,2023-01-23,1399.27,225.06
+CUST1611,Ava,Johnson,Home & Kitchen,Home Office,Bangalore,Maharashtra,India,West,Returned,2024-07-24,Standard Class,0.28,2,Mixer,ORD10611,6,6,2024-07-30,1351.51,258.23
+CUST1612,Isabella,Smith,Books,Home Office,Kolkata,West Bengal,India,South,Delivered,2023-08-31,Second Class,0.22,2,Fiction Novel,ORD10612,2,0,2023-08-31,3106.29,414.67
+CUST1613,Sophia,Johnson,Beauty,Home Office,Delhi,West Bengal,India,West,Shipped,2023-07-26,Same Day,0.23,1,Perfume,ORD10613,2,0,2023-07-26,4730.68,953.77
+CUST1614,Isabella,Smith,Sports,Corporate,Mumbai,Telangana,India,North,Shipped,2023-09-28,Same Day,0.07,2,Yoga Mat,ORD10614,5,5,2023-10-03,336.53,43.29
+CUST1615,Ava,Smith,Books,Corporate,Delhi,Maharashtra,India,East,Delivered,2023-04-25,First Class,0.13,3,Comics,ORD10615,6,8,2023-05-03,105.01,22.61
+CUST1616,Isabella,Rodriguez,Clothing,Home Office,Kolkata,Delhi,India,East,Returned,2024-08-02,Standard Class,0.19,2,Dress,ORD10616,3,3,2024-08-05,3040.89,314.61
+CUST1617,Emma,Smith,Books,Home Office,Bangalore,Maharashtra,India,West,Returned,2023-10-26,Same Day,0.23,1,Fiction Novel,ORD10617,5,6,2023-11-01,1491.9,157.41
+CUST1618,David,Brown,Beauty,Corporate,Hyderabad,Karnataka,India,West,Shipped,2024-04-27,First Class,0.03,3,Shampoo,ORD10618,7,8,2024-05-05,4414.69,681.97
+CUST1619,Noah,Martinez,Toys,Consumer,Hyderabad,Maharashtra,India,West,Shipped,2024-02-01,Second Class,0.29,3,Doll,ORD10619,6,7,2024-02-08,1703.53,231.94
+CUST1620,Sophia,Garcia,Sports,Home Office,Bangalore,Maharashtra,India,South,Returned,2024-01-29,First Class,0.27,2,Yoga Mat,ORD10620,2,1,2024-01-30,1519.71,272.98
+CUST1621,Olivia,Miller,Home & Kitchen,Consumer,Hyderabad,Delhi,India,East,Returned,2023-03-16,First Class,0.08,4,Vacuum Cleaner,ORD10621,3,4,2023-03-20,1420.6,174.53
+CUST1622,John,Johnson,Beauty,Home Office,Hyderabad,Karnataka,India,West,Cancelled,2024-04-26,Same Day,0.25,3,Lipstick,ORD10622,9,11,2024-05-07,809.78,77.83
+CUST1623,Noah,Garcia,Sports,Consumer,Kolkata,Tamil Nadu,India,North,Shipped,2023-04-13,Same Day,0.16,1,Football,ORD10623,5,4,2023-04-17,2949.5,424.62
+CUST1624,John,Miller,Books,Consumer,Bangalore,Tamil Nadu,India,West,Shipped,2023-10-24,Same Day,0.14,4,Textbook,ORD10624,3,2,2023-10-26,924.25,149.91
+CUST1625,David,Martinez,Toys,Consumer,Chennai,West Bengal,India,East,Delivered,2023-06-27,First Class,0.09,4,Doll,ORD10625,6,7,2023-07-04,2180.69,171.23
+CUST1626,Sophia,Martinez,Electronics,Corporate,Mumbai,Telangana,India,West,Cancelled,2023-08-03,Second Class,0.17,3,Headphones,ORD10626,4,4,2023-08-07,2358.76,380.57
+CUST1627,Michael,Johnson,Toys,Consumer,Mumbai,Maharashtra,India,East,Returned,2023-11-11,Standard Class,0.22,2,Puzzle,ORD10627,3,1,2023-11-12,200.41,22.82
+CUST1628,Olivia,Johnson,Electronics,Consumer,Hyderabad,West Bengal,India,West,Cancelled,2023-02-08,First Class,0.12,4,Smartwatch,ORD10628,3,3,2023-02-11,182.36,23.43
+CUST1629,Emma,Martinez,Clothing,Consumer,Mumbai,Delhi,India,North,Returned,2023-09-16,Same Day,0.19,2,Dress,ORD10629,7,7,2023-09-23,2649.04,280.44
+CUST1630,Michael,Miller,Toys,Home Office,Bangalore,Tamil Nadu,India,West,Returned,2023-01-07,Standard Class,0.21,3,Board Game,ORD10630,2,1,2023-01-08,3510.57,829.48
+CUST1631,David,Smith,Sports,Consumer,Bangalore,Maharashtra,India,North,Cancelled,2023-02-18,Second Class,0.21,1,Tennis Racket,ORD10631,9,8,2023-02-26,4716.5,880.42
+CUST1632,Noah,Davis,Electronics,Home Office,Delhi,Delhi,India,North,Shipped,2024-06-21,Standard Class,0.02,4,Smartwatch,ORD10632,6,5,2024-06-26,977.68,100.2
+CUST1633,Emma,Williams,Home & Kitchen,Consumer,Delhi,Telangana,India,West,Returned,2023-06-10,Same Day,0.26,1,Mixer,ORD10633,3,5,2023-06-15,605.97,108.47
+CUST1634,Isabella,Garcia,Sports,Consumer,Mumbai,Delhi,India,North,Cancelled,2023-06-25,First Class,0.14,2,Tennis Racket,ORD10634,6,8,2023-07-03,355.23,78.05
+CUST1635,Ava,Rodriguez,Home & Kitchen,Corporate,Chennai,Maharashtra,India,South,Delivered,2024-08-13,First Class,0.08,2,Lamp,ORD10635,2,0,2024-08-13,2236.6,291.49
+CUST1636,Emma,Garcia,Toys,Home Office,Delhi,Telangana,India,West,Cancelled,2023-01-02,Same Day,0.07,1,Board Game,ORD10636,7,6,2023-01-08,3153.42,681.11
+CUST1637,David,Rodriguez,Home & Kitchen,Consumer,Delhi,Delhi,India,West,Delivered,2024-03-30,First Class,0.14,3,Lamp,ORD10637,6,7,2024-04-06,4218.71,341.22
+CUST1638,Liam,Miller,Electronics,Home Office,Bangalore,Telangana,India,North,Returned,2023-10-03,Same Day,0.27,3,Smartphone,ORD10638,8,7,2023-10-10,3444.96,739.14
+CUST1639,Ava,Rodriguez,Sports,Home Office,Chennai,Maharashtra,India,North,Cancelled,2024-05-12,First Class,0.11,4,Tennis Racket,ORD10639,2,4,2024-05-16,1120.97,177.18
+CUST1640,John,Johnson,Books,Corporate,Hyderabad,Maharashtra,India,West,Cancelled,2023-01-28,First Class,0.22,4,Comics,ORD10640,2,1,2023-01-29,2362.67,223.5
+CUST1641,Olivia,Davis,Beauty,Corporate,Mumbai,Telangana,India,South,Delivered,2023-11-29,First Class,0.03,3,Lipstick,ORD10641,9,11,2023-12-10,4560.7,599.4
+CUST1642,John,Davis,Electronics,Corporate,Delhi,Karnataka,India,North,Cancelled,2023-01-01,Second Class,0.14,3,Smartwatch,ORD10642,5,4,2023-01-05,1701.03,421.17
+CUST1643,Emma,Johnson,Electronics,Corporate,Chennai,West Bengal,India,North,Cancelled,2023-07-07,Second Class,0.3,1,Smartwatch,ORD10643,7,8,2023-07-15,2543.78,525.83
+CUST1644,John,Brown,Books,Corporate,Chennai,Delhi,India,East,Returned,2023-02-25,Same Day,0.23,2,Biography,ORD10644,7,5,2023-03-02,4796.97,791.58
+CUST1645,David,Miller,Sports,Corporate,Mumbai,Delhi,India,South,Cancelled,2024-06-30,Second Class,0.06,2,Yoga Mat,ORD10645,9,10,2024-07-10,3700.07,270.23
+CUST1646,Isabella,Brown,Sports,Corporate,Chennai,Karnataka,India,South,Shipped,2023-04-22,Same Day,0.15,4,Yoga Mat,ORD10646,8,10,2023-05-02,3763.93,502.72
+CUST1647,Noah,Brown,Toys,Corporate,Chennai,Karnataka,India,West,Delivered,2023-11-06,Standard Class,0.07,3,Action Figure,ORD10647,6,6,2023-11-12,1336.44,137.13
+CUST1648,Olivia,Garcia,Home & Kitchen,Consumer,Chennai,Karnataka,India,South,Cancelled,2023-02-05,Standard Class,0.12,1,Mixer,ORD10648,4,5,2023-02-10,2132.02,136.88
+CUST1649,John,Martinez,Toys,Home Office,Delhi,Tamil Nadu,India,West,Delivered,2024-03-14,Second Class,0.23,4,Action Figure,ORD10649,8,7,2024-03-21,503.48,79.77
+CUST1650,John,Garcia,Books,Corporate,Mumbai,Tamil Nadu,India,East,Delivered,2024-08-14,Standard Class,0.23,1,Biography,ORD10650,5,3,2024-08-17,3071.98,699.91
+CUST1651,Emma,Martinez,Toys,Corporate,Chennai,Telangana,India,South,Delivered,2024-08-17,Standard Class,0.07,3,Board Game,ORD10651,7,6,2024-08-23,608.28,112.6
+CUST1652,Noah,Williams,Books,Home Office,Chennai,Tamil Nadu,India,North,Cancelled,2024-07-30,First Class,0.28,3,Fiction Novel,ORD10652,2,1,2024-07-31,4195.96,419.33
+CUST1653,Michael,Rodriguez,Sports,Consumer,Delhi,Maharashtra,India,East,Cancelled,2023-11-21,First Class,0.18,3,Football,ORD10653,7,8,2023-11-29,4091.31,673.91
+CUST1654,John,Martinez,Home & Kitchen,Home Office,Mumbai,Telangana,India,West,Delivered,2023-11-03,Same Day,0.11,2,Lamp,ORD10654,8,6,2023-11-09,2714.66,647.85
+CUST1655,David,Johnson,Toys,Home Office,Bangalore,Delhi,India,East,Shipped,2024-06-17,Standard Class,0.15,3,Doll,ORD10655,4,4,2024-06-21,791.71,154.05
+CUST1656,Liam,Garcia,Electronics,Corporate,Delhi,West Bengal,India,West,Delivered,2023-04-19,Same Day,0.18,4,Smartphone,ORD10656,3,2,2023-04-21,225.34,42.34
+CUST1657,Olivia,Miller,Clothing,Home Office,Mumbai,Maharashtra,India,East,Shipped,2024-01-07,Same Day,0.17,2,Dress,ORD10657,3,1,2024-01-08,4003.87,975.47
+CUST1658,John,Rodriguez,Beauty,Home Office,Chennai,Delhi,India,West,Delivered,2023-12-23,Standard Class,0.15,1,Moisturizer,ORD10658,9,9,2024-01-01,3040.69,637.86
+CUST1659,David,Williams,Electronics,Corporate,Mumbai,Delhi,India,South,Returned,2023-06-30,Second Class,0.15,4,Smartwatch,ORD10659,7,6,2023-07-06,3583.56,277.1
+CUST1660,David,Martinez,Sports,Corporate,Mumbai,Telangana,India,North,Delivered,2023-12-22,Standard Class,0.05,4,Tennis Racket,ORD10660,7,5,2023-12-27,1588.65,189.89
+CUST1661,Olivia,Williams,Beauty,Corporate,Hyderabad,Karnataka,India,West,Delivered,2023-03-09,First Class,0.24,1,Lipstick,ORD10661,5,6,2023-03-15,2596.47,631.02
+CUST1662,Michael,Miller,Clothing,Corporate,Mumbai,Karnataka,India,East,Cancelled,2023-10-19,Standard Class,0.16,2,T-Shirt,ORD10662,7,6,2023-10-25,3761.15,556.43
+CUST1663,David,Brown,Clothing,Home Office,Bangalore,Maharashtra,India,West,Shipped,2023-06-30,Second Class,0.04,4,Dress,ORD10663,4,3,2023-07-03,2366.56,171.17
+CUST1664,Liam,Davis,Home & Kitchen,Home Office,Mumbai,Karnataka,India,West,Returned,2024-04-10,Same Day,0.23,4,Vacuum Cleaner,ORD10664,7,5,2024-04-15,3046.78,431.79
+CUST1665,David,Miller,Beauty,Consumer,Bangalore,Delhi,India,West,Shipped,2024-03-09,Same Day,0.28,4,Moisturizer,ORD10665,6,5,2024-03-14,3969.67,751.85
+CUST1666,David,Jones,Home & Kitchen,Consumer,Chennai,Karnataka,India,East,Returned,2024-04-08,First Class,0.28,2,Vacuum Cleaner,ORD10666,8,8,2024-04-16,1154.58,288.08
+CUST1667,David,Miller,Electronics,Home Office,Bangalore,Tamil Nadu,India,North,Delivered,2024-06-17,First Class,0.11,2,Smartphone,ORD10667,9,8,2024-06-25,423.05,48.56
+CUST1668,Isabella,Williams,Books,Consumer,Chennai,Karnataka,India,South,Cancelled,2023-03-07,First Class,0.04,2,Comics,ORD10668,4,6,2023-03-13,2705.94,413.51
+CUST1669,Isabella,Johnson,Books,Home Office,Chennai,Delhi,India,North,Cancelled,2023-01-21,Same Day,0.16,4,Fiction Novel,ORD10669,5,5,2023-01-26,404.42,91.37
+CUST1670,Michael,Garcia,Books,Consumer,Bangalore,Telangana,India,West,Shipped,2024-01-19,First Class,0.03,3,Biography,ORD10670,6,4,2024-01-23,3856.13,466.8
+CUST1671,John,Johnson,Beauty,Corporate,Delhi,Maharashtra,India,East,Cancelled,2024-07-12,Standard Class,0.28,1,Shampoo,ORD10671,6,6,2024-07-18,3624.14,260.4
+CUST1672,David,Williams,Books,Consumer,Kolkata,West Bengal,India,North,Shipped,2023-02-08,Same Day,0.06,3,Biography,ORD10672,8,10,2023-02-18,4420.39,1059.95
+CUST1673,Noah,Garcia,Electronics,Corporate,Mumbai,Karnataka,India,West,Shipped,2023-10-12,Second Class,0.08,2,Headphones,ORD10673,3,5,2023-10-17,3233.85,477.6
+CUST1674,John,Jones,Home & Kitchen,Corporate,Hyderabad,Delhi,India,South,Returned,2024-08-19,Same Day,0.12,4,Mixer,ORD10674,4,3,2024-08-22,429.27,64.63
+CUST1675,Michael,Davis,Beauty,Corporate,Kolkata,West Bengal,India,South,Shipped,2023-12-02,Standard Class,0.11,4,Lipstick,ORD10675,8,7,2023-12-09,1340.45,233.56
+CUST1676,Sophia,Rodriguez,Home & Kitchen,Corporate,Mumbai,West Bengal,India,South,Returned,2023-07-07,Standard Class,0.24,3,Lamp,ORD10676,6,7,2023-07-14,4058.87,205.81
+CUST1677,John,Williams,Beauty,Consumer,Mumbai,Tamil Nadu,India,West,Cancelled,2023-08-31,First Class,0.14,3,Shampoo,ORD10677,5,5,2023-09-05,918.95,217.08
+CUST1678,John,Martinez,Home & Kitchen,Home Office,Chennai,West Bengal,India,East,Shipped,2023-03-14,Same Day,0.05,1,Vacuum Cleaner,ORD10678,8,9,2023-03-23,3522.55,430.77
+CUST1679,Ava,Williams,Clothing,Corporate,Mumbai,Telangana,India,North,Shipped,2024-04-23,Same Day,0.08,4,T-Shirt,ORD10679,3,5,2024-04-28,3923.27,507.62
+CUST1680,Emma,Williams,Home & Kitchen,Consumer,Hyderabad,Delhi,India,South,Delivered,2024-07-14,Same Day,0.15,3,Cookware Set,ORD10680,6,5,2024-07-19,1717.55,145.69
+CUST1681,Ava,Garcia,Books,Corporate,Mumbai,Delhi,India,West,Shipped,2023-04-11,Second Class,0.04,1,Biography,ORD10681,8,7,2023-04-18,1679.26,210.97
+CUST1682,Liam,Smith,Clothing,Consumer,Bangalore,Karnataka,India,West,Shipped,2024-05-28,First Class,0.18,2,Jacket,ORD10682,4,3,2024-05-31,2833.23,597.21
+CUST1683,Isabella,Miller,Home & Kitchen,Consumer,Kolkata,Karnataka,India,North,Delivered,2023-06-25,Standard Class,0.17,3,Vacuum Cleaner,ORD10683,3,1,2023-06-26,4320.3,907.26
+CUST1684,Isabella,Smith,Beauty,Consumer,Bangalore,Karnataka,India,South,Delivered,2023-08-26,Standard Class,0.21,2,Perfume,ORD10684,4,6,2023-09-01,1197.14,283.91
+CUST1685,Emma,Jones,Beauty,Home Office,Hyderabad,Telangana,India,West,Cancelled,2023-02-28,First Class,0.28,1,Perfume,ORD10685,4,3,2023-03-03,4712.17,615.63
+CUST1686,Olivia,Martinez,Beauty,Consumer,Mumbai,West Bengal,India,North,Shipped,2023-04-09,Standard Class,0.27,2,Perfume,ORD10686,4,6,2023-04-15,3035.68,582.07
+CUST1687,Olivia,Davis,Sports,Consumer,Hyderabad,West Bengal,India,East,Cancelled,2024-05-09,Standard Class,0.28,4,Yoga Mat,ORD10687,8,7,2024-05-16,4961.42,751.39
+CUST1688,Michael,Brown,Electronics,Home Office,Chennai,Tamil Nadu,India,East,Cancelled,2024-05-28,First Class,0.07,4,Headphones,ORD10688,3,3,2024-05-31,539.11,113.65
+CUST1689,Emma,Jones,Beauty,Home Office,Bangalore,Telangana,India,East,Delivered,2023-10-24,Standard Class,0.04,2,Moisturizer,ORD10689,8,10,2023-11-03,720.15,138.63
+CUST1690,John,Brown,Clothing,Consumer,Bangalore,Karnataka,India,South,Returned,2023-07-30,Same Day,0.09,4,Jacket,ORD10690,8,9,2023-08-08,4150.54,512.93
+CUST1691,Olivia,Brown,Beauty,Home Office,Delhi,Maharashtra,India,North,Cancelled,2023-05-03,Second Class,0.27,1,Shampoo,ORD10691,8,6,2023-05-09,4337.3,508.92
+CUST1692,David,Davis,Sports,Corporate,Mumbai,Tamil Nadu,India,North,Returned,2023-08-17,First Class,0.29,4,Dumbbells,ORD10692,6,7,2023-08-24,2282.75,229.39
+CUST1693,Noah,Johnson,Books,Corporate,Chennai,Maharashtra,India,West,Shipped,2024-08-16,Second Class,0.26,2,Textbook,ORD10693,7,9,2024-08-25,3598.95,594.92
+CUST1694,John,Smith,Clothing,Home Office,Bangalore,West Bengal,India,West,Delivered,2024-01-23,Standard Class,0.03,2,Jeans,ORD10694,2,1,2024-01-24,4351.03,1056.29
+CUST1695,Liam,Williams,Sports,Home Office,Bangalore,Tamil Nadu,India,West,Shipped,2023-05-20,Standard Class,0.28,2,Football,ORD10695,6,8,2023-05-28,311.33,28.02
+CUST1696,David,Rodriguez,Books,Consumer,Chennai,Tamil Nadu,India,North,Shipped,2024-06-24,Same Day,0.13,3,Fiction Novel,ORD10696,3,1,2024-06-25,2912.36,201.1
+CUST1697,David,Brown,Toys,Home Office,Hyderabad,Delhi,India,West,Delivered,2024-01-26,First Class,0.0,2,Doll,ORD10697,2,4,2024-01-30,4282.06,316.36
+CUST1698,Emma,Martinez,Toys,Consumer,Hyderabad,West Bengal,India,North,Shipped,2023-09-27,Standard Class,0.13,1,Board Game,ORD10698,2,1,2023-09-28,2050.96,423.77
+CUST1699,Michael,Jones,Clothing,Corporate,Mumbai,West Bengal,India,North,Delivered,2023-01-12,First Class,0.01,4,Jacket,ORD10699,2,3,2023-01-15,1581.68,189.83
+CUST1700,Liam,Johnson,Home & Kitchen,Home Office,Delhi,Telangana,India,East,Returned,2024-01-24,First Class,0.16,4,Lamp,ORD10700,7,7,2024-01-31,3998.96,379.39
+CUST1701,Olivia,Brown,Electronics,Consumer,Bangalore,Tamil Nadu,India,West,Shipped,2023-12-03,First Class,0.1,3,Smartphone,ORD10701,8,9,2023-12-12,1745.35,210.43
+CUST1702,Emma,Johnson,Electronics,Consumer,Delhi,West Bengal,India,East,Delivered,2024-05-20,First Class,0.14,3,Laptop,ORD10702,9,8,2024-05-28,115.55,20.69
+CUST1703,Olivia,Johnson,Sports,Corporate,Hyderabad,Tamil Nadu,India,South,Cancelled,2023-04-16,First Class,0.18,1,Yoga Mat,ORD10703,5,4,2023-04-20,4801.91,765.22
+CUST1704,Emma,Brown,Books,Home Office,Hyderabad,Telangana,India,South,Shipped,2023-02-01,Second Class,0.26,2,Comics,ORD10704,3,1,2023-02-02,3001.4,596.43
+CUST1705,Emma,Garcia,Electronics,Corporate,Kolkata,Telangana,India,South,Returned,2023-03-15,Same Day,0.2,3,Laptop,ORD10705,9,11,2023-03-26,4115.64,484.88
+CUST1706,Emma,Miller,Books,Consumer,Mumbai,Delhi,India,North,Delivered,2023-06-20,First Class,0.13,4,Comics,ORD10706,7,9,2023-06-29,4143.98,581.84
+CUST1707,Michael,Martinez,Books,Consumer,Kolkata,Tamil Nadu,India,North,Shipped,2023-03-10,Second Class,0.25,3,Comics,ORD10707,7,8,2023-03-18,425.41,29.95
+CUST1708,Emma,Williams,Sports,Home Office,Kolkata,West Bengal,India,North,Shipped,2023-12-28,Standard Class,0.27,3,Dumbbells,ORD10708,5,5,2024-01-02,937.21,60.55
+CUST1709,Sophia,Williams,Sports,Consumer,Kolkata,West Bengal,India,West,Shipped,2024-03-08,First Class,0.04,2,Football,ORD10709,2,2,2024-03-10,1624.49,231.41
+CUST1710,Noah,Martinez,Sports,Home Office,Mumbai,Tamil Nadu,India,East,Returned,2023-04-10,Standard Class,0.16,3,Football,ORD10710,8,6,2023-04-16,1671.43,184.39
+CUST1711,Olivia,Garcia,Electronics,Corporate,Mumbai,Tamil Nadu,India,North,Delivered,2023-01-09,First Class,0.09,1,Smartwatch,ORD10711,5,4,2023-01-13,3328.05,574.29
+CUST1712,John,Williams,Toys,Home Office,Chennai,Tamil Nadu,India,East,Cancelled,2024-07-27,Second Class,0.01,4,Board Game,ORD10712,9,7,2024-08-03,3153.35,184.79
+CUST1713,Ava,Johnson,Sports,Home Office,Delhi,Karnataka,India,East,Cancelled,2023-01-29,Second Class,0.2,2,Tennis Racket,ORD10713,9,11,2023-02-09,2523.49,187.63
+CUST1714,Liam,Davis,Electronics,Consumer,Delhi,West Bengal,India,East,Cancelled,2023-04-24,Second Class,0.26,4,Headphones,ORD10714,5,4,2023-04-28,1135.19,253.19
+CUST1715,Isabella,Jones,Sports,Consumer,Chennai,Telangana,India,West,Delivered,2024-04-06,Same Day,0.05,1,Football,ORD10715,7,5,2024-04-11,1971.72,321.91
+CUST1716,Michael,Smith,Beauty,Home Office,Chennai,West Bengal,India,West,Cancelled,2023-05-23,Standard Class,0.24,1,Perfume,ORD10716,3,4,2023-05-27,2763.61,531.75
+CUST1717,John,Williams,Books,Consumer,Hyderabad,Karnataka,India,South,Returned,2024-01-25,Same Day,0.26,3,Comics,ORD10717,4,6,2024-01-31,2393.13,522.65
+CUST1718,David,Martinez,Sports,Consumer,Kolkata,Tamil Nadu,India,South,Delivered,2023-06-06,First Class,0.27,3,Yoga Mat,ORD10718,8,8,2023-06-14,723.73,103.32
+CUST1719,Sophia,Davis,Clothing,Consumer,Chennai,Delhi,India,East,Shipped,2023-12-01,Standard Class,0.08,3,Jacket,ORD10719,9,7,2023-12-08,3282.6,663.78
+CUST1720,Isabella,Brown,Books,Home Office,Bangalore,Tamil Nadu,India,South,Returned,2023-09-17,Second Class,0.27,4,Comics,ORD10720,9,11,2023-09-28,457.95,70.94
+CUST1721,Ava,Miller,Books,Consumer,Delhi,Tamil Nadu,India,East,Shipped,2023-03-23,Standard Class,0.1,1,Textbook,ORD10721,5,7,2023-03-30,1953.15,184.67
+CUST1722,John,Martinez,Sports,Home Office,Chennai,Karnataka,India,West,Cancelled,2024-03-16,Second Class,0.17,2,Football,ORD10722,8,8,2024-03-24,3579.14,420.66
+CUST1723,Isabella,Johnson,Toys,Consumer,Bangalore,West Bengal,India,West,Returned,2023-06-21,Same Day,0.02,3,Doll,ORD10723,5,5,2023-06-26,198.12,29.34
+CUST1724,John,Miller,Home & Kitchen,Corporate,Bangalore,Tamil Nadu,India,West,Delivered,2023-08-19,Same Day,0.01,4,Cookware Set,ORD10724,2,2,2023-08-21,2892.92,327.99
+CUST1725,Sophia,Jones,Toys,Consumer,Bangalore,West Bengal,India,North,Returned,2023-03-16,Second Class,0.22,3,Doll,ORD10725,8,6,2023-03-22,1739.15,203.66
+CUST1726,Ava,Jones,Sports,Consumer,Hyderabad,Maharashtra,India,East,Shipped,2023-09-27,Second Class,0.13,1,Tennis Racket,ORD10726,2,2,2023-09-29,143.28,16.83
+CUST1727,David,Garcia,Books,Home Office,Hyderabad,Telangana,India,West,Delivered,2023-03-03,First Class,0.08,2,Comics,ORD10727,9,10,2023-03-13,1032.88,77.02
+CUST1728,Emma,Rodriguez,Clothing,Home Office,Bangalore,West Bengal,India,East,Returned,2023-11-16,Same Day,0.06,1,Jacket,ORD10728,7,9,2023-11-25,4710.64,315.28
+CUST1729,Olivia,Garcia,Books,Consumer,Hyderabad,Delhi,India,South,Returned,2023-04-12,Same Day,0.2,4,Fiction Novel,ORD10729,2,2,2023-04-14,2653.63,157.36
+CUST1730,David,Davis,Toys,Corporate,Kolkata,Telangana,India,South,Returned,2024-03-04,First Class,0.0,3,Doll,ORD10730,8,10,2024-03-14,4986.41,359.98
+CUST1731,Emma,Miller,Clothing,Consumer,Bangalore,Delhi,India,West,Returned,2023-09-12,Same Day,0.24,1,Dress,ORD10731,6,5,2023-09-17,2671.6,317.23
+CUST1732,Michael,Rodriguez,Electronics,Consumer,Kolkata,Tamil Nadu,India,East,Delivered,2024-06-15,Second Class,0.02,4,Headphones,ORD10732,8,7,2024-06-22,2765.29,466.71
+CUST1733,Noah,Brown,Beauty,Corporate,Kolkata,Telangana,India,West,Shipped,2024-07-23,Standard Class,0.06,3,Lipstick,ORD10733,5,5,2024-07-28,2020.03,177.01
+CUST1734,Liam,Johnson,Books,Home Office,Bangalore,West Bengal,India,South,Returned,2023-04-22,Standard Class,0.12,2,Fiction Novel,ORD10734,2,4,2023-04-26,1619.2,368.53
+CUST1735,Liam,Miller,Sports,Consumer,Delhi,Telangana,India,West,Delivered,2023-11-09,Same Day,0.15,1,Tennis Racket,ORD10735,3,2,2023-11-11,1332.57,282.07
+CUST1736,Olivia,Garcia,Electronics,Home Office,Bangalore,Tamil Nadu,India,East,Shipped,2024-04-05,First Class,0.11,3,Laptop,ORD10736,6,6,2024-04-11,1782.76,274.73
+CUST1737,Ava,Smith,Beauty,Home Office,Bangalore,Karnataka,India,South,Returned,2024-04-06,Second Class,0.1,3,Shampoo,ORD10737,7,9,2024-04-15,2353.27,458.52
+CUST1738,Sophia,Rodriguez,Sports,Corporate,Hyderabad,Delhi,India,North,Shipped,2023-04-02,Standard Class,0.29,3,Football,ORD10738,4,4,2023-04-06,1040.76,128.29
+CUST1739,Ava,Rodriguez,Home & Kitchen,Corporate,Bangalore,Tamil Nadu,India,South,Shipped,2023-02-21,Second Class,0.19,3,Mixer,ORD10739,5,7,2023-02-28,1201.89,68.94
+CUST1740,Sophia,Johnson,Sports,Home Office,Delhi,Karnataka,India,North,Delivered,2024-06-03,Same Day,0.01,1,Tennis Racket,ORD10740,5,4,2024-06-07,1430.57,330.27
+CUST1741,Ava,Williams,Clothing,Consumer,Hyderabad,Telangana,India,West,Shipped,2023-04-08,Same Day,0.13,3,Jeans,ORD10741,3,3,2023-04-11,2301.37,173.89
+CUST1742,Noah,Jones,Clothing,Home Office,Mumbai,Telangana,India,West,Delivered,2023-08-24,Standard Class,0.26,4,Jacket,ORD10742,4,3,2023-08-27,3298.79,790.35
+CUST1743,Michael,Jones,Home & Kitchen,Consumer,Mumbai,Tamil Nadu,India,East,Returned,2024-01-09,Same Day,0.09,1,Mixer,ORD10743,9,9,2024-01-18,4295.12,706.02
+CUST1744,Michael,Smith,Electronics,Consumer,Kolkata,West Bengal,India,North,Shipped,2024-08-03,First Class,0.03,3,Smartwatch,ORD10744,4,2,2024-08-05,1506.95,167.44
+CUST1745,Emma,Davis,Beauty,Corporate,Kolkata,Telangana,India,West,Shipped,2024-07-10,Same Day,0.23,1,Perfume,ORD10745,7,6,2024-07-16,1000.27,149.15
+CUST1746,Isabella,Davis,Sports,Consumer,Delhi,West Bengal,India,North,Cancelled,2023-08-22,Same Day,0.18,4,Yoga Mat,ORD10746,7,6,2023-08-28,1956.35,294.09
+CUST1747,Michael,Brown,Clothing,Consumer,Chennai,West Bengal,India,West,Returned,2023-02-01,Same Day,0.17,4,T-Shirt,ORD10747,6,7,2023-02-08,4482.48,245.0
+CUST1748,Michael,Miller,Electronics,Home Office,Mumbai,West Bengal,India,South,Returned,2023-10-16,Second Class,0.02,1,Smartphone,ORD10748,9,8,2023-10-24,148.32,17.96
+CUST1749,David,Martinez,Home & Kitchen,Corporate,Kolkata,Maharashtra,India,West,Cancelled,2024-08-01,Second Class,0.04,3,Vacuum Cleaner,ORD10749,5,7,2024-08-08,3421.56,677.38
+CUST1750,David,Williams,Toys,Consumer,Mumbai,Karnataka,India,East,Cancelled,2024-06-25,Standard Class,0.19,3,Board Game,ORD10750,2,2,2024-06-27,2438.08,370.62
+CUST1751,Emma,Garcia,Books,Consumer,Delhi,Karnataka,India,South,Delivered,2023-04-24,Standard Class,0.06,4,Comics,ORD10751,7,5,2023-04-29,889.13,87.89
+CUST1752,Isabella,Martinez,Toys,Corporate,Delhi,Telangana,India,East,Delivered,2023-07-23,Standard Class,0.15,3,Puzzle,ORD10752,3,5,2023-07-28,1673.01,195.78
+CUST1753,Olivia,Martinez,Toys,Home Office,Chennai,Telangana,India,South,Shipped,2023-01-29,Same Day,0.16,4,Board Game,ORD10753,3,5,2023-02-03,1202.26,267.64
+CUST1754,David,Rodriguez,Clothing,Corporate,Chennai,West Bengal,India,North,Shipped,2024-04-18,Second Class,0.09,3,T-Shirt,ORD10754,3,5,2024-04-23,4401.38,682.7
+CUST1755,Olivia,Smith,Home & Kitchen,Corporate,Hyderabad,Maharashtra,India,East,Shipped,2023-09-10,First Class,0.28,4,Lamp,ORD10755,8,10,2023-09-20,2461.18,383.13
+CUST1756,John,Jones,Sports,Consumer,Delhi,West Bengal,India,West,Shipped,2024-01-21,Same Day,0.25,2,Yoga Mat,ORD10756,9,7,2024-01-28,2859.16,692.76
+CUST1757,David,Brown,Toys,Consumer,Kolkata,Maharashtra,India,North,Delivered,2023-03-03,Same Day,0.22,3,Doll,ORD10757,9,10,2023-03-13,3009.07,343.56
+CUST1758,Noah,Davis,Toys,Home Office,Mumbai,West Bengal,India,West,Returned,2024-05-29,Same Day,0.02,3,Board Game,ORD10758,7,6,2024-06-04,3234.12,471.88
+CUST1759,Isabella,Smith,Beauty,Consumer,Bangalore,Delhi,India,South,Shipped,2024-03-05,First Class,0.03,3,Shampoo,ORD10759,7,9,2024-03-14,2528.22,536.85
+CUST1760,Emma,Rodriguez,Clothing,Consumer,Chennai,Delhi,India,South,Returned,2024-08-02,Standard Class,0.15,1,Jacket,ORD10760,3,2,2024-08-04,187.58,37.85
+CUST1761,John,Garcia,Clothing,Corporate,Bangalore,Tamil Nadu,India,West,Shipped,2024-06-20,First Class,0.05,3,Jacket,ORD10761,9,8,2024-06-28,1740.14,179.51
+CUST1762,Isabella,Brown,Sports,Consumer,Kolkata,West Bengal,India,West,Cancelled,2023-05-21,Standard Class,0.29,1,Dumbbells,ORD10762,9,11,2023-06-01,1000.98,80.3
+CUST1763,Noah,Rodriguez,Books,Home Office,Chennai,Telangana,India,North,Shipped,2023-10-27,First Class,0.05,1,Biography,ORD10763,7,8,2023-11-04,3432.7,652.7
+CUST1764,Isabella,Jones,Electronics,Corporate,Bangalore,Karnataka,India,West,Shipped,2023-11-07,Second Class,0.15,4,Smartwatch,ORD10764,8,7,2023-11-14,377.85,38.36
+CUST1765,Noah,Jones,Beauty,Home Office,Kolkata,Tamil Nadu,India,East,Shipped,2024-04-15,Same Day,0.11,1,Shampoo,ORD10765,2,2,2024-04-17,2862.64,671.39
+CUST1766,Noah,Jones,Clothing,Corporate,Mumbai,Telangana,India,East,Delivered,2024-01-28,Same Day,0.19,1,Dress,ORD10766,2,1,2024-01-29,1132.1,85.87
+CUST1767,Olivia,Smith,Beauty,Consumer,Kolkata,Delhi,India,West,Cancelled,2024-03-20,Same Day,0.04,2,Moisturizer,ORD10767,6,8,2024-03-28,4749.34,539.82
+CUST1768,Ava,Smith,Clothing,Corporate,Hyderabad,West Bengal,India,East,Shipped,2023-06-21,Standard Class,0.13,3,Dress,ORD10768,9,7,2023-06-28,1744.15,106.32
+CUST1769,John,Davis,Beauty,Corporate,Chennai,Tamil Nadu,India,West,Shipped,2024-07-29,First Class,0.08,1,Shampoo,ORD10769,5,4,2024-08-02,1693.58,322.9
+CUST1770,Isabella,Davis,Home & Kitchen,Consumer,Delhi,West Bengal,India,North,Returned,2023-01-31,Second Class,0.27,3,Lamp,ORD10770,2,3,2023-02-03,4624.58,1055.57
+CUST1771,Sophia,Garcia,Toys,Consumer,Mumbai,Delhi,India,East,Cancelled,2023-02-16,First Class,0.01,1,Action Figure,ORD10771,6,6,2023-02-22,2145.0,380.04
+CUST1772,John,Brown,Clothing,Home Office,Bangalore,Tamil Nadu,India,East,Shipped,2023-05-10,Same Day,0.27,4,Jacket,ORD10772,4,4,2023-05-14,4818.03,1144.53
+CUST1773,Ava,Johnson,Beauty,Home Office,Chennai,Delhi,India,West,Returned,2023-12-18,Second Class,0.25,2,Moisturizer,ORD10773,5,3,2023-12-21,218.43,16.54
+CUST1774,John,Johnson,Electronics,Consumer,Delhi,Maharashtra,India,East,Returned,2024-08-03,Second Class,0.09,1,Smartphone,ORD10774,9,7,2024-08-10,1601.09,108.15
+CUST1775,Michael,Rodriguez,Home & Kitchen,Consumer,Kolkata,Delhi,India,South,Delivered,2023-02-27,Same Day,0.24,3,Lamp,ORD10775,2,1,2023-02-28,3364.35,732.36
+CUST1776,Sophia,Jones,Home & Kitchen,Consumer,Delhi,West Bengal,India,North,Returned,2023-04-16,First Class,0.01,4,Vacuum Cleaner,ORD10776,8,10,2023-04-26,4465.2,987.27
+CUST1777,Ava,Brown,Electronics,Corporate,Chennai,Karnataka,India,North,Shipped,2023-11-26,Same Day,0.29,3,Smartwatch,ORD10777,4,5,2023-12-01,1356.39,293.26
+CUST1778,Olivia,Martinez,Beauty,Corporate,Chennai,Delhi,India,East,Delivered,2024-01-18,First Class,0.16,4,Moisturizer,ORD10778,6,6,2024-01-24,4659.34,977.5
+CUST1779,Isabella,Smith,Sports,Corporate,Hyderabad,Telangana,India,East,Delivered,2023-06-11,Second Class,0.09,2,Tennis Racket,ORD10779,2,0,2023-06-11,3011.2,368.71
+CUST1780,Liam,Miller,Electronics,Consumer,Hyderabad,Karnataka,India,South,Shipped,2023-10-13,Second Class,0.11,4,Headphones,ORD10780,9,10,2023-10-23,4024.94,376.3
+CUST1781,Ava,Williams,Beauty,Home Office,Delhi,Maharashtra,India,South,Cancelled,2023-03-12,Same Day,0.02,3,Perfume,ORD10781,2,4,2023-03-16,2046.32,482.44
+CUST1782,Emma,Garcia,Electronics,Consumer,Kolkata,Tamil Nadu,India,East,Returned,2024-03-29,Second Class,0.3,3,Headphones,ORD10782,7,7,2024-04-05,1139.68,126.96
+CUST1783,Isabella,Jones,Electronics,Corporate,Delhi,Tamil Nadu,India,East,Delivered,2024-07-20,Standard Class,0.01,1,Laptop,ORD10783,4,4,2024-07-24,4565.05,592.0
+CUST1784,Ava,Jones,Clothing,Corporate,Chennai,Karnataka,India,South,Cancelled,2024-02-01,Second Class,0.2,4,Dress,ORD10784,2,4,2024-02-05,4672.37,887.34
+CUST1785,Michael,Jones,Beauty,Consumer,Chennai,Tamil Nadu,India,West,Shipped,2024-05-29,Standard Class,0.13,3,Moisturizer,ORD10785,3,3,2024-06-01,2538.12,275.82
+CUST1786,Liam,Smith,Sports,Consumer,Bangalore,Delhi,India,South,Returned,2023-01-26,Second Class,0.28,1,Yoga Mat,ORD10786,8,10,2023-02-05,131.83,28.19
+CUST1787,Michael,Smith,Toys,Corporate,Hyderabad,Karnataka,India,West,Returned,2023-11-09,Same Day,0.07,2,Board Game,ORD10787,7,7,2023-11-16,637.94,40.83
+CUST1788,Liam,Williams,Clothing,Corporate,Bangalore,West Bengal,India,North,Delivered,2023-05-06,Same Day,0.16,3,T-Shirt,ORD10788,7,6,2023-05-12,2907.84,605.52
+CUST1789,Emma,Martinez,Electronics,Corporate,Mumbai,Delhi,India,North,Returned,2024-02-12,Standard Class,0.14,1,Smartphone,ORD10789,2,4,2024-02-16,216.51,36.89
+CUST1790,Isabella,Brown,Toys,Consumer,Chennai,Delhi,India,South,Returned,2024-07-18,Same Day,0.21,3,Doll,ORD10790,8,9,2024-07-27,2044.87,336.58
+CUST1791,Olivia,Jones,Books,Corporate,Bangalore,Delhi,India,West,Returned,2023-07-17,Second Class,0.02,4,Comics,ORD10791,7,6,2023-07-23,1586.51,224.77
+CUST1792,Michael,Johnson,Toys,Corporate,Delhi,West Bengal,India,South,Returned,2023-07-07,Second Class,0.06,1,Action Figure,ORD10792,5,6,2023-07-13,3600.31,379.51
+CUST1793,Michael,Davis,Electronics,Home Office,Hyderabad,Maharashtra,India,South,Shipped,2024-04-28,Same Day,0.06,4,Smartphone,ORD10793,4,4,2024-05-02,372.34,53.18
+CUST1794,Noah,Johnson,Electronics,Consumer,Hyderabad,Telangana,India,West,Cancelled,2024-03-25,Second Class,0.22,2,Headphones,ORD10794,5,6,2024-03-31,2494.78,349.28
+CUST1795,Liam,Rodriguez,Beauty,Home Office,Kolkata,Tamil Nadu,India,South,Shipped,2024-06-06,First Class,0.06,4,Perfume,ORD10795,6,5,2024-06-11,2937.66,489.86
+CUST1796,David,Johnson,Beauty,Home Office,Delhi,Karnataka,India,North,Shipped,2023-12-20,First Class,0.17,1,Shampoo,ORD10796,5,7,2023-12-27,3124.73,332.21
+CUST1797,Isabella,Rodriguez,Clothing,Corporate,Kolkata,Maharashtra,India,East,Delivered,2024-08-19,Second Class,0.06,3,T-Shirt,ORD10797,8,6,2024-08-25,2085.27,136.63
+CUST1798,Liam,Miller,Sports,Consumer,Bangalore,Karnataka,India,East,Returned,2023-04-10,Same Day,0.26,1,Dumbbells,ORD10798,3,4,2023-04-14,1591.4,125.75
+CUST1799,Noah,Davis,Clothing,Corporate,Mumbai,Tamil Nadu,India,South,Shipped,2024-07-11,Standard Class,0.28,4,T-Shirt,ORD10799,7,5,2024-07-16,3444.22,653.84
+CUST1800,John,Johnson,Home & Kitchen,Consumer,Delhi,West Bengal,India,West,Returned,2024-07-09,Same Day,0.16,4,Lamp,ORD10800,8,9,2024-07-18,4253.09,231.79
+CUST1801,Liam,Miller,Electronics,Home Office,Delhi,Delhi,India,West,Shipped,2023-10-05,Standard Class,0.11,3,Smartwatch,ORD10801,7,8,2023-10-13,3498.73,774.23
+CUST1802,Olivia,Garcia,Toys,Consumer,Delhi,Delhi,India,North,Shipped,2024-05-05,Same Day,0.07,2,Doll,ORD10802,9,11,2024-05-16,4667.3,881.56
+CUST1803,Isabella,Brown,Books,Corporate,Kolkata,West Bengal,India,West,Delivered,2023-09-12,Second Class,0.01,1,Comics,ORD10803,3,3,2023-09-15,3614.59,735.99
+CUST1804,Noah,Miller,Electronics,Corporate,Bangalore,Maharashtra,India,West,Cancelled,2024-01-16,First Class,0.08,3,Laptop,ORD10804,7,6,2024-01-22,3846.63,835.48
+CUST1805,John,Brown,Electronics,Corporate,Delhi,Maharashtra,India,North,Cancelled,2024-06-25,Same Day,0.2,3,Smartphone,ORD10805,5,4,2024-06-29,922.73,68.78
+CUST1806,Sophia,Johnson,Clothing,Consumer,Delhi,Karnataka,India,South,Shipped,2023-09-21,Standard Class,0.16,3,Jacket,ORD10806,9,8,2023-09-29,2155.74,462.39
+CUST1807,Noah,Martinez,Books,Home Office,Hyderabad,West Bengal,India,East,Delivered,2023-11-25,First Class,0.28,1,Comics,ORD10807,9,9,2023-12-04,2476.77,373.82
+CUST1808,Sophia,Miller,Books,Home Office,Mumbai,Maharashtra,India,North,Returned,2023-04-25,Standard Class,0.12,1,Comics,ORD10808,6,4,2023-04-29,1355.84,307.92
+CUST1809,Isabella,Davis,Books,Consumer,Hyderabad,West Bengal,India,South,Returned,2023-10-03,Second Class,0.21,1,Textbook,ORD10809,9,8,2023-10-11,2689.85,611.45
+CUST1810,Michael,Johnson,Clothing,Corporate,Hyderabad,Tamil Nadu,India,North,Shipped,2024-05-02,First Class,0.15,2,Jacket,ORD10810,9,7,2024-05-09,1524.88,83.62
+CUST1811,Noah,Jones,Electronics,Home Office,Mumbai,Delhi,India,South,Cancelled,2023-10-08,Standard Class,0.15,3,Smartwatch,ORD10811,2,2,2023-10-10,3468.76,439.05
+CUST1812,Emma,Smith,Clothing,Corporate,Bangalore,Delhi,India,North,Delivered,2023-10-02,Same Day,0.08,4,Jacket,ORD10812,3,3,2023-10-05,2404.41,373.36
+CUST1813,Sophia,Miller,Beauty,Consumer,Hyderabad,Delhi,India,South,Cancelled,2023-11-24,Second Class,0.14,4,Shampoo,ORD10813,5,7,2023-12-01,2348.15,435.99
+CUST1814,Olivia,Davis,Beauty,Corporate,Bangalore,West Bengal,India,North,Returned,2023-07-30,Second Class,0.14,3,Perfume,ORD10814,8,7,2023-08-06,4919.85,527.59
+CUST1815,Emma,Garcia,Clothing,Home Office,Hyderabad,West Bengal,India,South,Cancelled,2024-07-05,Second Class,0.21,4,Jacket,ORD10815,5,7,2024-07-12,2022.98,203.16
+CUST1816,Ava,Jones,Books,Home Office,Chennai,Karnataka,India,North,Returned,2023-01-26,Same Day,0.28,2,Fiction Novel,ORD10816,5,4,2023-01-30,1875.25,236.76
+CUST1817,Ava,Garcia,Electronics,Corporate,Mumbai,Delhi,India,East,Delivered,2023-01-27,Same Day,0.1,2,Smartphone,ORD10817,2,2,2023-01-29,1661.16,249.49
+CUST1818,John,Johnson,Clothing,Consumer,Hyderabad,Karnataka,India,East,Delivered,2023-03-24,First Class,0.01,1,T-Shirt,ORD10818,4,4,2023-03-28,4484.27,1077.25
+CUST1819,Michael,Smith,Clothing,Corporate,Chennai,Delhi,India,West,Shipped,2024-02-17,Same Day,0.15,1,Dress,ORD10819,7,8,2024-02-25,2533.95,512.93
+CUST1820,Isabella,Miller,Clothing,Consumer,Kolkata,Karnataka,India,South,Shipped,2023-06-16,First Class,0.16,1,T-Shirt,ORD10820,7,8,2023-06-24,3040.07,413.04
+CUST1821,Noah,Miller,Home & Kitchen,Corporate,Chennai,Karnataka,India,North,Cancelled,2023-06-18,Second Class,0.05,1,Vacuum Cleaner,ORD10821,8,8,2023-06-26,986.01,60.02
+CUST1822,David,Martinez,Beauty,Home Office,Delhi,Tamil Nadu,India,South,Delivered,2023-08-17,First Class,0.23,1,Lipstick,ORD10822,9,9,2023-08-26,2750.62,230.24
+CUST1823,Olivia,Martinez,Toys,Consumer,Hyderabad,Karnataka,India,East,Delivered,2024-01-02,Standard Class,0.3,4,Doll,ORD10823,6,4,2024-01-06,1445.78,204.12
+CUST1824,Sophia,Johnson,Books,Consumer,Chennai,West Bengal,India,South,Shipped,2024-06-11,Second Class,0.28,4,Biography,ORD10824,8,6,2024-06-17,3680.12,783.0
+CUST1825,Isabella,Johnson,Sports,Consumer,Bangalore,Karnataka,India,North,Returned,2024-06-21,Second Class,0.06,1,Football,ORD10825,4,6,2024-06-27,4179.39,527.18
+CUST1826,Emma,Smith,Toys,Home Office,Kolkata,Delhi,India,South,Cancelled,2024-06-07,First Class,0.26,2,Puzzle,ORD10826,7,8,2024-06-15,3602.57,568.12
+CUST1827,Ava,Martinez,Books,Corporate,Hyderabad,Karnataka,India,North,Cancelled,2023-03-13,Second Class,0.21,4,Biography,ORD10827,6,7,2023-03-20,3678.2,839.96
+CUST1828,Olivia,Davis,Sports,Home Office,Delhi,Maharashtra,India,East,Shipped,2023-04-16,Same Day,0.14,2,Dumbbells,ORD10828,8,8,2023-04-24,2611.13,607.76
+CUST1829,David,Davis,Home & Kitchen,Consumer,Chennai,Telangana,India,East,Delivered,2023-10-09,Standard Class,0.16,2,Lamp,ORD10829,6,6,2023-10-15,3589.38,334.37
+CUST1830,Noah,Smith,Clothing,Corporate,Kolkata,Delhi,India,East,Shipped,2023-05-13,First Class,0.25,3,Jeans,ORD10830,5,7,2023-05-20,2171.17,127.49
+CUST1831,John,Davis,Home & Kitchen,Home Office,Hyderabad,Maharashtra,India,West,Shipped,2024-06-17,First Class,0.14,3,Mixer,ORD10831,3,4,2024-06-21,3292.3,365.72
+CUST1832,David,Rodriguez,Home & Kitchen,Consumer,Kolkata,Delhi,India,East,Shipped,2023-09-26,Second Class,0.11,1,Lamp,ORD10832,5,3,2023-09-29,1369.29,259.02
+CUST1833,Olivia,Brown,Toys,Consumer,Delhi,West Bengal,India,South,Shipped,2024-02-16,Same Day,0.15,2,Puzzle,ORD10833,2,1,2024-02-17,441.81,106.13
+CUST1834,David,Smith,Electronics,Home Office,Chennai,Telangana,India,West,Returned,2023-01-18,Second Class,0.17,4,Headphones,ORD10834,9,11,2023-01-29,2126.02,139.06
+CUST1835,Olivia,Smith,Toys,Home Office,Kolkata,Telangana,India,East,Returned,2023-04-27,Second Class,0.06,3,Board Game,ORD10835,7,6,2023-05-03,2362.71,131.6
+CUST1836,Olivia,Williams,Beauty,Home Office,Kolkata,West Bengal,India,South,Delivered,2023-05-24,First Class,0.27,3,Moisturizer,ORD10836,6,4,2023-05-28,1356.4,307.67
+CUST1837,Liam,Jones,Sports,Consumer,Mumbai,Telangana,India,South,Shipped,2024-07-04,Second Class,0.2,2,Football,ORD10837,8,6,2024-07-10,3665.78,731.8
+CUST1838,Sophia,Jones,Clothing,Home Office,Kolkata,West Bengal,India,South,Returned,2024-02-26,Standard Class,0.19,3,Jacket,ORD10838,9,8,2024-03-05,460.4,114.39
+CUST1839,Ava,Rodriguez,Toys,Consumer,Mumbai,Maharashtra,India,North,Delivered,2024-01-04,Second Class,0.03,3,Board Game,ORD10839,3,5,2024-01-09,1191.47,154.13
+CUST1840,Liam,Martinez,Sports,Home Office,Chennai,Tamil Nadu,India,West,Shipped,2024-07-11,Second Class,0.18,4,Yoga Mat,ORD10840,8,7,2024-07-18,3767.97,501.93
+CUST1841,Noah,Johnson,Books,Consumer,Hyderabad,Delhi,India,South,Cancelled,2023-02-19,First Class,0.04,2,Fiction Novel,ORD10841,7,9,2023-02-28,2241.91,189.36
+CUST1842,Liam,Johnson,Sports,Consumer,Hyderabad,West Bengal,India,North,Returned,2023-04-16,Second Class,0.02,3,Football,ORD10842,6,8,2023-04-24,3555.89,260.18
+CUST1843,Michael,Garcia,Books,Corporate,Chennai,Delhi,India,East,Delivered,2023-08-04,Same Day,0.16,2,Comics,ORD10843,6,6,2023-08-10,2880.68,477.45
+CUST1844,Michael,Rodriguez,Toys,Home Office,Chennai,Maharashtra,India,South,Cancelled,2024-02-29,First Class,0.12,3,Doll,ORD10844,5,6,2024-03-06,4758.49,584.61
+CUST1845,Ava,Smith,Beauty,Home Office,Bangalore,Tamil Nadu,India,North,Shipped,2023-03-13,Second Class,0.18,4,Shampoo,ORD10845,3,4,2023-03-17,3029.2,200.12
+CUST1846,David,Rodriguez,Toys,Consumer,Chennai,Maharashtra,India,South,Shipped,2024-03-21,Standard Class,0.03,2,Action Figure,ORD10846,3,1,2024-03-22,172.86,39.31
+CUST1847,Sophia,Rodriguez,Books,Consumer,Kolkata,Telangana,India,West,Shipped,2023-07-05,Standard Class,0.13,3,Biography,ORD10847,7,7,2023-07-12,1829.1,164.02
+CUST1848,Ava,Rodriguez,Sports,Consumer,Hyderabad,Delhi,India,West,Returned,2023-03-11,First Class,0.05,4,Yoga Mat,ORD10848,6,7,2023-03-18,801.0,159.97
+CUST1849,Olivia,Jones,Sports,Corporate,Delhi,Tamil Nadu,India,East,Delivered,2023-05-30,First Class,0.3,3,Dumbbells,ORD10849,9,11,2023-06-10,4630.71,492.92
+CUST1850,Emma,Rodriguez,Books,Corporate,Hyderabad,Telangana,India,South,Cancelled,2023-09-03,Second Class,0.17,2,Fiction Novel,ORD10850,3,5,2023-09-08,609.66,129.6
+CUST1851,Sophia,Brown,Home & Kitchen,Consumer,Mumbai,Tamil Nadu,India,North,Delivered,2024-06-21,Same Day,0.21,3,Lamp,ORD10851,3,2,2024-06-23,1999.76,147.34
+CUST1852,Sophia,Johnson,Beauty,Home Office,Hyderabad,Telangana,India,East,Returned,2023-04-09,Second Class,0.1,2,Moisturizer,ORD10852,8,7,2023-04-16,1207.89,243.04
+CUST1853,Olivia,Garcia,Electronics,Home Office,Bangalore,Maharashtra,India,South,Delivered,2023-10-05,Standard Class,0.03,2,Smartphone,ORD10853,7,9,2023-10-14,4248.94,295.83
+CUST1854,Olivia,Brown,Clothing,Corporate,Chennai,West Bengal,India,East,Returned,2024-07-16,Same Day,0.29,3,Jacket,ORD10854,5,7,2024-07-23,1611.98,224.68
+CUST1855,John,Garcia,Sports,Corporate,Chennai,Delhi,India,North,Shipped,2024-03-30,Same Day,0.09,4,Football,ORD10855,8,7,2024-04-06,4960.28,976.19
+CUST1856,Ava,Williams,Clothing,Consumer,Hyderabad,Karnataka,India,East,Cancelled,2023-04-14,Same Day,0.13,1,Jacket,ORD10856,8,9,2023-04-23,289.22,24.48
+CUST1857,Olivia,Garcia,Electronics,Home Office,Delhi,Karnataka,India,East,Shipped,2023-08-21,Second Class,0.19,4,Smartwatch,ORD10857,4,2,2023-08-23,728.56,78.05
+CUST1858,Michael,Johnson,Toys,Consumer,Delhi,Maharashtra,India,East,Delivered,2024-01-29,Standard Class,0.01,4,Action Figure,ORD10858,2,1,2024-01-30,1200.73,267.71
+CUST1859,Noah,Johnson,Clothing,Corporate,Bangalore,Delhi,India,South,Shipped,2024-05-15,First Class,0.24,3,Jeans,ORD10859,4,5,2024-05-20,4074.42,924.99
+CUST1860,Emma,Rodriguez,Electronics,Home Office,Mumbai,Delhi,India,North,Cancelled,2023-09-08,Second Class,0.16,4,Headphones,ORD10860,3,4,2023-09-12,4404.73,259.82
+CUST1861,Ava,Miller,Books,Home Office,Hyderabad,Maharashtra,India,West,Shipped,2024-06-04,First Class,0.08,4,Biography,ORD10861,6,7,2024-06-11,450.11,37.64
+CUST1862,Isabella,Williams,Home & Kitchen,Corporate,Chennai,Delhi,India,South,Cancelled,2023-03-20,Same Day,0.02,1,Cookware Set,ORD10862,2,2,2023-03-22,259.05,19.04
+CUST1863,Michael,Smith,Sports,Consumer,Hyderabad,West Bengal,India,West,Cancelled,2023-02-21,Same Day,0.05,4,Football,ORD10863,2,2,2023-02-23,3748.33,322.13
+CUST1864,David,Davis,Electronics,Consumer,Bangalore,Maharashtra,India,West,Shipped,2023-08-14,Second Class,0.27,1,Laptop,ORD10864,6,7,2023-08-21,753.42,183.86
+CUST1865,Olivia,Garcia,Clothing,Home Office,Kolkata,West Bengal,India,South,Returned,2023-02-20,Standard Class,0.21,3,T-Shirt,ORD10865,2,4,2023-02-24,751.69,120.52
+CUST1866,Isabella,Miller,Sports,Corporate,Kolkata,Delhi,India,South,Delivered,2023-07-05,Same Day,0.07,1,Yoga Mat,ORD10866,6,6,2023-07-11,209.6,30.1
+CUST1867,Olivia,Rodriguez,Home & Kitchen,Home Office,Bangalore,Maharashtra,India,North,Returned,2023-02-03,First Class,0.02,2,Cookware Set,ORD10867,2,1,2023-02-04,344.06,84.95
+CUST1868,Sophia,Jones,Books,Corporate,Chennai,Delhi,India,North,Returned,2023-05-11,First Class,0.21,2,Textbook,ORD10868,8,8,2023-05-19,1392.01,224.66
+CUST1869,Michael,Smith,Toys,Consumer,Bangalore,Maharashtra,India,East,Shipped,2024-03-18,Second Class,0.17,1,Board Game,ORD10869,9,11,2024-03-29,418.53,76.27
+CUST1870,Sophia,Martinez,Sports,Corporate,Chennai,Delhi,India,West,Delivered,2024-03-07,First Class,0.12,2,Dumbbells,ORD10870,7,5,2024-03-12,1907.51,222.33
+CUST1871,John,Miller,Toys,Consumer,Delhi,West Bengal,India,North,Delivered,2024-05-11,Standard Class,0.11,3,Board Game,ORD10871,7,7,2024-05-18,4180.6,528.52
+CUST1872,Sophia,Jones,Electronics,Corporate,Bangalore,West Bengal,India,East,Returned,2024-02-07,Same Day,0.07,2,Laptop,ORD10872,4,5,2024-02-12,1698.97,286.93
+CUST1873,John,Williams,Home & Kitchen,Home Office,Chennai,Delhi,India,North,Shipped,2023-11-19,First Class,0.2,1,Cookware Set,ORD10873,8,9,2023-11-28,3666.39,234.49
+CUST1874,John,Rodriguez,Clothing,Consumer,Bangalore,Maharashtra,India,South,Delivered,2023-07-29,First Class,0.29,3,T-Shirt,ORD10874,2,3,2023-08-01,560.16,56.68
+CUST1875,Isabella,Smith,Home & Kitchen,Home Office,Bangalore,Karnataka,India,North,Returned,2023-11-25,Same Day,0.05,2,Lamp,ORD10875,5,3,2023-11-28,3330.94,297.66
+CUST1876,Olivia,Smith,Home & Kitchen,Home Office,Chennai,West Bengal,India,West,Delivered,2024-01-07,Second Class,0.18,3,Vacuum Cleaner,ORD10876,6,8,2024-01-15,1652.06,87.85
+CUST1877,David,Smith,Beauty,Consumer,Chennai,West Bengal,India,North,Shipped,2024-04-04,First Class,0.13,1,Moisturizer,ORD10877,8,7,2024-04-11,3773.79,593.92
+CUST1878,Sophia,Williams,Home & Kitchen,Consumer,Mumbai,Telangana,India,West,Shipped,2023-05-13,Second Class,0.13,2,Lamp,ORD10878,2,4,2023-05-17,767.63,124.52
+CUST1879,Michael,Garcia,Home & Kitchen,Home Office,Bangalore,Karnataka,India,South,Shipped,2023-05-01,Second Class,0.08,3,Lamp,ORD10879,7,5,2023-05-06,4499.63,570.5
+CUST1880,John,Martinez,Sports,Home Office,Kolkata,Delhi,India,West,Delivered,2024-03-27,First Class,0.25,3,Football,ORD10880,7,8,2024-04-04,1288.63,133.69
+CUST1881,Olivia,Williams,Clothing,Home Office,Bangalore,Maharashtra,India,North,Cancelled,2023-05-09,Standard Class,0.15,2,Dress,ORD10881,6,8,2023-05-17,1830.38,330.22
+CUST1882,Emma,Davis,Sports,Home Office,Bangalore,Telangana,India,East,Delivered,2023-04-01,Second Class,0.16,3,Dumbbells,ORD10882,5,4,2023-04-05,4755.89,365.88
+CUST1883,Ava,Martinez,Sports,Consumer,Chennai,Delhi,India,South,Cancelled,2024-07-28,First Class,0.09,3,Yoga Mat,ORD10883,2,3,2024-07-31,2934.56,451.11
+CUST1884,Isabella,Johnson,Electronics,Consumer,Bangalore,Tamil Nadu,India,North,Shipped,2023-01-29,Second Class,0.05,1,Smartphone,ORD10884,2,1,2023-01-30,1892.28,385.3
+CUST1885,David,Rodriguez,Sports,Home Office,Hyderabad,West Bengal,India,South,Returned,2024-06-07,Same Day,0.03,1,Tennis Racket,ORD10885,5,5,2024-06-12,4753.05,393.84
+CUST1886,Liam,Williams,Beauty,Corporate,Bangalore,Tamil Nadu,India,South,Cancelled,2023-11-29,Standard Class,0.21,1,Perfume,ORD10886,5,4,2023-12-03,1712.48,343.61
+CUST1887,Isabella,Jones,Beauty,Corporate,Hyderabad,West Bengal,India,North,Shipped,2023-10-24,Standard Class,0.06,1,Perfume,ORD10887,5,6,2023-10-30,564.87,114.19
+CUST1888,Emma,Martinez,Toys,Consumer,Kolkata,West Bengal,India,North,Shipped,2023-05-10,Same Day,0.21,1,Action Figure,ORD10888,7,7,2023-05-17,4984.56,308.97
+CUST1889,Ava,Davis,Electronics,Home Office,Chennai,Tamil Nadu,India,East,Cancelled,2023-10-20,Same Day,0.12,1,Laptop,ORD10889,6,7,2023-10-27,1412.44,75.93
+CUST1890,Emma,Johnson,Toys,Home Office,Bangalore,Tamil Nadu,India,South,Returned,2023-06-22,Second Class,0.12,2,Action Figure,ORD10890,8,9,2023-07-01,4271.16,1045.52
+CUST1891,Sophia,Garcia,Toys,Consumer,Hyderabad,Delhi,India,South,Shipped,2023-01-24,Same Day,0.14,1,Board Game,ORD10891,9,9,2023-02-02,911.15,80.8
+CUST1892,John,Jones,Books,Corporate,Hyderabad,Telangana,India,North,Cancelled,2023-04-09,Standard Class,0.11,3,Textbook,ORD10892,5,4,2023-04-13,3683.63,789.87
+CUST1893,David,Martinez,Clothing,Corporate,Hyderabad,Telangana,India,West,Returned,2024-02-10,Same Day,0.03,2,T-Shirt,ORD10893,6,4,2024-02-14,2669.8,433.5
+CUST1894,Noah,Rodriguez,Clothing,Corporate,Delhi,Tamil Nadu,India,North,Returned,2023-12-22,First Class,0.09,3,Jeans,ORD10894,4,2,2023-12-24,4906.44,504.85
+CUST1895,John,Jones,Sports,Consumer,Mumbai,Delhi,India,South,Shipped,2023-05-19,First Class,0.2,1,Football,ORD10895,2,0,2023-05-19,2808.87,213.46
+CUST1896,Noah,Johnson,Sports,Corporate,Kolkata,Telangana,India,North,Delivered,2024-05-17,Second Class,0.2,1,Football,ORD10896,2,0,2024-05-17,222.57,33.24
+CUST1897,Ava,Jones,Books,Consumer,Bangalore,Delhi,India,East,Delivered,2023-06-23,Standard Class,0.09,3,Comics,ORD10897,9,11,2023-07-04,3059.0,402.17
+CUST1898,Olivia,Brown,Sports,Consumer,Delhi,Delhi,India,West,Shipped,2023-01-29,First Class,0.14,3,Football,ORD10898,9,7,2023-02-05,812.05,154.11
+CUST1899,Liam,Miller,Clothing,Home Office,Bangalore,West Bengal,India,North,Returned,2024-05-10,Same Day,0.06,3,Dress,ORD10899,3,3,2024-05-13,4012.85,926.3
+CUST1900,Michael,Garcia,Toys,Corporate,Bangalore,Telangana,India,East,Shipped,2023-12-17,First Class,0.06,4,Board Game,ORD10900,4,2,2023-12-19,4297.18,906.92
+CUST1901,John,Johnson,Home & Kitchen,Consumer,Chennai,Telangana,India,South,Cancelled,2024-07-07,First Class,0.01,4,Lamp,ORD10901,8,9,2024-07-16,2462.26,258.27
+CUST1902,David,Jones,Beauty,Corporate,Chennai,West Bengal,India,North,Delivered,2023-10-26,Second Class,0.27,4,Lipstick,ORD10902,9,7,2023-11-02,3937.79,889.1
+CUST1903,Emma,Miller,Home & Kitchen,Corporate,Chennai,Tamil Nadu,India,South,Cancelled,2023-07-11,Same Day,0.06,4,Cookware Set,ORD10903,5,4,2023-07-15,811.04,175.73
+CUST1904,David,Miller,Home & Kitchen,Home Office,Delhi,West Bengal,India,East,Shipped,2023-03-05,Same Day,0.07,2,Lamp,ORD10904,5,5,2023-03-10,2511.18,592.2
+CUST1905,Ava,Jones,Clothing,Corporate,Bangalore,Telangana,India,South,Shipped,2023-08-03,Same Day,0.08,1,T-Shirt,ORD10905,8,8,2023-08-11,2030.33,287.76
+CUST1906,Noah,Rodriguez,Home & Kitchen,Home Office,Mumbai,Telangana,India,East,Returned,2023-06-15,Second Class,0.04,3,Cookware Set,ORD10906,7,9,2023-06-24,3095.46,630.59
+CUST1907,Emma,Brown,Books,Consumer,Kolkata,Tamil Nadu,India,East,Returned,2024-06-26,Same Day,0.19,1,Comics,ORD10907,4,5,2024-07-01,317.94,53.52
+CUST1908,Michael,Williams,Electronics,Corporate,Chennai,West Bengal,India,East,Returned,2023-08-20,Same Day,0.02,3,Smartphone,ORD10908,5,5,2023-08-25,3785.4,424.35
+CUST1909,Michael,Brown,Sports,Consumer,Chennai,Maharashtra,India,North,Cancelled,2024-06-24,First Class,0.04,1,Football,ORD10909,9,8,2024-07-02,487.73,121.39
+CUST1910,John,Jones,Electronics,Corporate,Bangalore,Maharashtra,India,South,Returned,2023-07-14,First Class,0.19,2,Laptop,ORD10910,3,1,2023-07-15,3316.71,191.25
+CUST1911,Ava,Garcia,Toys,Consumer,Bangalore,Tamil Nadu,India,South,Shipped,2024-05-20,Same Day,0.1,4,Puzzle,ORD10911,6,6,2024-05-26,190.44,15.7
+CUST1912,Olivia,Williams,Beauty,Corporate,Delhi,West Bengal,India,West,Returned,2023-11-30,Standard Class,0.21,1,Moisturizer,ORD10912,2,1,2023-12-01,4176.25,954.31
+CUST1913,Ava,Johnson,Sports,Corporate,Delhi,West Bengal,India,West,Delivered,2023-10-31,Standard Class,0.17,3,Dumbbells,ORD10913,4,2,2023-11-02,956.03,59.38
+CUST1914,Noah,Brown,Home & Kitchen,Corporate,Chennai,Delhi,India,West,Returned,2024-03-12,Same Day,0.08,1,Lamp,ORD10914,2,4,2024-03-16,2625.94,597.04
+CUST1915,David,Jones,Beauty,Corporate,Bangalore,Telangana,India,West,Cancelled,2023-11-19,Standard Class,0.2,2,Lipstick,ORD10915,6,6,2023-11-25,1381.32,266.66
+CUST1916,Michael,Brown,Sports,Corporate,Mumbai,Karnataka,India,South,Delivered,2024-05-16,Second Class,0.03,2,Dumbbells,ORD10916,4,4,2024-05-20,3640.97,208.76
+CUST1917,David,Williams,Books,Corporate,Kolkata,Tamil Nadu,India,East,Delivered,2024-01-28,First Class,0.16,1,Fiction Novel,ORD10917,9,8,2024-02-05,1674.62,227.52
+CUST1918,David,Davis,Books,Corporate,Bangalore,Karnataka,India,East,Delivered,2024-08-21,Second Class,0.13,4,Comics,ORD10918,6,7,2024-08-28,3650.59,733.38
+CUST1919,David,Martinez,Books,Corporate,Bangalore,Karnataka,India,North,Cancelled,2023-05-29,First Class,0.08,3,Fiction Novel,ORD10919,5,7,2023-06-05,1495.87,249.24
+CUST1920,Michael,Brown,Books,Corporate,Hyderabad,Tamil Nadu,India,East,Shipped,2024-02-09,Standard Class,0.18,2,Fiction Novel,ORD10920,8,9,2024-02-18,3787.12,898.21
+CUST1921,Isabella,Johnson,Home & Kitchen,Consumer,Delhi,West Bengal,India,South,Returned,2023-10-10,Standard Class,0.26,2,Vacuum Cleaner,ORD10921,5,5,2023-10-15,249.97,55.88
+CUST1922,Sophia,Johnson,Electronics,Home Office,Kolkata,Tamil Nadu,India,South,Delivered,2023-12-28,Same Day,0.3,1,Headphones,ORD10922,9,10,2024-01-07,1488.23,173.42
+CUST1923,Noah,Smith,Sports,Corporate,Chennai,Karnataka,India,South,Delivered,2024-01-14,Standard Class,0.18,2,Football,ORD10923,8,6,2024-01-20,2543.3,170.21
+CUST1924,Isabella,Brown,Home & Kitchen,Home Office,Bangalore,Telangana,India,North,Delivered,2023-07-17,Standard Class,0.12,2,Lamp,ORD10924,5,7,2023-07-24,320.79,76.62
+CUST1925,Noah,Martinez,Books,Corporate,Chennai,Telangana,India,West,Shipped,2024-07-09,Same Day,0.07,3,Biography,ORD10925,6,7,2024-07-16,1011.57,155.23
+CUST1926,Emma,Rodriguez,Toys,Corporate,Bangalore,Telangana,India,East,Shipped,2023-12-22,Same Day,0.08,4,Doll,ORD10926,6,4,2023-12-26,4679.23,303.59
+CUST1927,Ava,Miller,Electronics,Consumer,Chennai,West Bengal,India,South,Cancelled,2024-06-23,First Class,0.14,3,Smartwatch,ORD10927,6,5,2024-06-28,4886.49,1042.36
+CUST1928,Ava,Martinez,Toys,Consumer,Kolkata,Maharashtra,India,South,Shipped,2024-03-04,Standard Class,0.11,4,Action Figure,ORD10928,2,3,2024-03-07,3724.77,833.24
+CUST1929,Liam,Miller,Beauty,Home Office,Delhi,Tamil Nadu,India,West,Returned,2023-01-17,First Class,0.27,3,Lipstick,ORD10929,9,11,2023-01-28,1335.78,237.62
+CUST1930,Ava,Miller,Toys,Consumer,Kolkata,Telangana,India,South,Cancelled,2024-01-14,First Class,0.11,1,Board Game,ORD10930,6,4,2024-01-18,1376.54,192.03
+CUST1931,Michael,Davis,Beauty,Consumer,Hyderabad,Tamil Nadu,India,East,Cancelled,2024-05-20,Second Class,0.11,2,Lipstick,ORD10931,5,6,2024-05-26,3264.37,595.53
+CUST1932,Olivia,Smith,Beauty,Home Office,Mumbai,Telangana,India,North,Returned,2023-03-17,Standard Class,0.12,4,Lipstick,ORD10932,3,2,2023-03-19,676.24,129.39
+CUST1933,John,Martinez,Books,Consumer,Delhi,West Bengal,India,South,Returned,2023-08-19,Standard Class,0.25,1,Textbook,ORD10933,9,10,2023-08-29,4746.72,1085.13
+CUST1934,Liam,Martinez,Beauty,Corporate,Kolkata,Maharashtra,India,East,Returned,2023-09-05,Second Class,0.2,2,Moisturizer,ORD10934,6,4,2023-09-09,1201.58,289.79
+CUST1935,John,Davis,Clothing,Home Office,Hyderabad,Maharashtra,India,South,Cancelled,2023-10-29,First Class,0.18,2,Jacket,ORD10935,3,4,2023-11-02,4998.21,764.05
+CUST1936,Noah,Brown,Sports,Home Office,Mumbai,Telangana,India,West,Cancelled,2023-08-03,Standard Class,0.1,2,Yoga Mat,ORD10936,8,10,2023-08-13,2529.1,530.35
+CUST1937,John,Brown,Sports,Corporate,Hyderabad,West Bengal,India,South,Cancelled,2023-06-07,First Class,0.25,3,Yoga Mat,ORD10937,5,5,2023-06-12,3880.01,942.46
+CUST1938,John,Brown,Books,Consumer,Bangalore,Delhi,India,South,Returned,2023-03-10,Second Class,0.01,1,Biography,ORD10938,6,4,2023-03-14,110.7,8.88
+CUST1939,Liam,Garcia,Clothing,Home Office,Bangalore,Tamil Nadu,India,North,Returned,2024-01-28,Same Day,0.26,1,Dress,ORD10939,2,0,2024-01-28,4454.86,239.02
+CUST1940,Emma,Miller,Toys,Home Office,Chennai,Tamil Nadu,India,West,Delivered,2023-03-26,First Class,0.15,2,Puzzle,ORD10940,2,0,2023-03-26,1423.01,318.46
+CUST1941,David,Garcia,Home & Kitchen,Corporate,Delhi,Karnataka,India,West,Shipped,2023-09-24,Standard Class,0.12,4,Vacuum Cleaner,ORD10941,8,6,2023-09-30,3372.89,300.37
+CUST1942,Ava,Smith,Toys,Corporate,Bangalore,West Bengal,India,North,Delivered,2023-03-10,Same Day,0.15,1,Action Figure,ORD10942,3,4,2023-03-14,4051.14,236.97
+CUST1943,Ava,Davis,Home & Kitchen,Consumer,Hyderabad,Karnataka,India,South,Returned,2023-12-13,First Class,0.2,3,Cookware Set,ORD10943,7,9,2023-12-22,904.32,74.17
+CUST1944,Michael,Martinez,Beauty,Home Office,Delhi,Telangana,India,East,Cancelled,2024-02-27,First Class,0.0,4,Shampoo,ORD10944,2,1,2024-02-28,2268.3,287.67
+CUST1945,Liam,Miller,Electronics,Consumer,Bangalore,Karnataka,India,West,Returned,2023-06-23,Same Day,0.26,4,Laptop,ORD10945,9,11,2023-07-04,2519.8,236.49
+CUST1946,Michael,Garcia,Home & Kitchen,Consumer,Chennai,Maharashtra,India,West,Shipped,2023-04-25,Same Day,0.13,4,Mixer,ORD10946,2,0,2023-04-25,1629.39,180.94
+CUST1947,Olivia,Garcia,Electronics,Corporate,Kolkata,Tamil Nadu,India,South,Delivered,2023-08-08,Same Day,0.1,4,Smartphone,ORD10947,2,3,2023-08-11,2460.6,602.99
+CUST1948,Olivia,Jones,Sports,Home Office,Chennai,Karnataka,India,South,Delivered,2023-01-31,Standard Class,0.04,1,Football,ORD10948,5,6,2023-02-06,1655.97,316.09
+CUST1949,Michael,Garcia,Electronics,Home Office,Mumbai,Maharashtra,India,West,Cancelled,2024-06-06,Standard Class,0.13,2,Smartwatch,ORD10949,2,0,2024-06-06,1867.66,359.41
+CUST1950,Liam,Rodriguez,Sports,Home Office,Bangalore,West Bengal,India,South,Delivered,2023-12-09,First Class,0.15,4,Tennis Racket,ORD10950,4,5,2023-12-14,3379.72,232.99
+CUST1951,Michael,Martinez,Clothing,Corporate,Mumbai,Karnataka,India,East,Delivered,2024-01-12,First Class,0.12,3,Dress,ORD10951,6,4,2024-01-16,3199.71,628.49
+CUST1952,Ava,Rodriguez,Clothing,Corporate,Mumbai,Telangana,India,West,Returned,2023-05-10,Second Class,0.2,3,T-Shirt,ORD10952,8,10,2023-05-20,1238.1,244.98
+CUST1953,Isabella,Martinez,Books,Corporate,Hyderabad,Telangana,India,East,Delivered,2024-06-22,Standard Class,0.13,2,Fiction Novel,ORD10953,2,2,2024-06-24,4497.67,818.35
+CUST1954,Sophia,Davis,Books,Corporate,Delhi,Telangana,India,East,Delivered,2023-01-02,First Class,0.29,1,Fiction Novel,ORD10954,7,8,2023-01-10,4327.66,414.1
+CUST1955,John,Martinez,Beauty,Corporate,Hyderabad,Tamil Nadu,India,South,Delivered,2023-04-11,Same Day,0.18,2,Shampoo,ORD10955,9,7,2023-04-18,2594.51,349.24
+CUST1956,Sophia,Rodriguez,Home & Kitchen,Home Office,Bangalore,Karnataka,India,East,Cancelled,2024-06-16,Same Day,0.24,4,Vacuum Cleaner,ORD10956,7,5,2024-06-21,2222.93,487.39
+CUST1957,Liam,Martinez,Beauty,Consumer,Mumbai,West Bengal,India,South,Cancelled,2023-02-27,Standard Class,0.03,1,Shampoo,ORD10957,2,3,2023-03-02,1946.59,358.25
+CUST1958,Sophia,Davis,Sports,Home Office,Kolkata,Karnataka,India,North,Returned,2024-01-24,Same Day,0.12,1,Dumbbells,ORD10958,2,1,2024-01-25,3565.61,700.83
+CUST1959,Olivia,Davis,Beauty,Consumer,Mumbai,Tamil Nadu,India,South,Delivered,2023-12-07,Second Class,0.1,4,Shampoo,ORD10959,4,2,2023-12-09,3391.16,567.93
+CUST1960,Noah,Smith,Electronics,Corporate,Kolkata,Maharashtra,India,East,Cancelled,2023-01-20,First Class,0.17,3,Laptop,ORD10960,2,3,2023-01-23,1061.28,148.49
+CUST1961,John,Martinez,Sports,Consumer,Hyderabad,Tamil Nadu,India,North,Cancelled,2023-09-12,First Class,0.26,4,Yoga Mat,ORD10961,2,0,2023-09-12,3390.14,684.17
+CUST1962,David,Jones,Books,Home Office,Hyderabad,Telangana,India,South,Returned,2023-11-13,First Class,0.02,2,Fiction Novel,ORD10962,6,5,2023-11-18,1336.91,85.01
+CUST1963,Liam,Brown,Clothing,Home Office,Delhi,Maharashtra,India,East,Shipped,2023-02-07,Standard Class,0.02,4,Dress,ORD10963,7,7,2023-02-14,190.94,35.25
+CUST1964,John,Johnson,Books,Consumer,Mumbai,Telangana,India,West,Delivered,2024-06-20,Same Day,0.26,3,Comics,ORD10964,4,3,2024-06-23,3526.12,879.56
+CUST1965,Sophia,Davis,Home & Kitchen,Corporate,Chennai,Delhi,India,West,Cancelled,2024-01-21,Second Class,0.06,4,Mixer,ORD10965,7,9,2024-01-30,3259.49,671.58
+CUST1966,Olivia,Williams,Sports,Corporate,Hyderabad,Tamil Nadu,India,South,Returned,2023-01-26,Standard Class,0.2,2,Football,ORD10966,4,5,2023-01-31,2112.97,228.44
+CUST1967,Emma,Brown,Sports,Home Office,Hyderabad,Tamil Nadu,India,South,Returned,2024-03-29,First Class,0.16,2,Football,ORD10967,7,6,2024-04-04,2675.86,282.47
+CUST1968,Isabella,Miller,Electronics,Consumer,Delhi,West Bengal,India,West,Returned,2023-11-19,Second Class,0.25,3,Laptop,ORD10968,2,2,2023-11-21,4741.13,869.73
+CUST1969,David,Martinez,Home & Kitchen,Corporate,Kolkata,Karnataka,India,East,Cancelled,2024-05-27,First Class,0.04,2,Cookware Set,ORD10969,7,5,2024-06-01,3016.48,691.29
+CUST1970,Isabella,Rodriguez,Clothing,Corporate,Delhi,Maharashtra,India,East,Delivered,2023-01-13,First Class,0.04,2,Dress,ORD10970,7,8,2023-01-21,3323.63,550.36
+CUST1971,John,Johnson,Toys,Home Office,Mumbai,Maharashtra,India,East,Shipped,2024-07-13,Standard Class,0.17,4,Board Game,ORD10971,4,3,2024-07-16,413.17,64.24
+CUST1972,Olivia,Williams,Sports,Corporate,Bangalore,West Bengal,India,South,Delivered,2024-01-06,First Class,0.28,1,Football,ORD10972,8,8,2024-01-14,913.37,74.97
+CUST1973,Olivia,Brown,Sports,Consumer,Bangalore,West Bengal,India,North,Returned,2023-10-18,Second Class,0.12,2,Football,ORD10973,3,2,2023-10-20,1574.67,304.06
+CUST1974,Sophia,Martinez,Electronics,Home Office,Kolkata,Karnataka,India,North,Returned,2023-11-28,First Class,0.1,2,Headphones,ORD10974,4,6,2023-12-04,2742.96,522.42
+CUST1975,Ava,Smith,Beauty,Home Office,Hyderabad,Telangana,India,North,Shipped,2023-09-18,Same Day,0.18,3,Moisturizer,ORD10975,4,5,2023-09-23,3905.3,950.51
+CUST1976,Sophia,Miller,Clothing,Consumer,Kolkata,Karnataka,India,North,Delivered,2023-07-24,First Class,0.28,3,Jeans,ORD10976,4,2,2023-07-26,1674.08,184.21
+CUST1977,Ava,Johnson,Books,Home Office,Hyderabad,Tamil Nadu,India,North,Returned,2024-01-22,Standard Class,0.25,4,Textbook,ORD10977,5,5,2024-01-27,1846.27,371.63
+CUST1978,Ava,Jones,Home & Kitchen,Corporate,Hyderabad,Telangana,India,South,Returned,2024-04-12,Second Class,0.3,4,Mixer,ORD10978,8,7,2024-04-19,1355.14,185.4
+CUST1979,David,Smith,Sports,Corporate,Bangalore,Delhi,India,South,Delivered,2024-02-19,Standard Class,0.01,2,Football,ORD10979,5,6,2024-02-25,1347.59,217.9
+CUST1980,Sophia,Williams,Sports,Consumer,Kolkata,Karnataka,India,North,Returned,2023-03-10,Same Day,0.03,1,Tennis Racket,ORD10980,5,4,2023-03-14,4749.43,1013.01
+CUST1981,Emma,Johnson,Books,Corporate,Delhi,West Bengal,India,South,Delivered,2024-04-16,First Class,0.18,1,Textbook,ORD10981,4,5,2024-04-21,3213.74,303.37
+CUST1982,Michael,Smith,Clothing,Consumer,Hyderabad,Telangana,India,South,Returned,2023-04-14,Standard Class,0.25,4,Jeans,ORD10982,3,5,2023-04-19,863.92,102.44
+CUST1983,Michael,Miller,Beauty,Consumer,Chennai,Karnataka,India,North,Delivered,2023-06-10,Standard Class,0.09,3,Perfume,ORD10983,4,3,2023-06-13,3639.02,744.77
+CUST1984,Sophia,Jones,Sports,Corporate,Chennai,Maharashtra,India,East,Shipped,2023-07-19,Standard Class,0.07,2,Dumbbells,ORD10984,2,4,2023-07-23,3637.9,596.95
+CUST1985,Sophia,Smith,Clothing,Consumer,Delhi,Delhi,India,South,Returned,2023-08-04,Standard Class,0.24,2,Dress,ORD10985,3,3,2023-08-07,3365.7,230.5
+CUST1986,Isabella,Garcia,Books,Corporate,Chennai,Tamil Nadu,India,East,Shipped,2023-07-31,Same Day,0.02,1,Fiction Novel,ORD10986,5,7,2023-08-07,760.13,103.41
+CUST1987,David,Jones,Electronics,Home Office,Mumbai,Maharashtra,India,South,Returned,2024-05-22,Same Day,0.11,4,Headphones,ORD10987,9,10,2024-06-01,2099.16,351.25
+CUST1988,Sophia,Williams,Beauty,Home Office,Hyderabad,Maharashtra,India,South,Returned,2023-01-16,First Class,0.15,1,Moisturizer,ORD10988,7,7,2023-01-23,623.11,144.5
+CUST1989,Isabella,Miller,Home & Kitchen,Consumer,Delhi,Delhi,India,North,Cancelled,2024-05-12,First Class,0.17,1,Mixer,ORD10989,7,6,2024-05-18,4101.44,359.69
+CUST1990,Ava,Martinez,Sports,Corporate,Kolkata,Tamil Nadu,India,South,Delivered,2023-11-28,Second Class,0.22,4,Yoga Mat,ORD10990,8,7,2023-12-05,3310.34,699.11
+CUST1991,Olivia,Rodriguez,Clothing,Corporate,Hyderabad,West Bengal,India,West,Shipped,2024-07-04,Same Day,0.11,3,T-Shirt,ORD10991,9,10,2024-07-14,2585.3,196.81
+CUST1992,Olivia,Rodriguez,Electronics,Home Office,Delhi,Telangana,India,West,Shipped,2023-09-13,Standard Class,0.18,2,Smartwatch,ORD10992,6,4,2023-09-17,1780.78,175.31
+CUST1993,Ava,Rodriguez,Home & Kitchen,Home Office,Bangalore,Tamil Nadu,India,North,Shipped,2023-06-21,Standard Class,0.18,3,Mixer,ORD10993,8,6,2023-06-27,1002.82,98.95
+CUST1994,Liam,Johnson,Toys,Corporate,Kolkata,Karnataka,India,East,Delivered,2024-05-12,Second Class,0.16,4,Board Game,ORD10994,3,2,2024-05-14,621.59,140.17
+CUST1995,Isabella,Williams,Clothing,Consumer,Bangalore,Maharashtra,India,East,Cancelled,2024-04-15,Standard Class,0.19,4,Jacket,ORD10995,5,6,2024-04-21,4849.28,435.48
+CUST1996,Isabella,Miller,Clothing,Home Office,Hyderabad,Karnataka,India,East,Shipped,2024-01-19,Second Class,0.08,2,T-Shirt,ORD10996,3,1,2024-01-20,1078.28,223.63
+CUST1997,Ava,Jones,Home & Kitchen,Consumer,Kolkata,West Bengal,India,West,Delivered,2024-08-11,First Class,0.03,3,Cookware Set,ORD10997,3,5,2024-08-16,393.39,56.0
+CUST1998,Emma,Johnson,Electronics,Consumer,Chennai,Karnataka,India,East,Returned,2024-05-21,Same Day,0.04,2,Smartphone,ORD10998,7,6,2024-05-27,4812.17,1202.17
+CUST1999,Noah,Williams,Toys,Home Office,Delhi,Tamil Nadu,India,East,Shipped,2024-06-10,Second Class,0.07,1,Board Game,ORD10999,4,6,2024-06-16,2789.86,607.68
